@@ -1,0 +1,153 @@
+/* ===============================
+   RESET
+================================= */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+
+  overflow-x: hidden;
+
+  background: #ffffff;
+  color: #111827;
+
+
+
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+html,
+body,
+button,
+input,
+textarea,
+select {
+  font-family: "IRANSans", sans-serif !important;
+}
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+/* ===============================
+   MEDIA
+================================= */
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* ===============================
+   LINKS
+================================= */
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* ===============================
+   LISTS
+================================= */
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+}
+
+/* ===============================
+   TYPOGRAPHY
+================================= */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+/* ===============================
+   FORM ELEMENTS
+================================= */
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* ===============================
+   WORDPRESS
+================================= */
+
+.wp-site-blocks {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.ast-container {
+  max-width: 100% !important;
+}
+
+/* ===============================
+   UTILITIES
+================================= */
+
+.seamerco-container {
+  width: min(100% - 2rem, 1400px);
+  margin-inline: auto;
+}
+
+.seamerco-section {
+  position: relative;
+  padding-block: clamp(4rem, 8vw, 7rem);
+}
+
+.seamerco-title {
+  font-size: clamp(2rem, 4vw, 4rem);
+  line-height: 1.05;
+  font-weight: 800;
+}
+
+.seamerco-text {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #475467;
+}

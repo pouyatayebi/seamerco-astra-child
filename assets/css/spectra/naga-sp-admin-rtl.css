@@ -1,0 +1,222 @@
+/* Spectra / Gutenberg */
+/* RTL Admin CSS by NagaTheme */
+/* Spectra > Font */
+.uag-menu-page-wrapper {
+    font-family: inherit !important;
+}
+
+/* Spectra > Blocks > Button */
+.uag-multibutton-icons .uagb-multi-button-button-group {
+    flex-direction: row-reverse !important;
+}
+
+/* Spectra > Blocks > Container */
+.block-editor-block-variation-picker__variation.components-button.has-icon.is-secondary {
+    transform: rotateY(180deg) !important;
+}
+
+/* Spectra > Blocks > Team */
+html[dir=rtl] .wp-block-uagb-team.uagb-team__image-position-above.uagb-team__align-right .uagb-team__content {
+    text-align: right !important;
+}
+
+html[dir=rtl] .wp-block-uagb-team.uagb-team__image-position-above.uagb-team__align-left .uagb-team__content {
+    text-align: left !important;
+}
+
+html[dir=rtl] .wp-block-uagb-team.uagb-team__image-position-right .uagb-team__content {
+    text-align: right !important;
+}
+
+.wp-block-uagb-team.uagb-team__stack-tablet {
+    flex-direction: row-reverse;
+}
+
+html[dir=rtl] .wp-block-uagb-team.uagb-team__image-position-left .uagb-team__content {
+    text-align: left !important;
+}
+
+.wp-block-uagb-team.uagb-team__stack-none {
+    flex-direction: row-reverse;
+}
+
+.wp-block-uagb-team.uagb-team__stack-mobile {
+    flex-direction: row-reverse;
+}
+
+/* Spectra > Blocks > Tab */
+.uagb-tabs__wrap ul.uagb-tabs__panel li.uagb-tab a {
+    flex-direction: row-reverse;
+}
+
+.editor-styles-wrapper .uagb-tabs__wrap li.uagb-tab a.uagb-tabs__icon-position-right {
+    flex-direction: row-reverse;
+}
+
+/* Spectra > Blocks > Star Ratings */
+
+/* Spectra > Blocks > Social Share */
+.uagb-social-share__outer-wrap {
+    flex-direction: row-reverse !important;
+}
+
+/* Spectra > Blocks > separator */
+.wp-block-uagb-separator--text .wp-block-uagb-separator__inner,
+.wp-block-uagb-separator--icon .wp-block-uagb-separator__inner {
+    flex-direction: row-reverse;
+}
+
+/* Spectra > Blocks > Review */
+.editor-styles-wrapper [data-type="uagb/review"] .uagb_review_entry div:nth-child(2) {
+    flex-direction: row-reverse;
+}
+
+.wp-block-uagb-marketing-button.uagb-marketing-btn__align-left,
+.wp-block-uagb-marketing-button.uagb-marketing-btn__align-text-left .uagb-marketing-btn__title-wrap,
+.wp-block-uagb-marketing-button.uagb-marketing-btn__align-text-left .uagb-marketing-btn__link {
+    justify-content: flex-end !important;
+}
+
+/* Spectra > Blocks > Icon List */
+[class*="uagb-block-"] .uagb-icon-list__source-wrap {
+    margin-left: 15px !important;
+    margin-right: unset !important;
+}
+
+/* Spectra > Blocks > TimeLine */
+.uagb-timeline__center-block .uagb-timeline__right .uagb-timeline__arrow {
+    left: -10px !important;
+    right: unset !important;
+}
+
+.rtl .uagb-timeline__center-block .uagb-timeline__day-right .uagb-timeline__arrow::after {
+    right: unset !important;
+}
+
+.uagb-timeline__center-block .uagb-timeline__left .uagb-timeline__arrow {
+    left: unset !important;
+    right: -10px !important;
+}
+
+.rtl .uagb-timeline__center-block .uagb-timeline__day-left .uagb-timeline__arrow::after {
+    right: unset !important;
+}
+
+.uagb-timeline__day-right .uagb-timeline__arrow::after {
+    right: unset !important;
+}
+
+.uagb-timeline__day-left .uagb-timeline__arrow::after {
+    right: unset !important;
+}
+
+/* Spectra > Blocks > Inline Notice */
+.rich-text.block-editor-rich-text__editable.uagb-notice-title {
+    border-right: 10px solid #FFD54F !important;
+    border-left: unset !important;
+}
+
+.editor-styles-wrapper .rich-text.block-editor-rich-text__editable.uagb-notice-text {
+    border-right: 10px solid #FFD54F !important;
+    border-left: unset !important;
+}
+
+.rtl .wp-block-uagb-inline-notice.uagb-inline_notice__align-center {
+    text-align: center !important;
+}
+
+.rtl .wp-block-uagb-inline-notice.uagb-inline_notice__align-left {
+    text-align: left !important;
+}
+
+.rtl .wp-block-uagb-inline-notice.uagb-inline_notice__align-right {
+    text-align: right !important;
+}
+
+/* Spectra > Settings */
+.uagb-spacing-control .uagb-spacing-control__inputs> :first-child.uagb-spacing-control__number {
+    -webkit-border-radius: 0px 3px 3px 0px !important;
+    -moz-border-radius: 0px 3px 3px 0px !important;
+    border-radius: 0px 3px 3px 0px !important;
+}
+
+.uagb-spacing-control .uagb-spacing-control__inputs> :last-child {
+    -webkit-border-radius: 3px 0px 0px 3px !important;
+    -moz-border-radius: 3px 0px 0px 3px !important;
+    border-radius: 3px 0px 0px 3px !important;
+}
+
+.uagb-multi-button-button-group .uagb-multi-button:first-child {
+    -webkit-border-radius: 0px 3px 3px 0px !important;
+    -moz-border-radius: 0px 3px 3px 0px !important;
+    border-radius: 0px 3px 3px 0px !important;
+}
+
+.uagb-multi-button-button-group .uagb-multi-button:last-child {
+    -webkit-border-radius: 3px 0px 0px 3px !important;
+    -moz-border-radius: 3px 0px 0px 3px !important;
+    border-radius: 3px 0px 0px 3px !important;
+}
+
+.uagb-spacing-control input[type="number"].uagb-spacing-control__number,
+.uagb-spacing-control .uagb-spacing-control__link {
+    padding-left: 0px !important;
+    padding-right: 5px !important;
+}
+
+.uag-range-control .uagb-range-control__mobile-controls .components-base-control.components-range-control {
+    margin-left: 20px !important;
+    margin-right: unset !important;
+}
+
+.components-range-control__track {
+    right: 0;
+}
+
+.uagb-inspector-tab .components-base-control .components-range-control__wrapper {
+    direction: inherit !important;
+    margin-right: 5px !important;
+    margin-left: unset !important;
+}
+
+.uagb-text-control .components-text-control__input {
+    padding-right: unset !important;
+    padding-left: 30px !important;
+}
+
+.components-text-control__input,
+.components-text-control__input[type=color],
+.components-text-control__input[type=date],
+.components-text-control__input[type=datetime-local],
+.components-text-control__input[type=datetime],
+.components-text-control__input[type=email],
+.components-text-control__input[type=month],
+.components-text-control__input[type=number],
+.components-text-control__input[type=password],
+.components-text-control__input[type=tel],
+.components-text-control__input[type=text],
+.components-text-control__input[type=time],
+.components-text-control__input[type=url],
+.components-text-control__input[type=week] {
+    padding: 6px 8px !important;
+}
+
+.uagb-text-control__controls>.components-button {
+    left: 0 !important;
+    right: unset !important;
+}
+
+.uag-custom-ip .uag-ip-placeholder-wrap .uag-ip-remove-icon {
+    left: 5px !important;
+    right: unset !important;
+}
+
+.uag-number-control .uagb-number-control__mobile-controls.uag-number-control__inline>.components-button {
+    left: 34% !important;
+    right: unset !important;
+}
+
+:is(.uag-dashboard-app, .toplevel_page_spectra, #spectra-pro-banner, .components-modal__frame) .left-1 {
+    left: 0.25rem !important;
+    right: auto !important;
+}

@@ -1,0 +1,400 @@
+.seamerco-process-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* Zoom */
+.seamerco-process-map > .seamerco-zoom-controls {
+  position: absolute !important;
+  top: 1rem !important;
+  left: 1rem !important;
+  right: auto !important;
+  bottom: auto !important;
+  z-index: 9999 !important;
+  width: 2.25rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 1px solid #d0d5dd !important;
+  background: #fff !important;
+  overflow: hidden !important;
+  box-shadow: 0 0.5rem 1.25rem rgba(15, 23, 42, 0.12) !important;
+}
+
+.seamerco-process-map > .seamerco-zoom-controls .seamerco-zoom-btn {
+  width: 2.25rem !important;
+  height: 2.25rem !important;
+  min-width: 2.25rem !important;
+  min-height: 2.25rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: #fff !important;
+  color: #111827 !important;
+  font-size: 1.45rem !important;
+  line-height: 1 !important;
+  font-weight: 500 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  appearance: none !important;
+}
+
+.seamerco-process-map > .seamerco-zoom-controls .seamerco-zoom-btn + .seamerco-zoom-btn {
+  border-top: 1px solid #d0d5dd !important;
+}
+
+.seamerco-process-map > .seamerco-zoom-controls .seamerco-zoom-btn:hover {
+  background: #f2f4f7 !important;
+}
+
+/* Right panel */
+.seamerco-process-panel {
+  width: 30%;
+  height: 100vh;
+  overflow-y: auto;
+  background: #fff;
+  padding: 2rem 1rem 1.5rem !important;
+  border-left: 1px solid #344866;
+}
+
+.seamerco-process-panel .uagb-desc-text {
+  margin-bottom: 0.35rem !important;
+  font-size: 0.82rem !important;
+  color: #475467;
+}
+
+.seamerco-process-panel .uagb-heading-text {
+  margin-bottom: 1.25rem !important;
+  color: #ef3124;
+  font-size: clamp(1.65rem, 1.8vw, 2.25rem) !important;
+  line-height: 1.08 !important;
+  font-weight: 800;
+}
+
+/* Accordion - no icon override */
+.seamerco-process-accordion .wp-block-accordion-item {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.seamerco-process-accordion .wp-block-accordion-heading {
+  margin: 0;
+}
+
+.seamerco-process-accordion .wp-block-accordion-heading__toggle {
+  min-height: 3rem !important;
+  padding: 0.75rem !important;
+  font-size: 0.95rem !important;
+  font-weight: 800 !important;
+  color: #002b5c !important;
+  background: #fff !important;
+}
+
+.seamerco-process-accordion .wp-block-accordion-item.is-open .wp-block-accordion-heading__toggle {
+  background: #344866 !important;
+  color: #fff !important;
+}
+
+.seamerco-process-accordion .wp-block-accordion-panel {
+  padding: 0.8rem 0.75rem 1rem !important;
+  font-size: 0.82rem !important;
+  line-height: 1.7 !important;
+  color: #344054;
+}
+
+.seamerco-process-accordion .wp-block-accordion-panel ul {
+  margin: 0;
+  padding-right: 1rem;
+}
+
+.seamerco-process-accordion .wp-block-accordion-panel li {
+  margin-bottom: 0.35rem;
+}
+
+.seamerco-process-accordion .wp-block-accordion-panel li::marker {
+  color: #ef3124;
+}
+
+/* Hotspots layer */
+.seamerco-process-map > .seamerco-hotspots {
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  z-index: 20;
+  pointer-events: none;
+  transform-origin: center center;
+}
+
+.seamerco-process-map > .seamerco-hotspots > .uagb-container-inner-blocks-wrap {
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  pointer-events: none;
+}
+
+/* Single hotspot */
+.seamerco-hotspot {
+  position: absolute !important;
+  width: 1.25rem !important;
+  height: 1.25rem !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  transform: translate(-50%, -50%) !important;
+  z-index: 25;
+  pointer-events: auto;
+}
+
+.seamerco-hotspot > .uagb-container-inner-blocks-wrap {
+  position: relative !important;
+}
+
+/* Hotspot button */
+.seamerco-hotspot .wp-block-uagb-buttons,
+.seamerco-hotspot .uagb-buttons__wrap,
+.seamerco-hotspot .wp-block-uagb-buttons-child,
+.seamerco-hotspot .uagb-button__wrapper {
+  width: 1.25rem !important;
+  height: 1.25rem !important;
+  min-width: 1.25rem !important;
+  min-height: 1.25rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.seamerco-hotspot .uagb-buttons-repeater {
+  width: 1.25rem !important;
+  height: 1.25rem !important;
+  min-width: 1.25rem !important;
+  min-height: 1.25rem !important;
+  padding: 0 !important;
+  border-radius: 999px !important;
+  background: #ef3124 !important;
+  color: transparent !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 0 0 rgba(239, 49, 36, 0.35);
+  animation: seamercoPulse 1.8s infinite;
+}
+
+.seamerco-hotspot .uagb-button__icon,
+.seamerco-hotspot .uagb-button__icon svg {
+  display: none !important;
+}
+
+/* Card */
+.seamerco-hotspot-card {
+  position: absolute !important;
+  left: 50%;
+  bottom: calc(100% + 1rem);
+  width: 17.5rem !important;
+  max-width: 80vw !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border-radius: 1rem !important;
+  overflow: visible !important;
+  background: transparent !important;
+  box-shadow: 0 1.25rem 3rem rgba(0, 0, 0, 0.22);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateX(-50%) translateY(0.5rem) !important;
+  transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s ease;
+  pointer-events: none;
+  z-index: 40;
+}
+
+.seamerco-hotspot.is-active {
+  z-index: 60;
+}
+
+.seamerco-hotspot.is-active .seamerco-hotspot-card {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0) !important;
+  pointer-events: auto;
+}
+
+.seamerco-hotspot-card > .uagb-container-inner-blocks-wrap {
+  position: relative !important;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  border-radius: 1rem !important;
+  background: #fff !important;
+}
+
+/* Close button */
+.seamerco-hotspot-card .wp-block-uagb-buttons:has(.seamerco-hotspot-close) {
+  position: absolute !important;
+  top: 0.75rem !important;
+  right: 0.75rem !important;
+  z-index: 100 !important;
+  width: 2rem !important;
+  height: 2rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.seamerco-hotspot-card .wp-block-uagb-buttons:has(.seamerco-hotspot-close) .uagb-buttons__wrap,
+.seamerco-hotspot-card .wp-block-uagb-buttons:has(.seamerco-hotspot-close) .seamerco-hotspot-close,
+.seamerco-hotspot-card .wp-block-uagb-buttons:has(.seamerco-hotspot-close) .uagb-button__wrapper,
+.seamerco-hotspot-card .wp-block-uagb-buttons:has(.seamerco-hotspot-close) .uagb-buttons-repeater {
+  width: 2rem !important;
+  height: 2rem !important;
+  min-width: 2rem !important;
+  min-height: 2rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.seamerco-hotspot-card .wp-block-uagb-buttons:has(.seamerco-hotspot-close) .uagb-buttons-repeater {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.seamerco-hotspot-card .wp-block-uagb-buttons:has(.seamerco-hotspot-close) svg {
+  width: 1.35rem !important;
+  height: 1.35rem !important;
+  fill: #fff !important;
+  filter: drop-shadow(0 0.2rem 0.35rem rgba(0, 0, 0, 0.45));
+}
+
+/* Card image */
+.seamerco-hotspot-card .wp-block-uagb-image,
+.seamerco-hotspot-card .wp-block-uagb-image__figure {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 0 !important;
+  overflow: hidden !important;
+}
+
+.seamerco-hotspot-card img {
+  width: 100% !important;
+  height: 13rem !important;
+  display: block !important;
+  object-fit: cover !important;
+  border-radius: 1rem 1rem 0 0 !important;
+}
+
+/* Card title */
+.seamerco-hotspot-card .uagb-advanced-heading {
+  margin: 0 !important;
+}
+
+.seamerco-hotspot-card .uagb-heading-text {
+  margin: 0 !important;
+  padding: 1.15rem 1.25rem !important;
+  background: #123b7a !important;
+  color: #fff !important;
+  font-size: 1.15rem !important;
+  line-height: 1.35 !important;
+  font-weight: 800 !important;
+  text-align: center !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0 0 1rem 1rem !important;
+}
+
+/* Positions */
+.seamerco-hotspot:nth-child(1) { left: 12%; top: 56%; }
+.seamerco-hotspot:nth-child(2) { left: 24%; top: 51%; }
+.seamerco-hotspot:nth-child(3) { left: 29%; top: 58%; }
+.seamerco-hotspot:nth-child(4) { left: 38%; top: 43%; }
+.seamerco-hotspot:nth-child(5) { left: 48%; top: 41%; }
+.seamerco-hotspot:nth-child(6) { left: 54%; top: 56%; }
+.seamerco-hotspot:nth-child(7) { left: 42%; top: 50%; }
+.seamerco-hotspot:nth-child(8) { left: 62%; top: 48%; }
+.seamerco-hotspot:nth-child(9) { left: 68%; top: 52%; }
+
+@keyframes seamercoPulse {
+  0% { box-shadow: 0 0 0 0 rgba(239, 49, 36, 0.35); }
+  70% { box-shadow: 0 0 0 0.75rem rgba(239, 49, 36, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(239, 49, 36, 0); }
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .seamerco-process-section > .uagb-container-inner-blocks-wrap {
+    flex-direction: column;
+  }
+
+  .seamerco-process-map,
+  .seamerco-process-panel {
+    width: 100%;
+  }
+
+  .seamerco-process-map {
+    min-height: 60vh;
+  }
+
+  .seamerco-process-panel {
+    height: auto;
+    padding: 2rem 1.25rem !important;
+    border-left: 0;
+    border-top: 1px solid #e5e7eb;
+  }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .seamerco-process-map {
+    min-height: 420px;
+  }
+
+  .seamerco-process-panel {
+    padding: 1.5rem 1rem !important;
+  }
+
+  .seamerco-process-panel .uagb-heading-text {
+    font-size: 2rem !important;
+  }
+
+  .seamerco-hotspot,
+  .seamerco-hotspot .wp-block-uagb-buttons,
+  .seamerco-hotspot .uagb-buttons__wrap,
+  .seamerco-hotspot .wp-block-uagb-buttons-child,
+  .seamerco-hotspot .uagb-button__wrapper,
+  .seamerco-hotspot .uagb-buttons-repeater {
+    width: 0.95rem !important;
+    height: 0.95rem !important;
+    min-width: 0.95rem !important;
+    min-height: 0.95rem !important;
+  }
+
+  .seamerco-hotspot-card {
+    width: 15.5rem !important;
+  }
+
+  .seamerco-hotspot-card img {
+    height: 10rem !important;
+  }
+
+  .seamerco-hotspot-card .uagb-heading-text {
+    font-size: 1rem !important;
+    padding: 1rem !important;
+  }
+
+  .seamerco-process-map > .seamerco-zoom-controls {
+    top: 0.75rem !important;
+    left: 0.75rem !important;
+  }
+}

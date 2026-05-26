@@ -1,0 +1,5032 @@
+# Translation of Plugins - Ultimate Addons for Elementor (Formerly Elementor Header &amp; Footer Builder) - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Ultimate Addons for Elementor (Formerly Elementor Header &amp; Footer Builder) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Ultimate Addons for Elementor (Formerly "
+"Elementor Header &amp; Footer Builder) - Stable (latest release)\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/header-footer-"
+"elementor\n"
+"POT-Creation-Date: 2025-11-08T16:47:07+00:00\n"
+"PO-Revision-Date: 2025-11-09 08:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.3; php-8.1.28"
+
+#. Plugin Name of the plugin
+#: header-footer-elementor.php
+#| msgid "Ultimate Addons for Elementor"
+msgid "Ultimate Addons for Elementor Lite"
+msgstr "آلتیمت ادانز المنتور لایت"
+
+#. Plugin URI of the plugin
+#: header-footer-elementor.php
+msgid "https://wordpress.org/plugins/header-footer-elementor/"
+msgstr "https://wordpress.org/plugins/header-footer-elementor/"
+
+#. Description of the plugin
+#: header-footer-elementor.php
+msgid ""
+"Formerly known as \"Elementor Header & Footer Builder\", this powerful "
+"plugin allows you to create custom headers and footers with Elementor and "
+"display them in selected locations. You can also create custom Elementor "
+"blocks and place them anywhere on your website using a shortcode."
+msgstr ""
+"این افزونه قدرتمند که قبلاً با نام «سازنده هدر و فوتر المنتور» شناخته می‌شد، "
+"به شما اجازه می‌دهد با المنتور هدر و فوتر سفارشی بسازید و آن‌ها را در "
+"مکان‌های دلخواه نمایش دهید. همچنین می‌توانید بلوک‌های سفارشی المنتور ایجاد "
+"کرده و با استفاده از شورت‌کد در هرجای وب‌سایت خود قرار دهید."
+
+#. Author of the plugin
+#: header-footer-elementor.php
+#| msgid "Brainstorm Force Team"
+msgid "Brainstorm Force"
+msgstr "برِین‌استُورم‌فورس و ناگاتم"
+
+#. Author URI of the plugin
+#: header-footer-elementor.php
+msgid "https://www.brainstormforce.com/"
+msgstr "https://www.brainstormforce.com/"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:238
+msgid ""
+"Help us improve %1$s and our other products!<br><br>With your permission, "
+"we'd like to collect <strong>non-sensitive information</strong> from your "
+"website — like your PHP version and which features you use — so we can fix "
+"bugs faster, make smarter decisions, and build features that actually matter "
+"to you. <em>No personal info. Ever.</em>"
+msgstr ""
+"ما را در بهبود %1$s و سایر محصولاتمان یاری کنید!<br><br>با اجازه شما، "
+"می‌خواهیم <strong>اطلاعات غیرحساس</strong> از وب‌سایت شما جمع‌آوری کنیم — "
+"مانند نسخه PHP و ویژگی‌هایی که استفاده می‌کنید — تا بتوانیم باگ‌ها را "
+"سریع‌تر رفع کنیم، تصمیمات هوشمندانه‌تری بگیریم و ویژگی‌هایی بسازیم که واقعاً "
+"برای شما مهم هستند. <em>هیچ اطلاعات شخصی. هرگز.</em>"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:245
+msgid "This will be applicable for all sites from the network."
+msgstr "این مورد برای تمام سایت‌های موجود در شبکه اعمال خواهد شد."
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:269
+msgid " Know More."
+msgstr " بیشتر بدانید."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:279
+msgid "Yes! Allow it"
+msgstr "بله! اجازه بده"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:290
+msgid "No Thanks"
+msgstr "خیر، ممنون"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:415
+msgid "Usage Tracking"
+msgstr "ردیابی میزان استفاده"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:459
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "اجازه بده %s داده‌های غیرحساس مربوط به استفاده را ردیابی کند."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:462
+msgid " This will be applicable for all sites from the network."
+msgstr " این مورد برای تمام سایت‌های موجود در شبکه اعمال خواهد شد."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:467
+msgid "Learn More."
+msgstr "بیشتر بدانید."
+
+#: admin/bsf-analytics/classes/class-bsf-analytics-helper.php:28
+msgid "Oops! Something went wrong. Please refresh the page and try again."
+msgstr ""
+"اوه! مشکلی پیش آمده است. لطفاً صفحه را تازه‌سازی کرده و دوباره تلاش کنید."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:80
+msgid "Quick Feedback"
+msgstr "بازخورد سریع"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:83
+msgid "If you have a moment, please share why you are deactivating the plugin."
+msgstr "اگر زمان دارید، لطفاً بگویید چرا این افزونه را غیرفعال می‌کنید."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:112
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:403
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:428
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:238
+#: inc/widgets-manager/widgets/cart/cart.php:147
+#: inc/widgets-manager/widgets/infocard/infocard.php:206
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:600
+#: inc/widgets-manager/widgets/page-title/page-title.php:366
+#: inc/widgets-manager/widgets/post-info/post-info.php:400
+#: inc/widgets-manager/widgets/post-info/post-info.php:672
+#: inc/widgets-manager/widgets/search-button/search-button.php:166
+#: inc/widgets-manager/widgets/search-button/search-button.php:816
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:150
+#: inc/widgets-manager/widgets/site-title/site-title.php:153
+#: inc/widgets-manager/widgets/site-title/site-title.php:358
+msgid "Icon"
+msgstr "آیکون"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:139
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:314
+msgid "Please tell us more details."
+msgstr "لطفاً جزئیات بیشتری برای ما بنویسید."
+
+#. translators: %1$s: link html start, %2$s: link html end
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:148
+msgid "Need help from our experts? %1$sClick here to contact us.%2$s"
+msgstr "نیاز به کمک از کارشناسان ما دارید؟ %1$sبرای تماس اینجا کلیک کنید.%2$s"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:159
+#| msgid "Deactivate"
+msgid "Submit & Deactivate"
+msgstr "ارسال و غیرفعال کردن"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:160
+#| msgid "Deactivate"
+msgid "Skip & Deactivate"
+msgstr "رد و غیرفعال کردن"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:229
+msgid "Sorry, you are not allowed to do this operation."
+msgstr "متأسفیم، شما مجاز به انجام این عملیات نیستید."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:242
+msgid "Nonce validation failed"
+msgstr "اعتبارسنجی نانس انجام نشد"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:289
+msgid "This is a temporary deactivation for testing."
+msgstr "این یک غیرفعالسازی موقت برای تست است."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:290
+msgid "How can we assist you?"
+msgstr "چطور می‌توانیم به شما کمک کنیم؟"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:295
+msgid "The plugin isn't working properly."
+msgstr "افزونه به درستی کار نمی‌کند."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:296
+msgid "Please tell us more about what went wrong?"
+msgstr "لطفاً جزئیات بیشتری از مشکل برای ما می‌نویسید؟"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:301
+msgid "I found a better alternative plugin."
+msgstr "یک افزونه جایگزین بهتر پیدا کردم."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:302
+msgid "Could you please specify which plugin?"
+msgstr "ممکن است بفرمایید کدام افزونه؟"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:307
+msgid "It's missing a specific feature."
+msgstr "یک ویژگی خاص در آن وجود ندارد."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:308
+msgid "Please tell us more about the feature."
+msgstr "لطفاً درباره ویژگی موردنظر توضیح بیشتری دهید."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:313
+msgid "Other"
+msgstr "سایر موارد"
+
+#: admin/class-hfe-addons-actions.php:147
+#| msgid "Plugin activation is disabled for you on this site."
+msgid "Plugin installation is disabled for you on this site."
+msgstr "نصب افزونه برای شما در این سایت غیرفعال است."
+
+#: admin/class-hfe-addons-actions.php:154
+msgid "Plugin slug is missing."
+msgstr "اسلاگ افزونه وجود ندارد."
+
+#: admin/class-hfe-addons-actions.php:177
+msgid "Plugin installation function not found."
+msgstr "تابع نصب افزونه یافت نشد."
+
+#: admin/class-hfe-addons-actions.php:197
+#| msgid "Theme activation is disabled for you on this site."
+msgid "Theme installation is disabled for you on this site."
+msgstr "نصب قالب برای شما در این سایت غیرفعال است."
+
+#: admin/class-hfe-addons-actions.php:204
+msgid "Theme slug is missing."
+msgstr "اسلاگ قالب وجود ندارد."
+
+#: admin/class-hfe-addons-actions.php:227
+msgid "Theme installation function not found."
+msgstr "تابع نصب قالب یافت نشد."
+
+#: admin/class-hfe-addons-actions.php:240
+#: admin/class-hfe-addons-actions.php:273
+#: admin/class-hfe-addons-actions.php:306
+#: admin/class-hfe-addons-actions.php:353
+#: admin/class-hfe-addons-actions.php:377
+#: admin/class-hfe-addons-actions.php:404
+#: admin/class-hfe-addons-actions.php:533
+#: admin/class-hfe-addons-actions.php:561
+#: admin/class-hfe-addons-actions.php:586
+msgid "You do not have permission to perform this action."
+msgstr "شما اجازه انجام این عمل را ندارید."
+
+#: admin/class-hfe-addons-actions.php:479
+msgid "Plugin activation is disabled for you on this site."
+msgstr "فعال‌سازی افزونه برای شما در این سایت غیرفعال است."
+
+#: admin/class-hfe-addons-actions.php:488
+msgid "Plugin Activated."
+msgstr "افزونه فعال شد."
+
+#: admin/class-hfe-addons-actions.php:499
+msgid "Theme activation is disabled for you on this site."
+msgstr "فعال‌سازی قالب برای شما در این سایت غیرفعال است."
+
+#: admin/class-hfe-addons-actions.php:508
+msgid "Theme Activated."
+msgstr "قالب فعال شد."
+
+#: admin/class-hfe-addons-actions.php:515
+msgid "Could not activate plugin. Please activate from the Plugins page."
+msgstr "افزونه فعال نشد. لطفاً از صفحه افزونه‌ها آن را فعال کنید."
+
+#: admin/class-hfe-addons-actions.php:517
+msgid "Could not activate theme. Please activate from the Themes page."
+msgstr "قالب فعال نشد. لطفاً از صفحه قالب‌ها آن را فعال کنید."
+
+#: admin/class-hfe-addons-actions.php:542
+#: admin/class-hfe-addons-actions.php:570 build/main.js:172 build/main.js:30626
+#: build/main.js:30918 build/main.js:31933 build/main.js:33058
+#| msgid "Your details are submitted successfully."
+msgid "Settings saved successfully!"
+msgstr "تنظیمات با موفقیت ذخیره شد!"
+
+#: admin/class-hfe-addons-actions.php:545
+#: admin/class-hfe-addons-actions.php:573
+msgid "Unable to save settings."
+msgstr "ذخیره تنظیمات امکان‌پذیر نبود."
+
+#: admin/class-hfe-addons-actions.php:592
+msgid "Security check failed."
+msgstr "بررسی امنیتی ناموفق بود."
+
+#: admin/class-hfe-addons-actions.php:598
+msgid "Upgrade notice dismissed."
+msgstr "اعلان ارتقاء رد شد."
+
+#: admin/class-hfe-admin.php:261
+msgid "Important Notice:"
+msgstr "اعلان مهم:"
+
+#: admin/class-hfe-admin.php:265
+msgid "Can't edit your header or footer?"
+msgstr "نمی‌توانید هدر یا فوتر خود را ویرایش کنید؟"
+
+#: admin/class-hfe-admin.php:266
+msgid ""
+"Try clearing your cache or resetting permalinks (Settings > Permalinks > "
+"Save Changes)."
+msgstr ""
+"سعی کنید کش خود را پاک کنید یا پیوندهای یکتا را بازنشانی کنید (تنظیمات > "
+"پیوندهای یکتا > ذخیره تغییرات)."
+
+#: admin/class-hfe-admin.php:267 build/main.js:2 build/main.js:172
+#: build/main.js:30265 build/main.js:30964
+#| msgid "Learn More."
+msgid "Learn More"
+msgstr "بیشتر بدانید"
+
+#: admin/class-hfe-admin.php:271
+msgid "Flush Permalink"
+msgstr "بازسازی پیوندهای یکتا"
+
+#: admin/class-hfe-admin.php:344 admin/class-hfe-admin.php:632
+msgid "Display Rules"
+msgstr "قوانین نمایش"
+
+#: admin/class-hfe-admin.php:345
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:164
+#: inc/widgets-manager/widgets/post-info/post-info.php:170
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:375
+msgid "Date"
+msgstr "تاریخ"
+
+#: admin/class-hfe-admin.php:435 admin/class-hfe-admin.php:436
+#: admin/class-hfe-admin.php:437 admin/class-hfe-admin.php:438
+msgid "Elementor Header & Footer Builder"
+msgstr "سازنده هدر و فوتر المنتور"
+
+#: admin/class-hfe-admin.php:439 admin/class-hfe-admin.php:440
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: admin/class-hfe-admin.php:441
+msgid "New Template"
+msgstr "الگوی جدید"
+
+#: admin/class-hfe-admin.php:442
+msgid "Edit Template"
+msgstr "ویرایش الگو"
+
+#: admin/class-hfe-admin.php:443
+msgid "View Template"
+msgstr "نمایش الگو"
+
+#: admin/class-hfe-admin.php:444 inc/class-hfe-settings-page.php:494
+#| msgid "View"
+msgid "View All"
+msgstr "مشاهده همه"
+
+#: admin/class-hfe-admin.php:445
+msgid "Search Templates"
+msgstr "جستجوی الگوها"
+
+#: admin/class-hfe-admin.php:446
+msgid "Parent Templates:"
+msgstr "الگوهای والد:"
+
+#: admin/class-hfe-admin.php:447
+msgid "No Templates found."
+msgstr "هیچ الگویی پیدا نشد."
+
+#: admin/class-hfe-admin.php:448
+msgid "No Templates found in Trash."
+msgstr "هیچ الگویی در زباله‌دان پیدا نشد."
+
+#: admin/class-hfe-admin.php:496 admin/class-hfe-admin.php:497
+msgid "Create New"
+msgstr "ایجاد جدید"
+
+#: admin/class-hfe-admin.php:506
+#| msgid "Elementor Header & Footer Builder"
+msgid "Header/Footer Builder"
+msgstr "سازنده هدر/فوتر"
+
+#: admin/class-hfe-admin.php:507 build/main.js:2 build/main.js:26545
+#| msgid "Before Footer"
+msgid "Header & Footer"
+msgstr "هدر و فوتر"
+
+#: admin/class-hfe-admin.php:536
+msgid "Elementor Header & Footer Builder Options"
+msgstr "گزینه‌های سازنده هدر و فوتر المنتور"
+
+#: admin/class-hfe-admin.php:565
+msgid "Type of Template"
+msgstr "نوع الگو"
+
+#: admin/class-hfe-admin.php:569
+msgid "Select Option"
+msgstr "انتخاب گزینه"
+
+#: admin/class-hfe-admin.php:570
+msgid "Header"
+msgstr "هدر"
+
+#: admin/class-hfe-admin.php:571
+msgid "Before Footer"
+msgstr "قبل از فوتر"
+
+#: admin/class-hfe-admin.php:572
+msgid "Footer"
+msgstr "فوتر"
+
+#: admin/class-hfe-admin.php:573
+msgid "Custom Block"
+msgstr "بلوک سفارشی"
+
+#: admin/class-hfe-admin.php:581 admin/class-hfe-admin.php:831
+msgid "Shortcode"
+msgstr "شورت‌کد"
+
+#: admin/class-hfe-admin.php:582
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content."
+msgstr ""
+"این شورت‌کد را کپی کرده و در نوشته، برگه یا ابزارک متنی خود جای‌گذاری کنید."
+
+#: admin/class-hfe-admin.php:594
+msgid "Enable Layout for Elementor Canvas Template?"
+msgstr "طرح‌بندی برای الگوی Canvas المنتور فعال شود؟"
+
+#: admin/class-hfe-admin.php:596
+msgid ""
+"Enabling this option will display this layout on pages using Elementor "
+"Canvas Template."
+msgstr ""
+"فعال کردن این گزینه باعث می‌شود این طرح‌بندی در صفحاتی که از الگوی Canvas "
+"المنتور استفاده می‌کنند نمایش داده شود."
+
+#: admin/class-hfe-admin.php:623
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:125
+msgid "Display On"
+msgstr "نمایش در"
+
+#: admin/class-hfe-admin.php:625
+msgid "Add locations for where this template should appear."
+msgstr "مکان‌هایی را اضافه کنید که این الگو باید در آن‌ها نمایش داده شود."
+
+#: admin/class-hfe-admin.php:636
+msgid "Add Display Rule"
+msgstr "افزودن قانون نمایش"
+
+#: admin/class-hfe-admin.php:645
+msgid "Do Not Display On"
+msgstr "نمایش نده در"
+
+#: admin/class-hfe-admin.php:647
+msgid "Add locations for where this template should not appear."
+msgstr "مکان‌هایی را اضافه کنید که این الگو نباید در آن‌ها نمایش داده شود."
+
+#: admin/class-hfe-admin.php:654
+msgid "Exclude On"
+msgstr "استثنا در"
+
+#: admin/class-hfe-admin.php:657
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:847
+msgid "Add Exclusion Rule"
+msgstr "افزودن قانون استثنا"
+
+#: admin/class-hfe-admin.php:667
+msgid "User Roles"
+msgstr "نقش‌های کاربری"
+
+#: admin/class-hfe-admin.php:668
+msgid "Display custom template based on user role."
+msgstr "نمایش الگوی سفارشی بر اساس نقش کاربر."
+
+#: admin/class-hfe-admin.php:675
+msgid "Users"
+msgstr "کاربران"
+
+#: admin/class-hfe-admin.php:678
+msgid "Add User Rule"
+msgstr "افزودن قانون کاربر"
+
+#. Translators: Post title, Template Location
+#: admin/class-hfe-admin.php:759
+msgid "Template %1$s is already assigned to the location %2$s"
+msgstr "الگوی %1$s از قبل به مکان %2$s اختصاص داده شده است"
+
+#. translators: %s: html tags
+#: inc/class-header-footer-elementor.php:554
+msgid ""
+"The %1$sUltimate Addons for Elementor%2$s plugin requires %1$sElementor%2$s "
+"plugin installed & activated."
+msgstr ""
+"افزونه %1$sافزودنی‌های نهایی برای المنتور%2$s نیاز به نصب و فعال‌سازی افزونه "
+"%1$sالمنتور%2$s دارد."
+
+#: inc/class-header-footer-elementor.php:561
+msgid "Activate Elementor"
+msgstr "فعال‌سازی المنتور"
+
+#: inc/class-header-footer-elementor.php:566
+#: inc/class-header-footer-elementor.php:602
+msgid "Install Elementor"
+msgstr "نصب المنتور"
+
+#. translators: %s: html tags
+#: inc/class-header-footer-elementor.php:590
+msgid ""
+"The %1$sUltimate Addons for Elementor%2$s plugin has stopped working because "
+"you are using an older version of %1$sElementor%2$s plugin."
+msgstr ""
+"افزونه %1$sافزودنی‌های نهایی برای المنتور%2$s از کار افتاده است، زیرا شما از "
+"نسخه قدیمی افزونه %1$sالمنتور%2$s استفاده می‌کنید."
+
+#: inc/class-header-footer-elementor.php:597
+msgid "Update Elementor"
+msgstr "به‌روزرسانی المنتور"
+
+#: inc/class-header-footer-elementor.php:844 build/main.js:172
+#: build/main.js:30643 build/main.js:31123
+msgid "Theme Support"
+msgstr "پشتیبانی قالب"
+
+#: inc/class-hfe-promotion.php:104
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:114
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:116
+#: inc/widgets-manager/widgets/cart/cart.php:98
+#: inc/widgets-manager/widgets/infocard/infocard.php:95
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:86
+#: inc/widgets-manager/widgets/post-info/post-info.php:104
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:146
+#: build/main.js:172 build/main.js:31064
+msgid "Upgrade Now"
+msgstr "اکنون ارتقاء دهید"
+
+#. translators: %1$s: Feature name, %2$s: Lock icon
+#: inc/class-hfe-promotion.php:156
+#| msgid "%1$s %3$s %2$s"
+msgid "UAE - %1$s %2$s"
+msgstr "UAE - %1$s %2$s"
+
+#: inc/class-hfe-promotion.php:169
+#: inc/widgets-manager/base/widgets-config.php:907
+#| msgid "Background"
+msgid "Particle Backgrounds"
+msgstr "پس‌زمینه‌های ذره‌ای"
+
+#: inc/class-hfe-promotion.php:179
+msgid ""
+"Use Particle Backgrounds and other Pro features to extend your toolbox with "
+"more control and flexibility."
+msgstr ""
+"از پس‌زمینه‌های ذره‌ای و سایر قابلیت‌های نسخه حرفه‌ای برای افزایش کنترل و "
+"انعطاف‌پذیری خود استفاده کنید."
+
+#: inc/class-hfe-promotion.php:195
+#: inc/widgets-manager/base/widgets-config.php:892 build/main.js:2
+#: build/main.js:28490 build/main.js:29887
+#| msgid "Display On"
+msgid "Display Conditions"
+msgstr "شرایط نمایش"
+
+#: inc/class-hfe-promotion.php:205
+msgid ""
+"Use Advanced Display Condition and other Pro features to extend your toolbox "
+"with more control and flexibility."
+msgstr ""
+"از شرایط نمایش پیشرفته و سایر قابلیت‌های نسخه حرفه‌ای برای افزایش کنترل و "
+"انعطاف‌پذیری استفاده کنید."
+
+#: inc/class-hfe-promotion.php:221
+#: inc/widgets-manager/base/widgets-config.php:920 build/main.js:172
+#: build/main.js:31361
+msgid "Party Propz"
+msgstr "Party Propz"
+
+#: inc/class-hfe-promotion.php:231
+msgid ""
+"Use Party Propz and other Pro features to extend your toolbox with more "
+"control and flexibility."
+msgstr ""
+"از Party Propz و سایر قابلیت‌های نسخه حرفه‌ای برای افزایش کنترل و "
+"انعطاف‌پذیری استفاده کنید."
+
+#: inc/class-hfe-promotion.php:252
+#| msgid "Header"
+msgid "Sticky Header"
+msgstr "هدر چسبان"
+
+#: inc/class-hfe-promotion.php:262
+msgid ""
+"Use Sticky Header and other Pro features to extend your toolbox with more "
+"control and flexibility."
+msgstr ""
+"از هدر چسبان و سایر قابلیت‌های نسخه حرفه‌ای برای افزایش کنترل و انعطاف‌پذیری "
+"استفاده کنید."
+
+#: inc/class-hfe-rollback.php:167
+msgid "Ultimate Addons for Elementor Lite <p>Rollback to Previous Version</p>"
+msgstr "آلتیمت ادانز برای المنتور (لایت) <p>بازگشت به نسخه قبلی</p>"
+
+#: inc/class-hfe-settings-page.php:96
+msgid "Go Pro"
+msgstr "دریافت نسخه حرفه‌ای"
+
+#: inc/class-hfe-settings-page.php:116
+msgid "Rate our plugin"
+msgstr "به افزونه ما امتیاز دهید"
+
+#. translators: %1$s is bold plugin name, %2$s is the review link
+#: inc/class-hfe-settings-page.php:138
+msgid ""
+"Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your "
+"support!"
+msgstr ""
+"از %1$s لذت بردید؟ لطفاً به ما یک امتیاز %2$s بدهید. از حمایت شما صمیمانه "
+"سپاسگزاریم!"
+
+#: inc/class-hfe-settings-page.php:166 inc/class-hfe-settings-page.php:1101
+#: inc/class-hfe-settings-page.php:1379
+msgid "Ultimate Addons for Elementor"
+msgstr "افزودنی‌های نهایی برای المنتور"
+
+#: inc/class-hfe-settings-page.php:167
+msgid ""
+"How likely are you to recommend Ultimate Addons for Elementor to your "
+"friends or colleagues?"
+msgstr ""
+"چقدر احتمال دارد افزودنی‌های نهایی برای المنتور را به دوستان یا همکاران خود "
+"توصیه کنید؟"
+
+#: inc/class-hfe-settings-page.php:169
+msgid "Thanks a lot for your feedback! 😍"
+msgstr "از بازخورد ارزشمند شما بینهایت سپاسگزاریم! 😍"
+
+#: inc/class-hfe-settings-page.php:170
+msgid ""
+"Thanks for using Ultimate Addons! Got feedback or suggestions to make it "
+"even better? We’d love to hear from you."
+msgstr ""
+"از استفاده شما از افزودنی‌های نهایی سپاسگزاریم! بازخورد یا پیشنهادی برای "
+"بهتر شدن آن دارید؟ خوشحال می‌شویم بشنویم."
+
+#: inc/class-hfe-settings-page.php:173
+msgid "Thank you for your feedback"
+msgstr "از بازخورد شما سپاسگزاریم"
+
+#: inc/class-hfe-settings-page.php:174
+msgid "We value your input. How can we improve your experience?"
+msgstr "ما برای نظرات شما ارزش قائلیم. چطور می‌توانیم تجربه شما را بهتر کنیم؟"
+
+#: inc/class-hfe-settings-page.php:218
+msgid "You do not have permission to access this page."
+msgstr "شما مجاز به دسترسی به این صفحه نیستید."
+
+#: inc/class-hfe-settings-page.php:219 inc/class-hfe-settings-page.php:254
+#: build/main.js:172 build/main.js:30802 build/main.js:30858
+msgid "Rollback to Previous Version"
+msgstr "بازگشت به نسخه قبلی"
+
+#: inc/class-hfe-settings-page.php:235
+msgid ""
+"Error occurred, The version selected is invalid. Try selecting different "
+"version."
+msgstr ""
+"خطا رخ داد، نسخه انتخاب‌شده معتبر نیست. لطفاً نسخه دیگری را انتخاب کنید."
+
+#: inc/class-hfe-settings-page.php:472 inc/class-hfe-settings-page.php:1310
+#: build/main.js:2 build/main.js:172 build/main.js:28936 build/main.js:29024
+#: build/main.js:29140 build/main.js:32471 build/main.js:32537
+msgid "Activate"
+msgstr "فعال‌سازی"
+
+#: inc/class-hfe-settings-page.php:473 inc/class-hfe-settings-page.php:1302
+#: build/main.js:2 build/main.js:172 build/main.js:29000 build/main.js:32520
+msgid "Activated"
+msgstr "فعال شد"
+
+#: inc/class-hfe-settings-page.php:474 inc/class-hfe-settings-page.php:1299
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1064
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1247
+msgid "Active"
+msgstr "فعال"
+
+#: inc/class-hfe-settings-page.php:475
+msgid "Deactivate"
+msgstr "غیرفعال‌سازی"
+
+#: inc/class-hfe-settings-page.php:476 inc/class-hfe-settings-page.php:1307
+msgid "Inactive"
+msgstr "غیرفعال"
+
+#: inc/class-hfe-settings-page.php:477 inc/class-hfe-settings-page.php:1323
+#: build/main.js:2 build/main.js:28944 build/main.js:32476
+msgid "Install"
+msgstr "نصب"
+
+#: inc/class-hfe-settings-page.php:478
+msgid "Theme Installed"
+msgstr "قالب نصب شد"
+
+#: inc/class-hfe-settings-page.php:479
+msgid "Plugin Installed"
+msgstr "افزونه نصب شد"
+
+#: inc/class-hfe-settings-page.php:480
+msgid "Download"
+msgstr "دانلود"
+
+#: inc/class-hfe-settings-page.php:481
+msgid "Already Exists."
+msgstr "از قبل وجود دارد."
+
+#: inc/class-hfe-settings-page.php:482 inc/class-hfe-settings-page.php:1328
+msgid "Visit Website"
+msgstr "مشاهده وب‌سایت"
+
+#: inc/class-hfe-settings-page.php:483
+msgid ""
+"Could not install. Please download from WordPress.org and install manually."
+msgstr ""
+"نصب انجام نشد. لطفاً از WordPress.org دانلود کرده و به‌صورت دستی نصب کنید."
+
+#: inc/class-hfe-settings-page.php:484
+msgid "Your details are submitted successfully."
+msgstr "جزئیات شما با موفقیت ارسال شد."
+
+#: inc/class-hfe-settings-page.php:485
+msgid "Encountered an error while performing your request."
+msgstr "هنگام انجام درخواست شما خطایی رخ داد."
+
+#: inc/class-hfe-settings-page.php:558
+msgid "Add Theme Support"
+msgstr "افزودن پشتیبانی قالب"
+
+#: inc/class-hfe-settings-page.php:574
+msgid ""
+"The Ultimate Addons for Elementor plugin need compatibility with your "
+"current theme to work smoothly.</br></br>Following are two methods that "
+"enable theme support for the plugin.</br></br>Method 1 is selected by "
+"default and that works fine almost will all themes. In case, you face any "
+"issue with the header or footer template, try choosing Method 2."
+msgstr ""
+"افزونه آلتیمت ادانز برای المنتور نیاز به سازگاری با قالب فعلی شما دارد تا "
+"به‌صورت روان کار کند.</br></br>روش‌های زیر، پشتیبانی قالب را برای افزونه "
+"فعال می‌کنند.</br></br>روش 1 به‌طور پیش‌فرض انتخاب شده و تقریباً با همه "
+"قالب‌ها به‌خوبی کار می‌کند. در صورتی که با قالب سربرگ یا پاورقی مشکلی "
+"داشتید، روش 2 را امتحان کنید."
+
+#: inc/class-hfe-settings-page.php:593
+msgid " Method 1 (Recommended)"
+msgstr " روش 1 (توصیه‌شده)"
+
+#: inc/class-hfe-settings-page.php:594
+msgid ""
+"This method replaces your theme's header (header.php) & footer (footer.php) "
+"template with plugin's custom templates."
+msgstr ""
+"این روش، فایل‌های header (header.php) و footer (footer.php) قالب شما را با "
+"الگوهای سفارشی افزونه جایگزین می‌کند."
+
+#: inc/class-hfe-settings-page.php:597
+msgid "Method 2"
+msgstr "روش 2"
+
+#: inc/class-hfe-settings-page.php:601
+#| msgid ""
+#| "This method replaces your theme's header (header.php) & footer (footer."
+#| "php) template with plugin's custom templates."
+msgid ""
+"This method hides your theme's header & footer template with CSS and "
+"displays custom templates from the plugin."
+msgstr ""
+"این روش، فایل‌های هدر و فوتر قالب شما را با CSS مخفی کرده و الگوهای سفارشی "
+"افزونه را نمایش می‌دهد."
+
+#: inc/class-hfe-settings-page.php:612
+msgid ""
+"Sometimes above methods might not work well with your theme, in this case, "
+"contact your theme author and request them to add support for the <a "
+"href=\"%s\">plugin.</a>"
+msgstr ""
+"گاهی اوقات روش‌های فوق ممکن است با قالب شما به‌خوبی کار نکند، در این صورت با "
+"نویسنده قالب خود تماس بگیرید و از آن‌ها بخواهید که پشتیبانی از <a "
+"href=\"%s\">افزونه</a> را اضافه کنند."
+
+#: inc/class-hfe-settings-page.php:644 inc/class-hfe-settings-page.php:656
+msgid "UAE Lite"
+msgstr "UAE لایت"
+
+#: inc/class-hfe-settings-page.php:645
+#: inc/widgets-manager/class-widgets-loader.php:165
+msgid "UAE"
+msgstr "UAE"
+
+#: inc/class-hfe-settings-page.php:657 build/main.js:2 build/main.js:26525
+#| msgid "Dashed"
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+#: inc/class-hfe-settings-page.php:667 inc/class-hfe-settings-page.php:668
+#: build/main.js:2 build/main.js:26557
+msgid "Widgets"
+msgstr "ابزارک‌ها"
+
+#: inc/class-hfe-settings-page.php:678 inc/class-hfe-settings-page.php:679
+#: inc/class-hfe-settings-page.php:1450
+#: inc/widgets-manager/base/widgets-config.php:336
+#: inc/widgets-manager/base/widgets-config.php:392
+#: inc/widgets-manager/base/widgets-config.php:475
+#: inc/widgets-manager/base/widgets-config.php:541
+#: inc/widgets-manager/base/widgets-config.php:556
+#: inc/widgets-manager/base/widgets-config.php:667
+#: inc/widgets-manager/base/widgets-config.php:737
+#: inc/widgets-manager/base/widgets-config.php:753
+#: inc/widgets-manager/base/widgets-config.php:898 build/main.js:2
+#: build/main.js:26568
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/class-hfe-settings-page.php:689 inc/class-hfe-settings-page.php:690
+#: inc/class-hfe-settings-page.php:701
+msgid "Onboarding"
+msgstr "آغاز کار"
+
+#: inc/class-hfe-settings-page.php:702
+msgid "Onboardingsuccess"
+msgstr "پایان موفقیت‌آمیز راه‌اندازی"
+
+#: inc/class-hfe-settings-page.php:754 inc/class-hfe-settings-page.php:755
+msgid "Get Help"
+msgstr "دریافت کمک"
+
+#: inc/class-hfe-settings-page.php:765 inc/class-hfe-settings-page.php:766
+msgid "Upgrade to Pro"
+msgstr "ارتقا به نسخه حرفه‌ای"
+
+#: inc/class-hfe-settings-page.php:822
+msgid "Elementor Header & Footer Builder "
+msgstr "سازنده هدر و فوتر با المنتور "
+
+#: inc/class-hfe-settings-page.php:880
+msgid "All Templates"
+msgstr "همه الگوها"
+
+#: inc/class-hfe-settings-page.php:887
+msgid "About Us"
+msgstr "درباره ما"
+
+#. translators: 1: Elementor, 2: Link to plugin review
+#: inc/class-hfe-settings-page.php:933
+msgid ""
+"Help us spread the word about the plugin by leaving %2$s %1$s %3$s ratings "
+"on %2$s WordPress.org %3$s. Thank you from the Brainstorm Force team!"
+msgstr ""
+"با گذاشتن امتیاز %2$s %1$s %3$s در %2$s WordPress.org %3$s به ما در معرفی "
+"افزونه کمک کنید. از طرف تیم Brainstorm Force از شما سپاسگزاریم!"
+
+#: inc/class-hfe-settings-page.php:976
+msgid "Create Impressive Header and Footer Designs"
+msgstr "ایجاد طرح‌های چشمگیر برای سربرگ و پابرگ"
+
+#: inc/class-hfe-settings-page.php:977
+msgid ""
+"Elementor Header & Footer Builder plugin lets you build impactful navigation "
+"for your website very easily. Before we begin, we would like to know more "
+"about you. This will help us to serve you better."
+msgstr ""
+"افزونه سازنده سربرگ و پابرگ المنتور به شما امکان می‌دهد به‌راحتی ناوبری "
+"جذابی برای وب‌سایت خود ایجاد کنید. پیش از شروع، مایلیم کمی بیشتر درباره شما "
+"بدانیم تا بتوانیم خدمات بهتری ارائه دهیم."
+
+#. translators: %1$s and %3$s are opening anchor tags, and %2$s and %4$s is closing anchor tags.
+#: inc/class-hfe-settings-page.php:991
+msgid ""
+"By submitting, you agree to our %1$sTerms%2$s and %3$sPrivacy Policy%4$s."
+msgstr ""
+"با ارسال این فرم، شما با %1$sشرایط استفاده%2$s و %3$sسیاست حفظ حریم "
+"خصوصی%4$s ما موافقت می‌کنید."
+
+#: inc/class-hfe-settings-page.php:1009 build/main.js:172 build/main.js:33518
+#: build/main.js:33962
+msgid "Skip"
+msgstr "رد کردن"
+
+#: inc/class-hfe-settings-page.php:1027
+msgid "Beginner"
+msgstr "مبتدی"
+
+#: inc/class-hfe-settings-page.php:1028
+msgid "Intermediate"
+msgstr "متوسط"
+
+#: inc/class-hfe-settings-page.php:1029
+msgid "Expert"
+msgstr "حرفه‌ای"
+
+#: inc/class-hfe-settings-page.php:1031 inc/class-hfe-settings-page.php:1040
+msgid "Field is required"
+msgstr "وارد کردن این فیلد الزامی است"
+
+#: inc/class-hfe-settings-page.php:1032
+msgid "I'm a WordPress:"
+msgstr "من یک کاربر وردپرس هستم:"
+
+#: inc/class-hfe-settings-page.php:1037
+msgid "Myself/My company"
+msgstr "خودم / شرکت من"
+
+#: inc/class-hfe-settings-page.php:1038
+msgid "My client"
+msgstr "مشتری من"
+
+#: inc/class-hfe-settings-page.php:1041
+msgid "I'm building website for:"
+msgstr "من در حال ساخت وب‌سایت برای هستم:"
+
+#: inc/class-hfe-settings-page.php:1064
+msgid "First name is required"
+msgstr "نام کوچک الزامی است"
+
+#: inc/class-hfe-settings-page.php:1065
+msgid "Your First Name"
+msgstr "نام کوچک شما"
+
+#: inc/class-hfe-settings-page.php:1069
+msgid "Email address is required"
+msgstr "آدرس ایمیل الزامی است"
+
+#: inc/class-hfe-settings-page.php:1070
+msgid "Your Work Email"
+msgstr "ایمیل کاری شما"
+
+#: inc/class-hfe-settings-page.php:1074
+msgid ""
+"I agree to receive your newsletters and accept the data privacy statement."
+msgstr ""
+"موافقم که خبرنامه‌های شما را دریافت کنم و سیاست حفظ داده‌ها را می‌پذیرم."
+
+#: inc/class-hfe-settings-page.php:1079 build/main.js:172
+#: inc/lib/nps-survey/dist/main.js:1 build/main.js:32355
+msgid "Submit"
+msgstr "ارسال"
+
+#. translators: %s: theme name
+#: inc/class-hfe-settings-page.php:1136
+msgid ""
+"Powering over 1+ Million websites, %s is loved for the fast performance and "
+"ease of use it offers. It is suitable for all kinds of websites like blogs, "
+"portfolios, business, and WooCommerce stores."
+msgstr ""
+"بیش از ۱ میلیون وب‌سایت با %s فعال است و به دلیل عملکرد سریع و سهولت "
+"استفاده، محبوبیت زیادی دارد. این افزونه برای انواع وب‌سایت‌ها مانند وبلاگ، "
+"نمونه‌کار، کسب‌وکار و فروشگاه ووکامرس مناسب است."
+
+#: inc/class-hfe-settings-page.php:1157
+msgid "Welcome to Elementor Header & Footer Builder!"
+msgstr "به سازنده سربرگ و پابرگ المنتور خوش آمدید!"
+
+#: inc/class-hfe-settings-page.php:1159
+msgid ""
+"With this awesome plugin, experience the easiest way to create a customized "
+"header and footer for your website with Elementor. That too 100% FREE!"
+msgstr ""
+"با این افزونه فوق‌العاده، ساده‌ترین روش را برای ساخت سربرگ و پابرگ سفارشی "
+"وب‌سایت خود با المنتور تجربه کنید — آن هم به‌صورت کاملاً رایگان!"
+
+#: inc/class-hfe-settings-page.php:1161
+msgid ""
+"Design beautiful layouts with simple drag & drop and display them at desired "
+"location with powerful target controls. The plugin comes with inbuilt "
+"Elementor widgets that offer essential features to build header and footer. "
+"It's a lightweight plugin that works seamlessly with all themes and backed "
+"up by 24/7 support."
+msgstr ""
+"با کشیدن و رها کردن ساده، طرح‌های زیبایی طراحی کنید و با کنترل‌های هدفمند "
+"قدرتمند آن‌ها را در مکان دلخواه نمایش دهید. این افزونه دارای ابزارک‌های "
+"المنتور داخلی است که امکانات ضروری برای ساخت سربرگ و پابرگ را ارائه می‌دهند. "
+"افزونه‌ای سبک است که با همه قالب‌ها به‌صورت روان کار می‌کند و پشتیبانی ۲۴/۷ "
+"دارد."
+
+#: inc/class-hfe-settings-page.php:1163
+msgid ""
+"Trusted by more than 1+ Million users, Elementor Header & Footer Builder is "
+"a modern way to build advanced navigation for your website."
+msgstr ""
+"با اعتماد بیش از ۱ میلیون کاربر، سازنده سربرگ و پابرگ المنتور روشی مدرن برای "
+"ساخت ناوبری پیشرفته در وب‌سایت شماست."
+
+#. translators: %s: theme name
+#: inc/class-hfe-settings-page.php:1166
+msgid ""
+"This plugin is brought to you by the same team behind the popular WordPress "
+"theme %s and a series of Ultimate Addons plugins."
+msgstr ""
+"این افزونه توسط همان تیمی ارائه شده است که قالب محبوب وردپرس %s و مجموعه "
+"افزونه‌های آلتیمت ادانز را ساخته است."
+
+#: inc/class-hfe-settings-page.php:1172
+msgid "Team photo"
+msgstr "عکس تیم"
+
+#: inc/class-hfe-settings-page.php:1174
+msgid "Brainstorm Force Team"
+msgstr "تیم Brainstorm Force"
+
+#. translators: %s - addon status label.
+#: inc/class-hfe-settings-page.php:1219
+msgid "%1$s %3$s %2$s"
+msgstr "%1$s %3$s %2$s"
+
+#. translators: %s - addon status label.
+#: inc/class-hfe-settings-page.php:1236
+msgid "Status: %s"
+msgstr "وضعیت: %s"
+
+#: inc/class-hfe-settings-page.php:1255
+msgid "WordPress.org"
+msgstr "WordPress.org"
+
+#: inc/class-hfe-settings-page.php:1320
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: inc/class-hfe-settings-page.php:1367
+#: inc/widgets-manager/base/widgets-config.php:1156
+msgid "Starter Templates"
+msgstr "الگوهای آغازگر"
+
+#: inc/class-hfe-settings-page.php:1368
+msgid ""
+"A popular templates plugin that provides an extensive library of "
+"professional and fully customizable 600+ ready website and templates. More "
+"than 1+ Million websites have built with this plugin."
+msgstr ""
+"یک افزونه محبوب برای الگوها که کتابخانه‌ای گسترده از بیش از ۶۰۰ وب‌سایت و "
+"الگوی حرفه‌ای و کاملاً قابل‌سفارشی‌سازی ارائه می‌دهد. بیش از ۱ میلیون "
+"وب‌سایت با این افزونه ساخته شده‌اند."
+
+#: inc/class-hfe-settings-page.php:1380
+msgid ""
+"It’s a collection of 40+ unique, creative, and optimized Elementor widgets "
+"with 100+ readymade templates. Trusted by more than 600+ K web professionals."
+" It’s a #1 toolkit for Elementor Page Builder."
+msgstr ""
+"این مجموعه شامل 40+ ویجت منحصر به فرد، خلاقانه و بهینه‌شده برای المنتور "
+"همراه با 100+ قالب آماده است. مورد اعتماد بیش از 600+ هزار حرفه‌ای وب. این "
+"مجموعه، ابزار شماره 1 برای صفحه‌ساز المنتور است."
+
+#: inc/class-hfe-settings-page.php:1449
+msgid "Go to UAE Settings page"
+msgstr "رفتن به صفحه تنظیمات UAE"
+
+#: inc/lib/astra-notices/class-astra-notices.php:146
+msgid "WordPress Nonce not validated."
+msgstr "کد امنیتی وردپرس (Nonce) تأیید نشد."
+
+#: inc/lib/astra-notices/class-astra-notices.php:153
+msgid "Invalid notice ID."
+msgstr "شناسه اعلان نامعتبر است."
+
+#: inc/lib/nps-survey/classes/nps-survey-script.php:277
+msgid "Sorry, you are not allowed to do that."
+msgstr "متأسفیم، شما اجازه انجام این کار را ندارید."
+
+#: inc/lib/nps-survey/classes/nps-survey-script.php:331
+#: inc/lib/nps-survey/classes/nps-survey-script.php:449
+msgid "Nonce verification failed."
+msgstr "تأیید کد امنیتی (Nonce) ناموفق بود."
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:127
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:332
+msgid "404 Page"
+msgstr "صفحه ۴۰۴"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:128
+msgid "Search Page"
+msgstr "صفحه جستجو"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:129
+msgid "Blog / Posts Page"
+msgstr "صفحه وبلاگ / نوشته‌ها"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:130
+msgid "Front Page"
+msgstr "صفحه اصلی"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:131
+msgid "Date Archive"
+msgstr "بایگانی تاریخ"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:132
+msgid "Author Archive"
+msgstr "بایگانی نویسنده"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:136
+msgid "WooCommerce Shop Page"
+msgstr "صفحه فروشگاه ووکامرس"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:141
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:213
+#: build/main.js:172 build/main.js:31401 build/main.js:31410
+msgid "Basic"
+msgstr "پایه‌ای"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:143
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:112
+msgid "Entire Website"
+msgstr "کل وب‌سایت"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:144
+msgid "All Singulars"
+msgstr "همه صفحات تکی"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:145
+msgid "All Archives"
+msgstr "همه بایگانی‌ها"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:150
+msgid "Special Pages"
+msgstr "صفحات ویژه"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:191
+msgid "Specific Target"
+msgstr "هدف خاص"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:193
+msgid "Specific Pages / Posts / Taxonomies, etc."
+msgstr "صفحات / نوشته‌ها / طبقه‌بندی‌های خاص و غیره..."
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:215
+msgid "All"
+msgstr "همه"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:216
+msgid "Logged In"
+msgstr "وارد شده"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:217
+msgid "Logged Out"
+msgstr "خارج شده"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:222
+#: build/main.js:172 build/main.js:31400 build/main.js:31411
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:624
+msgid "Please enter"
+msgstr "لطفاً وارد کنید"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:625
+msgid "Please delete"
+msgstr "لطفاً حذف کنید"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:626
+msgid "or more characters"
+msgstr "یا بیشتر کاراکتر"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:627
+msgid "character"
+msgstr "کاراکتر"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:628
+msgid "Loading more results…"
+msgstr "در حال بارگذاری نتایج بیشتر…"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:629
+msgid "You can only select"
+msgstr "شما فقط می‌توانید انتخاب کنید"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:630
+msgid "item"
+msgstr "مورد"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:631
+msgid "s"
+msgstr "s"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:632
+msgid "No results found"
+msgstr "نتیجه‌ای یافت نشد"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:633
+msgid "Searching…"
+msgstr "در حال جستجو…"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:634
+msgid "The results could not be loaded."
+msgstr "نتایج قابل بارگذاری نیستند."
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:635
+msgid "Search pages / post / categories"
+msgstr "جستجوی صفحات / نوشته‌ها / دسته‌ها"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:654
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1064
+msgid "Add Rule"
+msgstr "افزودن قانون"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:670
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:775
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1080
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1110
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1572
+msgid "Select"
+msgstr "انتخاب"
+
+#. translators: %s post label
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:720
+msgid "All %s"
+msgstr "همه %s"
+
+#. translators: %s post label
+#. translators: %s taxonomy label
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:725
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:734
+msgid "All %s Archive"
+msgstr "بایگانی همه %s"
+
+#. translators: %s post title.
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1513
+msgid "The same display setting is already exist in %s post/s."
+msgstr "همان تنظیمات نمایش از قبل در نوشته(های) %s وجود دارد."
+
+#: inc/settings/hfe-settings-api.php:121
+msgid "Sorry, you are not authorized to perform this action."
+msgstr "متأسفیم، شما مجاز به انجام این عمل نیستید."
+
+#: inc/settings/hfe-settings-api.php:136 inc/settings/hfe-settings-api.php:163
+#: inc/settings/hfe-settings-api.php:190 inc/settings/hfe-settings-api.php:217
+#: inc/settings/hfe-settings-api.php:249
+msgid "Invalid nonce"
+msgstr "کد امنیتی نامعتبر"
+
+#: inc/settings/hfe-settings-api.php:170
+msgid "Plugins list not found"
+msgstr "لیست افزونه‌ها یافت نشد"
+
+#: inc/settings/hfe-settings-api.php:197
+msgid "Recommended plugins list not found"
+msgstr "لیست افزونه‌های پیشنهادی یافت نشد"
+
+#: inc/settings/hfe-settings-api.php:224
+msgid "Widgets list not found"
+msgstr "لیست ابزارک‌ها یافت نشد"
+
+#: inc/settings/hfe-settings-api.php:281
+msgid "Error calling endpoint"
+msgstr "خطا در فراخوانی endpoint"
+
+#: inc/settings/hfe-settings-api.php:288
+msgid "Error in API response: "
+msgstr "در پاسخ API خطایی رخ داده است: "
+
+#: inc/widgets-manager/base/widgets-config.php:54 build/main.js:172
+#: build/main.js:31279
+#| msgid "Retina Image"
+msgid "Retina Logo"
+msgstr "لوگوی رتینا"
+
+#: inc/widgets-manager/base/widgets-config.php:61
+msgid "Add a high-quality logo that looks sharp on any screen."
+msgstr "یک لوگوی باکیفیت اضافه کنید که در هر صفحه‌نمایشی واضح به‌نظر برسد."
+
+#: inc/widgets-manager/base/widgets-config.php:67 build/main.js:172
+#: build/main.js:31281
+msgid "Page Title"
+msgstr "عنوان صفحه"
+
+#: inc/widgets-manager/base/widgets-config.php:74
+msgid "Display the title of the current page dynamically."
+msgstr "نمایش عنوان صفحه فعلی به‌صورت داینامیک."
+
+#: inc/widgets-manager/base/widgets-config.php:80 build/main.js:172
+#: build/main.js:31282
+msgid "Site Tagline"
+msgstr "شعار سایت"
+
+#: inc/widgets-manager/base/widgets-config.php:87
+msgid "Display your site's tagline to enhance brand identity."
+msgstr "شعار سایت خود را برای تقویت هویت برند نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:93
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+#: inc/widgets-manager/base/widgets-config.php:100
+msgid "Show your site’s name in a customizable style."
+msgstr "نام سایت خود را با استایل قابل سفارشی‌سازی نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:106 build/main.js:172
+#: build/main.js:31275
+msgid "Post Info"
+msgstr "اطلاعات نوشته"
+
+#: inc/widgets-manager/base/widgets-config.php:114
+msgid "Show author, dates, and reading time with customizable styles."
+msgstr "نمایش نویسنده، تاریخ‌ها و زمان مطالعه با استایل‌های قابل تنظیم."
+
+#: inc/widgets-manager/base/widgets-config.php:120
+#| msgid "Basic"
+msgid "Basic Posts"
+msgstr "نوشته‌های پایه"
+
+#: inc/widgets-manager/base/widgets-config.php:128
+msgid ""
+"Display posts in a fast, lightweight card layout with basic styling options."
+msgstr "نمایش نوشته‌ها در یک طرح کارت سبک و سریع با گزینه‌های استایل پایه."
+
+#: inc/widgets-manager/base/widgets-config.php:134 build/main.js:172
+#: build/main.js:31278
+msgid "Breadcrumbs"
+msgstr "بردکرامب (مسیر صفحه)"
+
+#: inc/widgets-manager/base/widgets-config.php:142
+msgid "Add navigation links to guide visitors across your site."
+msgstr "افزودن لینک‌های ناوبری برای هدایت بازدیدکنندگان در سراسر سایت."
+
+#: inc/widgets-manager/base/widgets-config.php:148
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:49
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:117
+#: inc/widgets-manager/extensions/class-scroll-to-top.php:310 build/main.js:172
+#: build/main.js:31276
+msgid "Scroll to Top"
+msgstr "بازگشت به بالا"
+
+#: inc/widgets-manager/base/widgets-config.php:156
+msgid "Add a customizable button for quick, one-click top scrolling."
+msgstr "افزودن دکمه‌ای قابل سفارشی‌سازی برای بازگشت سریع به بالای صفحه."
+
+#: inc/widgets-manager/base/widgets-config.php:162
+#: inc/widgets-manager/class-widgets-loader.php:362
+#: inc/widgets-manager/widgets/cart/cart.php:663
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: inc/widgets-manager/base/widgets-config.php:169
+msgid "Show cart for seamless shopping experiences."
+msgstr "نمایش سبد خرید برای تجربه خرید روان و آسان."
+
+#: inc/widgets-manager/base/widgets-config.php:175
+#: inc/widgets-manager/widgets/copyright/copyright.php:115 build/main.js:172
+#: build/main.js:31280
+msgid "Copyright"
+msgstr "کپی‌رایت"
+
+#: inc/widgets-manager/base/widgets-config.php:182
+msgid "Display customizable copyright text for your site's footer."
+msgstr "نمایش متن کپی‌رایت قابل تنظیم در پابرگ سایت شما."
+
+#: inc/widgets-manager/base/widgets-config.php:188
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:38
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:88
+#: inc/widgets-manager/extensions/class-reading-progress-bar.php:157
+#: build/main.js:172 build/main.js:31277
+msgid "Reading Progress Bar"
+msgstr "نوار پیشرفت خواندن"
+
+#: inc/widgets-manager/base/widgets-config.php:196
+msgid "Display a progress indicator as users read your content."
+msgstr "نمایش شاخص پیشرفت هنگام خواندن محتوای شما."
+
+#: inc/widgets-manager/base/widgets-config.php:202
+#: inc/widgets-manager/base/widgets-config.php:594
+#: inc/widgets-manager/class-widgets-loader.php:300 build/main.js:172
+#: build/main.js:31285 build/main.js:31396 build/main.js:31398
+#: build/main.js:31406 build/main.js:31408
+msgid "Navigation Menu"
+msgstr "منوی ناوبری"
+
+#: inc/widgets-manager/base/widgets-config.php:209
+msgid "Add stylish and functional menus for seamless site navigation."
+msgstr "افزودن منوهای زیبا و کاربردی برای ناوبری روان در سایت."
+
+#: inc/widgets-manager/base/widgets-config.php:215
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:146 build/main.js:172
+#: build/main.js:31283
+msgid "Site Logo"
+msgstr "لوگوی سایت"
+
+#: inc/widgets-manager/base/widgets-config.php:222
+msgid "Add your site's primary logo with flexible customization options."
+msgstr "لوگوی اصلی سایت خود را با گزینه‌های سفارشی‌سازی منعطف اضافه کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:228
+#: inc/widgets-manager/widgets/infocard/infocard.php:150 build/main.js:172
+#: build/main.js:31308
+msgid "Info Card"
+msgstr "کارت اطلاعات"
+
+#: inc/widgets-manager/base/widgets-config.php:235
+msgid "Add icon, heading, description & button/link — all in one widget."
+msgstr "آیکن، عنوان، توضیح و دکمه/لینک را در یک ویجت واحد اضافه کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:241
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:319
+#: inc/widgets-manager/widgets/search-button/search-button.php:1035
+#: build/main.js:172 build/main.js:31284
+msgid "Search"
+msgstr "جستجو"
+
+#: inc/widgets-manager/base/widgets-config.php:248
+msgid "Add a search bar to help visitors find content easily."
+msgstr "افزودن نوار جستجو برای کمک به بازدیدکنندگان در یافتن محتوا."
+
+#: inc/widgets-manager/base/widgets-config.php:254
+msgid "Woo Products Grid"
+msgstr "شبکه محصولات ووکامرس"
+
+#: inc/widgets-manager/base/widgets-config.php:255
+msgid ""
+"Display WooCommerce products in a responsive grid layout with customizable "
+"styling options."
+msgstr ""
+"نمایش محصولات ووکامرس در طرح شبکه‌ای واکنش‌گرا با گزینه‌های استایل قابل "
+"تنظیم."
+
+#: inc/widgets-manager/base/widgets-config.php:288
+#: inc/widgets-manager/class-widgets-loader.php:279 build/main.js:172
+#: build/main.js:31291
+#| msgid "Advanced"
+msgid "Advanced Heading"
+msgstr "سربرگ پیشرفته"
+
+#: inc/widgets-manager/base/widgets-config.php:289
+msgid ""
+"Style headings with unique typography, separators, and highlights to grab "
+"attention."
+msgstr ""
+"استایل‌دهی به سربرگ‌ها با تایپوگرافی منحصربه‌فرد، جداکننده‌ها و برجسته‌سازی "
+"برای جلب توجه."
+
+#: inc/widgets-manager/base/widgets-config.php:302
+#: inc/widgets-manager/class-widgets-loader.php:280 build/main.js:172
+#: build/main.js:31324 build/main.js:33807
+msgid "Modal Popup"
+msgstr "پنجره پاپ‌آپ"
+
+#: inc/widgets-manager/base/widgets-config.php:303
+msgid ""
+"Create interactive pop-ups for promotions, forms, or announcements with "
+"flexible designs."
+msgstr ""
+"ایجاد پاپ‌آپ‌های تعاملی برای تبلیغات، فرم‌ها یا اعلان‌ها با طراحی منعطف."
+
+#: inc/widgets-manager/base/widgets-config.php:315
+#: inc/widgets-manager/class-widgets-loader.php:295 build/main.js:172
+#: build/main.js:31311
+#| msgid "Input Box"
+msgid "Info Box"
+msgstr "جعبه اطلاعات"
+
+#: inc/widgets-manager/base/widgets-config.php:316
+msgid ""
+"Showcase features, services, or highlights using eye-catching icons and text "
+"blocks."
+msgstr ""
+"نمایش ویژگی‌ها، خدمات یا نکات برجسته با استفاده از آیکن‌ها و بلوک‌های متنی "
+"جذاب."
+
+#: inc/widgets-manager/base/widgets-config.php:329
+#: inc/widgets-manager/class-widgets-loader.php:302
+msgid "Posts"
+msgstr "نوشته‌ها"
+
+#: inc/widgets-manager/base/widgets-config.php:330
+msgid ""
+"Display blog posts in advanced grid, carousel, or masonry layouts with full "
+"customization."
+msgstr ""
+"نمایش نوشته‌های وبلاگ در طرح‌های شبکه‌ای پیشرفته، اسلایدر یا آجری با "
+"سفارشی‌سازی کامل."
+
+#: inc/widgets-manager/base/widgets-config.php:344
+#: inc/widgets-manager/class-widgets-loader.php:281
+msgid "Content Toggle"
+msgstr "تاگل محتوا"
+
+#: inc/widgets-manager/base/widgets-config.php:345
+msgid ""
+"Organize content with switchable toggles that let visitors compare or "
+"explore easily."
+msgstr ""
+"سازمان‌دهی محتوا با سوئیچ‌های قابل تغییر برای مقایسه یا مرور آسان‌تر توسط "
+"کاربران."
+
+#: inc/widgets-manager/base/widgets-config.php:357
+#: inc/widgets-manager/class-widgets-loader.php:282
+#| msgid "Before Footer"
+msgid "Before After Slider"
+msgstr "اسلایدر قبل و بعد"
+
+#: inc/widgets-manager/base/widgets-config.php:358
+msgid ""
+"Visually compare images with a draggable slider that highlights differences "
+"instantly."
+msgstr ""
+"مقایسه تصویری با اسلایدری قابل کشیدن که تفاوت‌ها را به‌سرعت نمایش می‌دهد."
+
+#: inc/widgets-manager/base/widgets-config.php:370
+#: inc/widgets-manager/class-widgets-loader.php:283 build/main.js:172
+#: build/main.js:31323
+msgid "Business Hours"
+msgstr "ساعات کاری"
+
+#: inc/widgets-manager/base/widgets-config.php:371
+msgid ""
+"Display your opening hours in clean, stylish layouts that update your "
+"visitors clearly."
+msgstr ""
+"نمایش ساعات کاری شما در طرح‌های زیبا و واضح برای اطلاع‌رسانی دقیق به "
+"بازدیدکنندگان."
+
+#: inc/widgets-manager/base/widgets-config.php:385
+#: inc/widgets-manager/class-widgets-loader.php:284 build/main.js:172
+#: build/main.js:31352
+msgid "Business Reviews"
+msgstr "نظرات کسب‌وکار"
+
+#: inc/widgets-manager/base/widgets-config.php:386
+msgid ""
+"Boost credibility by showcasing real customer reviews directly on your "
+"website."
+msgstr "با نمایش نظرات واقعی مشتریان، اعتبار کسب‌وکار خود را افزایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:399
+#: inc/widgets-manager/class-widgets-loader.php:285
+msgid "Contact Form 7 Styler"
+msgstr "استایل‌دهنده فرم تماس 7"
+
+#: inc/widgets-manager/base/widgets-config.php:400
+msgid ""
+"Style and customize Contact Form 7 with advanced controls for seamless "
+"branding."
+msgstr ""
+"فرم تماس 7 را با کنترل‌های پیشرفته برای هماهنگی با برند خود استایل‌دهی و "
+"سفارشی کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:412
+#: inc/widgets-manager/class-widgets-loader.php:286 build/main.js:172
+#: build/main.js:31322
+msgid "Countdown Timer"
+msgstr "تایمر شمارش معکوس"
+
+#: inc/widgets-manager/base/widgets-config.php:413
+msgid ""
+"Create urgency with timers for sales, launches, or events that drive quick "
+"action."
+msgstr ""
+"با افزودن تایمر برای فروش، رونمایی یا رویدادها، حس فوریت ایجاد کنید و اقدام "
+"سریع را ترغیب کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:426
+#: inc/widgets-manager/class-widgets-loader.php:287 build/main.js:172
+#: build/main.js:31292
+msgid "Dual Color Heading"
+msgstr "سربرگ دو رنگ"
+
+#: inc/widgets-manager/base/widgets-config.php:427
+msgid ""
+"Highlight important words with dual-colored headings that make text more "
+"impactful."
+msgstr "کلمات مهم را با سرفصل‌های دو رنگ برجسته کنید تا متن تأثیرگذارتر شود."
+
+#: inc/widgets-manager/base/widgets-config.php:440
+#: inc/widgets-manager/class-widgets-loader.php:288 build/main.js:172
+#: build/main.js:31293
+msgid "Fancy Heading"
+msgstr "سرفصل فانتزی"
+
+#: inc/widgets-manager/base/widgets-config.php:441
+msgid ""
+"Design creative headings with animations, gradients, and stylish effects."
+msgstr "سرفصل‌های خلاقانه با انیمیشن‌ها، گرادیان‌ها و افکت‌های شیک طراحی کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:454
+#: inc/widgets-manager/class-widgets-loader.php:289
+msgid "FAQ Schema"
+msgstr "طرح FAQ"
+
+#: inc/widgets-manager/base/widgets-config.php:455
+msgid ""
+"Add FAQs that are SEO-ready and optimized for rich snippets in Google search."
+msgstr ""
+"سؤالات متداولی اضافه کنید که برای سئو بهینه شده و در نتایج گوگل به‌صورت ریچ "
+"اسنیپت نمایش داده می‌شوند."
+
+#: inc/widgets-manager/base/widgets-config.php:468
+#: inc/widgets-manager/class-widgets-loader.php:290 build/main.js:172
+#: build/main.js:31306
+msgid "Google Map"
+msgstr "نقشه گوگل"
+
+#: inc/widgets-manager/base/widgets-config.php:469
+msgid ""
+"Embed interactive, customizable maps with markers, styles, and responsive "
+"layouts."
+msgstr ""
+"نقشه‌های تعاملی و قابل تنظیم با نشانه‌گذارها، استایل‌ها و طرح‌بندی‌های "
+"واکنش‌گرا اضافه کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:483
+#: inc/widgets-manager/class-widgets-loader.php:291
+msgid "Gravity Form Styler"
+msgstr "استایل‌دهنده فرم Gravity"
+
+#: inc/widgets-manager/base/widgets-config.php:484
+msgid ""
+"Easily style Gravity Forms to match your brand with advanced design "
+"flexibility."
+msgstr ""
+"فرم‌های Gravity را به‌راحتی با انعطاف‌پذیری طراحی پیشرفته و مطابق برند خود "
+"استایل دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:496
+#: inc/widgets-manager/class-widgets-loader.php:292
+msgid "Hotspot"
+msgstr "نقطه داغ"
+
+#: inc/widgets-manager/base/widgets-config.php:497
+msgid ""
+"Add interactive hotspots to images for tooltips, product highlights, or "
+"guided tours."
+msgstr ""
+"به تصاویر نقاط تعاملی برای نمایش تولتیپ، معرفی محصولات یا تورهای راهنما "
+"اضافه کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:509
+#: inc/widgets-manager/class-widgets-loader.php:293
+msgid "How-to Schema"
+msgstr "طرح How-to"
+
+#: inc/widgets-manager/base/widgets-config.php:510
+msgid ""
+"Display step-by-step instructions with SEO-friendly markup for better "
+"rankings."
+msgstr ""
+"دستورالعمل‌های گام‌به‌گام را با نشانه‌گذاری سئوپسند برای رتبه‌بندی بهتر "
+"نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:522
+#: inc/widgets-manager/class-widgets-loader.php:294 build/main.js:172
+#: build/main.js:31302
+#| msgid "Image Size"
+msgid "Image Gallery"
+msgstr "گالری تصاویر"
+
+#: inc/widgets-manager/base/widgets-config.php:523
+msgid ""
+"Showcase images in beautiful grids, carousels, and masonry layouts with "
+"lightbox."
+msgstr ""
+"تصاویر را در گریدها، کاروسل‌ها و طرح‌های ماسونری زیبا با لایت‌باکس نمایش "
+"دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:535
+#: inc/widgets-manager/class-widgets-loader.php:296 build/main.js:172
+#: build/main.js:31368
+msgid "Instagram Feed"
+msgstr "فید اینستاگرام"
+
+#: inc/widgets-manager/base/widgets-config.php:536
+msgid ""
+"Display your Instagram posts in responsive, stylish layouts that boost "
+"engagement."
+msgstr ""
+"پست‌های اینستاگرام خود را در طرح‌بندی‌های واکنش‌گرا و شیک نمایش دهید تا "
+"تعامل کاربران افزایش یابد."
+
+#: inc/widgets-manager/base/widgets-config.php:550
+#: inc/widgets-manager/class-widgets-loader.php:297 build/main.js:172
+#: build/main.js:31312
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: inc/widgets-manager/base/widgets-config.php:551
+msgid ""
+"Add sleek, customizable login forms with complete control over styling and "
+"fields."
+msgstr ""
+"فرم‌های ورود زیبا و قابل تنظیم با کنترل کامل بر فیلدها و استایل‌ها اضافه "
+"کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:566
+#: inc/widgets-manager/class-widgets-loader.php:298 build/main.js:172
+#: build/main.js:31319
+msgid "Marketing Button"
+msgstr "دکمه بازاریابی"
+
+#: inc/widgets-manager/base/widgets-config.php:567
+msgid ""
+"Drive conversions with stylish buttons featuring icons, dual text, and hover "
+"effects."
+msgstr ""
+"با دکمه‌های شیک شامل آیکون، متن دوگانه و افکت‌های هاور نرخ تبدیل را افزایش "
+"دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:580
+#: inc/widgets-manager/class-widgets-loader.php:299
+#| msgid "Button"
+msgid "Multi Buttons"
+msgstr "چند دکمه‌ای"
+
+#: inc/widgets-manager/base/widgets-config.php:581
+msgid ""
+"Create multiple styled buttons side by side to offer clear, flexible actions."
+msgstr ""
+"چند دکمه استایل‌دار را در کنار هم برای ارائه اقدامات واضح و انعطاف‌پذیر "
+"ایجاد کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:595
+msgid ""
+"Build advanced, responsive navigation menus with design flexibility and "
+"controls."
+msgstr ""
+"منوهای ناوبری پیشرفته و واکنش‌گرا با کنترل‌های طراحی و انعطاف‌پذیری بسازید."
+
+#: inc/widgets-manager/base/widgets-config.php:607
+#: inc/widgets-manager/class-widgets-loader.php:301
+msgid "Off - Canvas"
+msgstr "آف‌کانواس"
+
+#: inc/widgets-manager/base/widgets-config.php:608
+msgid ""
+"Add off-canvas menus, sidebars, or panels that slide in with smooth "
+"interactions."
+msgstr ""
+"منوها، سایدبارها یا پنل‌های آف‌کانواس اضافه کنید که با انیمیشن نرم باز شوند."
+
+#: inc/widgets-manager/base/widgets-config.php:620
+#: inc/widgets-manager/class-widgets-loader.php:303
+#| msgid "Search Box"
+msgid "Price Box"
+msgstr "جعبه قیمت"
+
+#: inc/widgets-manager/base/widgets-config.php:621
+msgid ""
+"Showcase product or service pricing with modern layouts that highlight value."
+msgstr "قیمت محصولات یا خدمات را با طرح‌های مدرن و جذاب نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:634
+#: inc/widgets-manager/class-widgets-loader.php:304 build/main.js:172
+#: build/main.js:31321
+msgid "Price List"
+msgstr "لیست قیمت"
+
+#: inc/widgets-manager/base/widgets-config.php:635
+msgid ""
+"Showcase services or menu items with stylish layouts that highlight details "
+"and pricing."
+msgstr ""
+"خدمات یا آیتم‌های منو را با طرح‌های زیبا که جزئیات و قیمت‌ها را برجسته "
+"می‌کنند نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:648
+#: inc/widgets-manager/class-widgets-loader.php:305
+#: inc/widgets-manager/widgets/retina/retina.php:124
+#: inc/widgets-manager/widgets/retina/retina.php:258 build/main.js:172
+#: build/main.js:31376
+msgid "Retina Image"
+msgstr "تصویر رتینا"
+
+#: inc/widgets-manager/base/widgets-config.php:649
+msgid ""
+"Deliver crisp, high-resolution images that look perfect on every device and "
+"screen."
+msgstr ""
+"تصاویر واضح و با وضوح بالا ارائه دهید که در هر دستگاه و صفحه‌نمایشی عالی "
+"دیده شوند."
+
+#: inc/widgets-manager/base/widgets-config.php:661
+#: inc/widgets-manager/class-widgets-loader.php:306 build/main.js:172
+#: build/main.js:31370
+#| msgid "Special Pages"
+msgid "Social Share"
+msgstr "اشتراک‌گذاری اجتماعی"
+
+#: inc/widgets-manager/base/widgets-config.php:662
+msgid ""
+"Boost engagement by allowing visitors to easily share content across social "
+"networks."
+msgstr ""
+"با امکان اشتراک‌گذاری آسان محتوا در شبکه‌های اجتماعی تعامل کاربران را افزایش "
+"دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:677
+#: inc/widgets-manager/class-widgets-loader.php:307 build/main.js:172
+#: build/main.js:31304
+msgid "Table"
+msgstr "جدول"
+
+#: inc/widgets-manager/base/widgets-config.php:678
+msgid ""
+"Display data in responsive, customizable tables with complete design "
+"flexibility."
+msgstr ""
+"داده‌ها را در جدول‌های واکنش‌گرا و قابل تنظیم با انعطاف کامل طراحی نمایش "
+"دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:690
+#: inc/widgets-manager/class-widgets-loader.php:308 build/main.js:172
+#: build/main.js:31351
+msgid "Table of Contents"
+msgstr "فهرست مطالب"
+
+#: inc/widgets-manager/base/widgets-config.php:691
+msgid ""
+"Improve navigation with auto-generated tables of contents for long or "
+"complex pages."
+msgstr ""
+"برای صفحات طولانی یا پیچیده، فهرست مطالب خودکار برای ناوبری بهتر ایجاد کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:703
+#: inc/widgets-manager/class-widgets-loader.php:309 build/main.js:172
+#: build/main.js:31377
+msgid "Team Member"
+msgstr "اعضای تیم"
+
+#: inc/widgets-manager/base/widgets-config.php:704
+msgid ""
+"Introduce your team with clean profile cards that showcase names, roles, and "
+"socials."
+msgstr ""
+"اعضای تیم خود را با کارت‌های تمیز معرفی کنید که شامل نام، نقش و شبکه‌های "
+"اجتماعی باشند."
+
+#: inc/widgets-manager/base/widgets-config.php:717
+#: inc/widgets-manager/class-widgets-loader.php:310 build/main.js:172
+#: build/main.js:31305
+#| msgid "Overline"
+msgid "Timeline"
+msgstr "تایم‌لاین"
+
+#: inc/widgets-manager/base/widgets-config.php:718
+msgid ""
+"Present events, milestones, or stories in elegant horizontal or vertical "
+"timeline designs."
+msgstr ""
+"رویدادها، دستاوردها یا داستان‌ها را در طرح‌های عمودی یا افقی تایم‌لاین نمایش "
+"دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:731
+#: inc/widgets-manager/class-widgets-loader.php:311 build/main.js:172
+#: build/main.js:31369
+msgid "Twitter Feed"
+msgstr "فید توییتر"
+
+#: inc/widgets-manager/base/widgets-config.php:732
+msgid ""
+"Embed your live Twitter feed with customizable layouts that match your "
+"site's style."
+msgstr ""
+"فید زنده توییتر خود را با طرح‌بندی‌های قابل تنظیم که با استایل سایت هماهنگ "
+"است نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:746
+#: inc/widgets-manager/class-widgets-loader.php:312 build/main.js:172
+#: build/main.js:31313
+msgid "User Registration Form"
+msgstr "فرم ثبت‌نام کاربر"
+
+#: inc/widgets-manager/base/widgets-config.php:747
+msgid ""
+"Build sleek registration forms with advanced controls and a user-friendly "
+"experience."
+msgstr "فرم‌های ثبت‌نام زیبا با کنترل‌های پیشرفته و تجربه کاربری روان بسازید."
+
+#: inc/widgets-manager/base/widgets-config.php:762
+#: inc/widgets-manager/class-widgets-loader.php:313 build/main.js:172
+#: build/main.js:31309
+msgid "Video"
+msgstr "ویدیو"
+
+#: inc/widgets-manager/base/widgets-config.php:763
+msgid ""
+"Embed responsive videos from YouTube, Vimeo, or self-hosted sources with "
+"ease."
+msgstr ""
+"ویدیوهای واکنش‌گرا از YouTube، Vimeo یا منابع میزبانی‌شده خودتان را به‌راحتی "
+"قرار دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:775
+#: inc/widgets-manager/class-widgets-loader.php:314 build/main.js:172
+#: build/main.js:31303
+msgid "Video Gallery"
+msgstr "گالری ویدیو"
+
+#: inc/widgets-manager/base/widgets-config.php:776
+msgid ""
+"Showcase multiple videos in engaging grid or carousel layouts with lightbox "
+"options."
+msgstr ""
+"چند ویدیو را در طرح‌های گرید یا کاروسل جذاب با گزینه لایت‌باکس نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:788
+#: inc/widgets-manager/class-widgets-loader.php:315 build/main.js:172
+#: build/main.js:31359
+msgid "Welcome Music"
+msgstr "موسیقی خوش‌آمدگویی"
+
+#: inc/widgets-manager/base/widgets-config.php:789
+msgid ""
+"Enhance user experience by playing welcome music or audio when visitors land."
+msgstr ""
+"با پخش موسیقی یا صدای خوش‌آمدگویی هنگام ورود بازدیدکنندگان، تجربه کاربری را "
+"بهبود دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:801
+msgid "Woo - Add To Cart"
+msgstr "دکمه افزودن به سبد خرید ووکامرس"
+
+#: inc/widgets-manager/base/widgets-config.php:802
+msgid ""
+"Add customizable \"Add to Cart\" buttons anywhere for seamless shopping "
+"experiences."
+msgstr ""
+"دکمه‌های قابل تنظیم «افزودن به سبد خرید» را در هر مکانی برای تجربه خرید روان "
+"اضافه کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:814
+msgid "Woo - Categories"
+msgstr "دسته‌های ووکامرس"
+
+#: inc/widgets-manager/base/widgets-config.php:815
+msgid ""
+"Display WooCommerce categories in stylish grids, lists, or carousel layouts."
+msgstr "دسته‌های ووکامرس را در طرح‌های گرید، لیست یا کاروسل شیک نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:827
+msgid "Woo - Checkout"
+msgstr "تسویه‌حساب ووکامرس"
+
+#: inc/widgets-manager/base/widgets-config.php:828
+msgid ""
+"Simplify checkout with beautifully styled forms that match your brand "
+"identity."
+msgstr "فرآیند تسویه‌حساب را با فرم‌های زیبا و هماهنگ با برند خود ساده کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:840
+msgid "Woo - Mini Cart"
+msgstr "مینی‌کارت ووکامرس"
+
+#: inc/widgets-manager/base/widgets-config.php:841
+msgid ""
+"Show a quick mini cart with product previews and controls in a sleek "
+"dropdown."
+msgstr ""
+"یک مینی‌کارت سریع با پیش‌نمایش محصولات و کنترل‌ها در یک منوی کشویی شیک نمایش "
+"دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:853
+msgid "Woo - Products"
+msgstr "محصولات ووکامرس"
+
+#: inc/widgets-manager/base/widgets-config.php:854
+msgid ""
+"Display WooCommerce products in customizable grids, sliders, or catalog "
+"layouts."
+msgstr ""
+"محصولات ووکامرس را در طرح‌های قابل تنظیم مانند گرید، اسلایدر یا کاتالوگ "
+"نمایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:866
+msgid "WP Fluent Forms Styler"
+msgstr "استایل‌دهنده WP Fluent Forms"
+
+#: inc/widgets-manager/base/widgets-config.php:867
+msgid ""
+"Easily design and style Fluent Forms to perfectly align with your website "
+"branding."
+msgstr ""
+"فرم‌های Fluent Forms را به‌راحتی طراحی و استایل دهید تا با برند سایتتان "
+"هماهنگ باشند."
+
+#: inc/widgets-manager/base/widgets-config.php:879
+#| msgid "Border Style"
+msgid "WPForms Styler"
+msgstr "استایل‌دهنده WPForms"
+
+#: inc/widgets-manager/base/widgets-config.php:880
+msgid ""
+"Customize WPForms with advanced styling controls for a seamless brand "
+"experience."
+msgstr ""
+"فرم‌های WPForms را با کنترل‌های استایل پیشرفته برای تجربه برند یکپارچه تنظیم "
+"کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:893
+msgid ""
+"Control widget visibility with display rules based on users, devices, and "
+"pages."
+msgstr ""
+"نمایش ویجت‌ها را با قوانین بر اساس کاربران، دستگاه‌ها و صفحات کنترل کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:908
+msgid "Add dynamic, animated backgrounds to sections and columns."
+msgstr "به بخش‌ها و ستون‌ها پس‌زمینه‌های پویا و انیمیشنی اضافه کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:921
+msgid "Decorate your site with festive seasonal elements easily."
+msgstr "سایت خود را به‌راحتی با عناصر فصلی و جشنواره‌ای تزئین کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:933 build/main.js:172
+#: build/main.js:31362
+#| msgid "Divider"
+msgid "Shape Divider"
+msgstr "جداکننده شکل"
+
+#: inc/widgets-manager/base/widgets-config.php:934
+msgid "Add new attractive shape dividers to Elementor sections."
+msgstr "افزودن جداکننده‌های شکل جذاب جدید به بخش‌های المنتور."
+
+#: inc/widgets-manager/base/widgets-config.php:946
+msgid "Cross-Site Copy Paste"
+msgstr "کپی و پیست بین سایت‌ها"
+
+#: inc/widgets-manager/base/widgets-config.php:947
+msgid ""
+"Easily copy and paste styled sections or widgets across multiple websites."
+msgstr ""
+"به‌راحتی بخش‌ها یا ویجت‌های استایل‌شده را میان چند وب‌سایت کپی و پیست کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:959 build/main.js:172
+#: build/main.js:31358
+msgid "Presets"
+msgstr "پیش‌تنظیم‌ها"
+
+#: inc/widgets-manager/base/widgets-config.php:960
+msgid ""
+"Save time with ready-made design presets that give widgets a quick, "
+"professional look."
+msgstr ""
+"با پیش‌تنظیم‌های آماده طراحی، در زمان صرفه‌جویی کنید و به ویجت‌ها ظاهری "
+"حرفه‌ای بدهید."
+
+#: inc/widgets-manager/base/widgets-config.php:978
+msgid "Caldera Form Styler"
+msgstr "استایل‌دهنده فرم Caldera"
+
+#: inc/widgets-manager/base/widgets-config.php:979
+msgid "Style and enhance Caldera Forms to fit your site."
+msgstr "فرم‌های Caldera را استایل‌دهی و بهبود دهید تا با سایت شما هماهنگ شوند."
+
+#. translators: %s: theme name
+#: inc/widgets-manager/base/widgets-config.php:1024
+msgid "Free & Fastest WordPress Theme."
+msgstr "سریع‌ترین و رایگان‌ترین قالب وردپرس."
+
+#: inc/widgets-manager/base/widgets-config.php:1048
+msgid "Boost Your Traffic with Easy SEO Optimization!"
+msgstr "افزایش بازدید با بهینه‌سازی آسان سئو!"
+
+#: inc/widgets-manager/base/widgets-config.php:1049
+msgid ""
+"Rank higher with effortless SEO optimization. SureRank offers a simple, "
+"clutter-free interface with lightweight code, minimal setup, clear meta and "
+"schema settings, and smart content optimization that actually makes sense, "
+"helping you grow your traffic easily."
+msgstr ""
+"با بهینه‌سازی سئوی آسان رتبه بالاتری بگیرید. SureRank رابطی ساده و بدون "
+"شلوغی با کد سبک، تنظیمات واضح متا و اسکیما و بهینه‌سازی هوشمند محتوا ارائه "
+"می‌دهد تا به‌راحتی ترافیک خود را افزایش دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:1061
+msgid "Sell Products Effortlessly with SureCart!"
+msgstr "محصولات خود را با SureCart به‌راحتی بفروشید!"
+
+#: inc/widgets-manager/base/widgets-config.php:1062
+msgid ""
+"Sell your products effortlessly with a modern, flexible eCommerce system. "
+"SureCart makes it easy to set up one-click checkout, manage subscriptions, "
+"recover abandoned carts, and collect secure payments, helping you launch and "
+"grow your online store confidently."
+msgstr ""
+"محصولات خود را با یک سیستم فروش مدرن و انعطاف‌پذیر به‌راحتی بفروشید. "
+"SureCart تنظیم پرداخت یک‌کلیکی، مدیریت اشتراک‌ها، بازیابی سبدهای رهاشده و "
+"دریافت پرداخت‌های امن را آسان می‌کند تا با اطمینان فروشگاه آنلاین خود را "
+"راه‌اندازی و رشد دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:1074
+msgid "Build Powerful Forms in Minutes with SureForms!"
+msgstr "فرم‌های قدرتمند را در چند دقیقه با SureForms بسازید!"
+
+#: inc/widgets-manager/base/widgets-config.php:1075
+msgid ""
+"Build powerful forms in minutes without complexity. SureForms lets you "
+"create contact forms, payment forms, and surveys using an AI-assisted, clean "
+"interface with conversational layouts, conditional logic, payment collection,"
+" and mobile optimization for a seamless experience."
+msgstr ""
+"بدون پیچیدگی در چند دقیقه فرم‌های قدرتمند بسازید. SureForms به شما اجازه "
+"می‌دهد فرم‌های تماس، پرداخت و نظرسنجی را با رابط کاربری تمیز و مبتنی بر هوش "
+"مصنوعی، منطق شرطی، دریافت پرداخت و بهینه‌سازی موبایل ایجاد کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:1087
+msgid "Add Engaging Videos Seamlessly with Presto Player!"
+msgstr "ویدیوهای جذاب را با Presto Player به‌سادگی اضافه کنید!"
+
+#: inc/widgets-manager/base/widgets-config.php:1088
+msgid ""
+"Add engaging videos seamlessly in minutes without complexity. Presto Player "
+"lets you enhance your website with videos using branding, chapters, and call-"
+"to-actions while providing fast load times, detailed analytics, and user-"
+"friendly controls for a seamless viewing experience."
+msgstr ""
+"ویدیوهای جذاب را بدون پیچیدگی و در چند دقیقه اضافه کنید. Presto Player به "
+"شما کمک می‌کند تا با افزودن برندینگ، فصل‌بندی و دکمه‌های اقدام، تجربه‌ای "
+"سریع، تحلیلی و کاربرپسند برای بینندگان فراهم کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:1100
+msgid "Automate Your Workflows Easily with Ottokit!"
+msgstr "اتوماسیون آسان گردش‌کار با Ottokit!"
+
+#: inc/widgets-manager/base/widgets-config.php:1101
+msgid ""
+"Automate workflows effortlessly in minutes without complexity. Ottokit lets "
+"you connect your WordPress site with web apps to automate tasks, sync data, "
+"and run actions using a clean visual builder with scheduling, filters, "
+"conditions, and webhooks for a seamless experience."
+msgstr ""
+"گردش‌کارها را بدون پیچیدگی و در چند دقیقه خودکار کنید. Ottokit به شما اجازه "
+"می‌دهد سایت وردپرس خود را به اپلیکیشن‌های وب متصل کرده و وظایف را با "
+"زمان‌بندی، فیلتر، شرط و وبهوک‌ها خودکار انجام دهید."
+
+#: inc/widgets-manager/base/widgets-config.php:1157
+msgid ""
+"Quickly launch websites with 300+ professionally designed Elementor "
+"templates."
+msgstr ""
+"به‌سرعت وب‌سایت‌هایی را با بیش از 300 الگوی حرفه‌ای المنتور راه‌اندازی کنید."
+
+#: inc/widgets-manager/base/widgets-config.php:1169
+msgid "SureRank"
+msgstr "SureRank"
+
+#: inc/widgets-manager/base/widgets-config.php:1170
+msgid "Powerful, lightweight SEO plugin to manage search and social previews"
+msgstr ""
+"افزونه سئوی قدرتمند و سبک برای مدیریت پیش‌نمایش جستجو و شبکه‌های اجتماعی"
+
+#: inc/widgets-manager/base/widgets-config.php:1182
+msgid "SureForms"
+msgstr "SureForms"
+
+#: inc/widgets-manager/base/widgets-config.php:1183
+msgid "Create high-converting forms with ease."
+msgstr "فرم‌های با نرخ تبدیل بالا را به‌راحتی بسازید."
+
+#: inc/widgets-manager/base/widgets-config.php:1195
+msgid "OttoKit (Formerly SureTriggers)"
+msgstr "OttoKit (نام سابق SureTriggers)"
+
+#: inc/widgets-manager/base/widgets-config.php:1196
+msgid "Automate WordPress tasks effortlessly."
+msgstr "وظایف وردپرس را به‌راحتی خودکار کنید."
+
+#: inc/widgets-manager/class-widgets-loader.php:187
+#| msgid "Ultimate Addons for Elementor"
+msgid "Ultimate Addons"
+msgstr "افزودنی‌های نهایی"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:96
+msgid "Enable Reading Progress Bar"
+msgstr "فعال‌سازی نوار پیشرفت خواندن"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:98
+#: inc/widgets-manager/extensions/class-reading-progress-bar.php:168
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:127
+#: inc/widgets-manager/extensions/class-scroll-to-top.php:321
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:191
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:272
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:315
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:365
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:377
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:392
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:407
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:452
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:496
+#: inc/widgets-manager/widgets/cart/cart.php:184
+#: inc/widgets-manager/widgets/cart/cart.php:200
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:259
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:276
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:568
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:155
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:221
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:283
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:272
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:284
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:296
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:308
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:320
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:332
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:344
+#: build/main.js:2 build/main.js:172 build/main.js:29092 build/main.js:32667
+msgid "Yes"
+msgstr "بله"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:99
+#: inc/widgets-manager/extensions/class-reading-progress-bar.php:169
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:128
+#: inc/widgets-manager/extensions/class-scroll-to-top.php:322
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:192
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:273
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:316
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:366
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:378
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:393
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:408
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:453
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:497
+#: inc/widgets-manager/widgets/cart/cart.php:185
+#: inc/widgets-manager/widgets/cart/cart.php:201
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:260
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:277
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:569
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:156
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:220
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:284
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:273
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:285
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:297
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:309
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:321
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:333
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:345
+msgid "No"
+msgstr "خیر"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:134
+msgid ""
+"Select \"All Pages\" or choose specific post types. If \"All Pages\" is "
+"selected along with specific post types, the progress bar will appear on all "
+"pages."
+msgstr ""
+"گزینه «همه صفحات» را انتخاب کنید یا نوع نوشته خاصی را برگزینید. اگر «همه "
+"صفحات» همراه با نوع نوشته‌های خاص انتخاب شود، نوار پیشرفت در همه صفحات نمایش "
+"داده خواهد شد."
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:141
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:193
+msgid "Position"
+msgstr "موقعیت"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:145
+msgid "Top"
+msgstr "بالا"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:146
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:211
+msgid "Bottom"
+msgstr "پایین"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:157
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:547
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:604
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:684
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:763
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:832
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:900
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:407
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:473
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:533
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:597
+#: inc/widgets-manager/widgets/infocard/infocard.php:871
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1541
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1573
+#: inc/widgets-manager/widgets/page-title/page-title.php:314
+#: inc/widgets-manager/widgets/post-info/post-info.php:644
+#: inc/widgets-manager/widgets/post-info/post-info.php:680
+#: inc/widgets-manager/widgets/search-button/search-button.php:836
+#: inc/widgets-manager/widgets/search-button/search-button.php:856
+#: inc/widgets-manager/widgets/search-button/search-button.php:940
+#: inc/widgets-manager/widgets/search-button/search-button.php:965
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:218
+#: inc/widgets-manager/widgets/site-title/site-title.php:306
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:739
+msgid "Color"
+msgstr "رنگ"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:172
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:310
+#: inc/widgets-manager/widgets/post-info/post-info.php:614
+#| msgid "Right"
+msgid "Height"
+msgstr "ارتفاع"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:198
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:226
+msgid "Offset"
+msgstr "فاصله"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:219
+#: inc/widgets-manager/extensions/class-reading-progress-bar-settings.php:247
+msgid "Set offset value to 0 or greater to ensure the progress bar is visible."
+msgstr "مقدار فاصله را 0 یا بیشتر تنظیم کنید تا نوار پیشرفت قابل‌مشاهده باشد."
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar.php:165
+msgid "Disable For This Page"
+msgstr "غیرفعال کردن برای این صفحه"
+
+#: inc/widgets-manager/extensions/class-reading-progress-bar.php:171
+#| msgid "<b>Note:</b> Archive page title will be visible on frontend."
+msgid "Note: Changes will be applied on the frontend."
+msgstr "توجه: تغییرات در بخش فرانت‌اند اعمال خواهند شد."
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:125
+msgid "Enable Scroll To Top"
+msgstr "فعال‌سازی دکمه بازگشت به بالا"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:144
+#| msgid "Responsive"
+msgid "Responsive Support"
+msgstr "پشتیبانی واکنش‌گرا"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:147
+msgid "Show"
+msgstr "نمایش"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:148
+msgid "Hide"
+msgstr "پنهان"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:198
+msgid "Bottom Left"
+msgstr "پایین چپ"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:199
+msgid "Bottom Right"
+msgstr "پایین راست"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:243
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:193
+#: inc/widgets-manager/widgets/cart/cart.php:219
+#: inc/widgets-manager/widgets/copyright/copyright.php:147
+#: inc/widgets-manager/widgets/infocard/infocard.php:174
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:316
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:347
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:382
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:418
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:533
+#: inc/widgets-manager/widgets/page-title/page-title.php:258
+#: inc/widgets-manager/widgets/retina/retina.php:168
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:194
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:182
+#: inc/widgets-manager/widgets/site-title/site-title.php:250
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:526
+msgid "Left"
+msgstr "چپ"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:277
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:201
+#: inc/widgets-manager/widgets/cart/cart.php:227
+#: inc/widgets-manager/widgets/copyright/copyright.php:155
+#: inc/widgets-manager/widgets/infocard/infocard.php:182
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:324
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:348
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:390
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:426
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:541
+#: inc/widgets-manager/widgets/page-title/page-title.php:266
+#: inc/widgets-manager/widgets/retina/retina.php:176
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:202
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:190
+#: inc/widgets-manager/widgets/site-title/site-title.php:258
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:534
+msgid "Right"
+msgstr "راست"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:333
+#: inc/widgets-manager/widgets/post-info/post-info.php:585
+#: inc/widgets-manager/widgets/retina/retina.php:266
+#: inc/widgets-manager/widgets/search-button/search-button.php:242
+#: inc/widgets-manager/widgets/search-button/search-button.php:791
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:321
+msgid "Width"
+msgstr "عرض"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:355
+msgid "Z Index"
+msgstr "شاخص Z"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:377
+#: inc/widgets-manager/widgets/retina/retina.php:432
+#: inc/widgets-manager/widgets/retina/retina.php:466
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:496
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:530
+msgid "Opacity"
+msgstr "شفافیت"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:398
+#| msgid "Media File"
+msgid "Media Type"
+msgstr "نوع رسانه"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:407
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:445
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1017
+#| msgid "Add Image"
+msgid "Image"
+msgstr "تصویر"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:411
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:461
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:237
+#: inc/widgets-manager/widgets/infocard/infocard.php:514
+#: inc/widgets-manager/widgets/infocard/infocard.php:523
+#: inc/widgets-manager/widgets/infocard/infocard.php:538
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:861
+#: inc/widgets-manager/widgets/post-info/post-info.php:727
+msgid "Text"
+msgstr "متن"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:476
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:546
+#: inc/widgets-manager/widgets/cart/cart.php:273
+#: inc/widgets-manager/widgets/infocard/infocard.php:226
+#: inc/widgets-manager/widgets/infocard/infocard.php:572
+#: inc/widgets-manager/widgets/page-title/page-title.php:237
+#: inc/widgets-manager/widgets/post-info/post-info.php:293
+#: inc/widgets-manager/widgets/post-info/post-info.php:693
+#: inc/widgets-manager/widgets/search-button/search-button.php:189
+#: inc/widgets-manager/widgets/search-button/search-button.php:907
+#: inc/widgets-manager/widgets/site-title/site-title.php:212
+msgid "Size"
+msgstr "اندازه"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:537
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:400
+#: inc/widgets-manager/widgets/cart/cart.php:349
+#: inc/widgets-manager/widgets/cart/cart.php:547
+#: inc/widgets-manager/widgets/infocard/infocard.php:297
+#: inc/widgets-manager/widgets/infocard/infocard.php:605
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:957
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1161
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1534
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1727
+#: inc/widgets-manager/widgets/page-title/page-title.php:341
+#: inc/widgets-manager/widgets/retina/retina.php:425
+#: inc/widgets-manager/widgets/search-button/search-button.php:268
+#: inc/widgets-manager/widgets/search-button/search-button.php:674
+#: inc/widgets-manager/widgets/search-button/search-button.php:829
+#: inc/widgets-manager/widgets/search-button/search-button.php:934
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:489
+#: inc/widgets-manager/widgets/site-title/site-title.php:333
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:926
+msgid "Normal"
+msgstr "عادی"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:577
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:634
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:498
+#: inc/widgets-manager/widgets/cart/cart.php:392
+#: inc/widgets-manager/widgets/cart/cart.php:448
+#: inc/widgets-manager/widgets/infocard/infocard.php:365
+#: inc/widgets-manager/widgets/infocard/infocard.php:671
+#: inc/widgets-manager/widgets/infocard/infocard.php:790
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1480
+#: inc/widgets-manager/widgets/retina/retina.php:381
+#: inc/widgets-manager/widgets/search-button/search-button.php:362
+#: inc/widgets-manager/widgets/search-button/search-button.php:506
+#: inc/widgets-manager/widgets/search-button/search-button.php:596
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:445
+msgid "Border Color"
+msgstr "رنگ کادر"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:594
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:466
+#: inc/widgets-manager/widgets/cart/cart.php:405
+#: inc/widgets-manager/widgets/cart/cart.php:584
+#: inc/widgets-manager/widgets/infocard/infocard.php:430
+#: inc/widgets-manager/widgets/infocard/infocard.php:748
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:996
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1204
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1566
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1794
+#: inc/widgets-manager/widgets/retina/retina.php:460
+#: inc/widgets-manager/widgets/search-button/search-button.php:714
+#: inc/widgets-manager/widgets/search-button/search-button.php:849
+#: inc/widgets-manager/widgets/search-button/search-button.php:958
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:524
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:964
+msgid "Hover"
+msgstr "هاور"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top-settings.php:652
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:621
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:452
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:641
+#: inc/widgets-manager/widgets/cart/cart.php:311
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1319
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1637
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1772
+#: inc/widgets-manager/widgets/retina/retina.php:399
+#: inc/widgets-manager/widgets/search-button/search-button.php:404
+#: inc/widgets-manager/widgets/search-button/search-button.php:635
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:463
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:484
+msgid "Border Radius"
+msgstr "انحنای کادر"
+
+#: inc/widgets-manager/extensions/class-scroll-to-top.php:318
+msgid "Disable Scroll to Top For This Page"
+msgstr "غیرفعال کردن دکمه بازگشت به بالا برای این صفحه"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:110
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:112
+#: inc/widgets-manager/widgets/cart/cart.php:94
+#: inc/widgets-manager/widgets/infocard/infocard.php:91
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:82
+#: inc/widgets-manager/widgets/post-info/post-info.php:100
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:142
+#: build/main.js:172 build/main.js:33976
+msgid "Upgrade"
+msgstr "ارتقا"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:111
+msgid "Upgrade your Basic Posts Widget"
+msgstr "ارتقای ویجت نوشته‌های پایه"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:112
+#: inc/widgets-manager/widgets/post-info/post-info.php:102
+msgid ""
+"Get the Advanced Posts widget and unlock powerful layouts, filters, and "
+"customization options with UAE Pro."
+msgstr ""
+"ویجت پیشرفته نوشته‌ها را دریافت کنید و با UAE Pro چیدمان‌ها، فیلترها و "
+"گزینه‌های شخصی‌سازی قدرتمندی را باز کنید."
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:152
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:364
+msgid "Query"
+msgstr "پرس‌وجو"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:160
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:371
+#| msgid "Border Style"
+msgid "Order By"
+msgstr "مرتب‌سازی بر اساس"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:165
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:305
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:673
+#: inc/widgets-manager/widgets/infocard/infocard.php:144
+#: inc/widgets-manager/widgets/infocard/infocard.php:827
+#: inc/widgets-manager/widgets/page-title/page-title.php:121
+#: inc/widgets-manager/widgets/page-title/page-title.php:295
+#: inc/widgets-manager/widgets/site-title/site-title.php:289
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:376
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:659
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:166
+#| msgid "Menu Cart"
+msgid "Menu Order"
+msgstr "ترتیب منو"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:167
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:380
+msgid "Random"
+msgstr "تصادفی"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:168
+msgid "Comment Count"
+msgstr "تعداد دیدگاه‌ها"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:176
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:388
+#| msgid "Border"
+msgid "Order"
+msgstr "ترتیب"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:180
+msgid "ASC"
+msgstr "صعودی"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:181
+msgid "DESC"
+msgstr "نزولی"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:189
+#| msgid "Exclude On"
+msgid "Exclude Current Post"
+msgstr "حذف نوشته فعلی"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:211
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:152
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:358
+#: inc/widgets-manager/widgets/infocard/infocard.php:137
+#: inc/widgets-manager/widgets/post-info/post-info.php:134
+#: inc/widgets-manager/widgets/site-title/site-title.php:124
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:211
+msgid "General"
+msgstr "عمومی"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:219
+#| msgid "Blog / Posts Page"
+msgid "Posts Per Page"
+msgstr "تعداد نوشته‌ها در هر صفحه"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:230
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:218
+msgid "Columns"
+msgstr "ستون‌ها"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:262
+#| msgid "Retina Image"
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:270
+#| msgid "Choose Default Image"
+msgid "Show Featured Image"
+msgstr "نمایش تصویر شاخص"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:282
+#: inc/widgets-manager/widgets/retina/retina.php:157
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:183
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1026
+msgid "Image Size"
+msgstr "اندازه تصویر"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:313
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:294
+#| msgid "Site Title"
+msgid "Show Title"
+msgstr "نمایش عنوان"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:325
+#| msgid "HTML Tag"
+msgid "Title HTML Tag"
+msgstr "تگ HTML عنوان"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:355
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:752
+msgid "Meta"
+msgstr "اطلاعات متا"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:363
+msgid "Show Meta Data"
+msgstr "نمایش داده‌های متا"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:375
+#| msgid "Date"
+msgid "Show Date"
+msgstr "نمایش تاریخ"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:390
+msgid "Show Author"
+msgstr "نمایش نویسنده"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:405
+msgid "Show Comments Count"
+msgstr "نمایش تعداد دیدگاه‌ها"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:420
+msgid "Meta Separator"
+msgstr "جداکننده متا"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:442
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:821
+msgid "Excerpt"
+msgstr "خلاصه مطلب"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:450
+msgid "Show Excerpt"
+msgstr "نمایش خلاصه مطلب"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:462
+msgid "Excerpt Length"
+msgstr "طول خلاصه مطلب"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:486
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:889
+msgid "Call to Action"
+msgstr "دعوت به اقدام"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:494
+#| msgid "Show Total Price"
+msgid "Show Read More"
+msgstr "نمایش ادامه مطلب"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:506
+msgid "Read More Text"
+msgstr "متن ادامه مطلب"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:508
+#: inc/widgets-manager/widgets/basic-posts/template.php:107
+msgid "Read More →"
+msgstr "بیشتر بخوانید ←"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:528
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:290
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:297
+#: inc/widgets-manager/widgets/post-info/post-info.php:141
+#: inc/widgets-manager/widgets/search-button/search-button.php:161
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:414
+msgid "Layout"
+msgstr "چیدمان"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:536
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:422
+msgid "Column Gap"
+msgstr "فاصله بین ستون‌ها"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:556
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:444
+msgid "Row Gap"
+msgstr "فاصله بین ردیف‌ها"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:586
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:514
+msgid "Card"
+msgstr "کارت"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:595
+#: inc/widgets-manager/widgets/search-button/search-button.php:694
+#: inc/widgets-manager/widgets/search-button/search-button.php:747
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:548
+msgid "Background"
+msgstr "پس‌زمینه"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:613
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:442
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:631
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1764
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:476
+msgid "Border"
+msgstr "کادر"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:635
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:467
+msgid "Box Shadow"
+msgstr "سایه جعبه"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:643
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:385
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:653
+#: inc/widgets-manager/widgets/cart/cart.php:331
+#: inc/widgets-manager/widgets/infocard/infocard.php:731
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1712
+#: inc/widgets-manager/widgets/retina/retina.php:585
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:650
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:905
+msgid "Padding"
+msgstr "پدینگ"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:698
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:914
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:682
+#| msgid "Icon Hover Color"
+msgid "Hover Color"
+msgstr "رنگ هاور"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:710
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:779
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:847
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:926
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:433
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:566
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:622
+#: inc/widgets-manager/widgets/infocard/infocard.php:819
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1702
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:790
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:848
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:721
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:790
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:858
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:626
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:704
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:754
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:812
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:870
+#| msgid "Row Spacing"
+msgid "Bottom Spacing"
+msgstr "فاصله پایین"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:946
+msgid "Full"
+msgstr "کامل"
+
+#: inc/widgets-manager/widgets/basic-posts/basic-posts.php:1030
+#| msgid "No results found"
+msgid "No posts found."
+msgstr "هیچ نوشته‌ای پیدا نشد."
+
+#: inc/widgets-manager/widgets/basic-posts/template.php:68
+msgid "by"
+msgstr "توسط"
+
+#: inc/widgets-manager/widgets/basic-posts/template.php:76
+#: inc/widgets-manager/widgets/post-info/post-info.php:319
+#: inc/widgets-manager/widgets/post-info/post-info.php:321
+#: inc/widgets-manager/widgets/post-info/post-info.php:938
+msgid "No Comments"
+msgstr "بدون دیدگاه"
+
+#: inc/widgets-manager/widgets/basic-posts/template.php:78
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#. translators: %s: Number of comments.
+#: inc/widgets-manager/widgets/basic-posts/template.php:80
+#: inc/widgets-manager/widgets/post-info/post-info.php:348
+#: inc/widgets-manager/widgets/post-info/post-info.php:941
+msgid "%s Comments"
+msgstr "%s دیدگاه"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:113
+msgid "Get more than just Breadcrumbs"
+msgstr "بیش از فقط مسیرنما دریافت کنید"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:114
+msgid ""
+"UAE Pro includes Schema widgets like FAQ Schema and How-To Schema, helping "
+"your content rank higher."
+msgstr ""
+"UAE Pro شامل ویجت‌های اسکیما مانند FAQ Schema و How-To Schema است که به "
+"محتوای شما برای رتبه بالاتر کمک می‌کند."
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:159
+msgid "Show Home"
+msgstr "نمایش خانه"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:161
+#: inc/widgets-manager/widgets/post-info/post-info.php:528
+msgid "On"
+msgstr "روشن"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:162
+#: inc/widgets-manager/widgets/post-info/post-info.php:527
+msgid "Off"
+msgstr "خاموش"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:171
+#| msgid "Close Icon"
+msgid "Home Icon"
+msgstr "آیکون خانه"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:188
+#: inc/widgets-manager/widgets/cart/cart.php:215
+#: inc/widgets-manager/widgets/copyright/copyright.php:143
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:312
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:529
+#: inc/widgets-manager/widgets/page-title/page-title.php:254
+#: inc/widgets-manager/widgets/post-info/post-info.php:500
+#: inc/widgets-manager/widgets/retina/retina.php:164
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:190
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:178
+#: inc/widgets-manager/widgets/site-title/site-title.php:246
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:522
+msgid "Alignment"
+msgstr "تراز"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:197
+#: inc/widgets-manager/widgets/cart/cart.php:223
+#: inc/widgets-manager/widgets/copyright/copyright.php:151
+#: inc/widgets-manager/widgets/infocard/infocard.php:178
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:320
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:386
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:422
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:537
+#: inc/widgets-manager/widgets/page-title/page-title.php:262
+#: inc/widgets-manager/widgets/post-info/post-info.php:508
+#: inc/widgets-manager/widgets/retina/retina.php:172
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:198
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:186
+#: inc/widgets-manager/widgets/site-title/site-title.php:254
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:530
+msgid "Center"
+msgstr "وسط"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:226
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:246
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:258
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:525
+#: inc/widgets-manager/widgets/post-info/post-info.php:525
+msgid "Separator"
+msgstr "جداکننده"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:233
+msgid "Separator Type"
+msgstr "نوع جداکننده"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:248
+msgid "»"
+msgstr "»"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:299
+#| msgid "Display On"
+msgid "Display Text"
+msgstr "نمایش متن"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:306
+#| msgid "Front Page"
+msgid "Home Page"
+msgstr "صفحه اصلی"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:308
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:693
+msgid "Home"
+msgstr "خانه"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:321
+#| msgid "No results found"
+msgid "Search results for:"
+msgstr "نتایج جستجو برای:"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:334
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:696
+msgid "Error 404: Page not found"
+msgstr "خطای 404: صفحه پیدا نشد"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:366
+#| msgid "Space Between"
+msgid "Spacing between Items"
+msgstr "فاصله بین آیتم‌ها"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:420
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:486
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:609
+#: inc/widgets-manager/widgets/cart/cart.php:381
+#: inc/widgets-manager/widgets/cart/cart.php:437
+#: inc/widgets-manager/widgets/cart/cart.php:568
+#: inc/widgets-manager/widgets/cart/cart.php:605
+#: inc/widgets-manager/widgets/infocard/infocard.php:325
+#: inc/widgets-manager/widgets/infocard/infocard.php:629
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:837
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:979
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1021
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1084
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1185
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1228
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1271
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1553
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1586
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1747
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1813
+#: inc/widgets-manager/widgets/retina/retina.php:555
+#: inc/widgets-manager/widgets/search-button/search-button.php:313
+#: inc/widgets-manager/widgets/search-button/search-button.php:473
+#: inc/widgets-manager/widgets/search-button/search-button.php:540
+#: inc/widgets-manager/widgets/search-button/search-button.php:732
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:393
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:620
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:946
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:983
+msgid "Background Color"
+msgstr "رنگ پس‌زمینه"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:589
+msgid "Current Item"
+msgstr "آیتم فعلی"
+
+#: inc/widgets-manager/widgets/breadcrumbs-widget/breadcrumbs-widget.php:697
+#| msgid "No results found"
+msgid "Search results for: "
+msgstr "نتایج جستجو برای: "
+
+#: inc/widgets-manager/widgets/cart/cart.php:95
+msgid "Upgrade your Cart widget"
+msgstr "ویجت سبد خرید خود را ارتقا دهید"
+
+#: inc/widgets-manager/widgets/cart/cart.php:96
+msgid ""
+"Get the WooCommerce Add to Cart widget and unlock advanced layouts, styles, "
+"and features with UAE Pro."
+msgstr ""
+"ویجت افزودن به سبد خرید ووکامرس را دریافت کنید و با UAE Pro طرح‌بندی‌ها، "
+"استایل‌ها و ویژگی‌های پیشرفته را فعال کنید."
+
+#: inc/widgets-manager/widgets/cart/cart.php:127
+#: inc/widgets-manager/widgets/cart/cart.php:252
+msgid "Menu Cart"
+msgstr "سبد خرید منو"
+
+#: inc/widgets-manager/widgets/cart/cart.php:134
+#: inc/widgets-manager/widgets/infocard/infocard.php:508
+#: inc/widgets-manager/widgets/post-info/post-info.php:164
+msgid "Type"
+msgstr "نوع"
+
+#: inc/widgets-manager/widgets/cart/cart.php:138
+#: inc/widgets-manager/widgets/infocard/infocard.php:654
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:244
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:470
+#: inc/widgets-manager/widgets/page-title/page-title.php:192
+#: inc/widgets-manager/widgets/page-title/page-title.php:241
+#: inc/widgets-manager/widgets/post-info/post-info.php:150
+#: inc/widgets-manager/widgets/post-info/post-info.php:404
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:251
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:282
+#: inc/widgets-manager/widgets/site-title/site-title.php:185
+#: inc/widgets-manager/widgets/site-title/site-title.php:216
+msgid "Default"
+msgstr "پیش‌فرض"
+
+#: inc/widgets-manager/widgets/cart/cart.php:139
+#: inc/widgets-manager/widgets/post-info/post-info.php:173
+#: inc/widgets-manager/widgets/post-info/post-info.php:190
+#: inc/widgets-manager/widgets/post-info/post-info.php:228
+#: inc/widgets-manager/widgets/post-info/post-info.php:359
+#: inc/widgets-manager/widgets/post-info/post-info.php:405
+msgid "Custom"
+msgstr "سفارشی"
+
+#: inc/widgets-manager/widgets/cart/cart.php:150
+msgid "Bag Light"
+msgstr "کیف روشن"
+
+#: inc/widgets-manager/widgets/cart/cart.php:151
+msgid "Bag Medium"
+msgstr "کیف متوسط"
+
+#: inc/widgets-manager/widgets/cart/cart.php:152
+msgid "Bag Solid"
+msgstr "کیف یک‌دست"
+
+#: inc/widgets-manager/widgets/cart/cart.php:165
+#: inc/widgets-manager/widgets/cart/cart.php:508
+msgid "Items Count"
+msgstr "تعداد آیتم‌ها"
+
+#: inc/widgets-manager/widgets/cart/cart.php:168
+#: inc/widgets-manager/widgets/infocard/infocard.php:348
+#: inc/widgets-manager/widgets/infocard/infocard.php:513
+#: inc/widgets-manager/widgets/infocard/infocard.php:653
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:516
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:856
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1464
+#: inc/widgets-manager/widgets/page-title/page-title.php:193
+#: inc/widgets-manager/widgets/post-info/post-info.php:403
+#: inc/widgets-manager/widgets/retina/retina.php:194
+#: inc/widgets-manager/widgets/retina/retina.php:225
+#: inc/widgets-manager/widgets/retina/retina.php:345
+#: inc/widgets-manager/widgets/search-button/search-button.php:344
+#: inc/widgets-manager/widgets/search-button/search-button.php:578
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:252
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:409
+msgid "None"
+msgstr "هیچ‌کدام"
+
+#: inc/widgets-manager/widgets/cart/cart.php:169
+msgid "Bubble"
+msgstr "حباب"
+
+#: inc/widgets-manager/widgets/cart/cart.php:182
+msgid "Show Total Price"
+msgstr "نمایش مجموع قیمت"
+
+#: inc/widgets-manager/widgets/cart/cart.php:198
+msgid "Hide Empty"
+msgstr "مخفی کردن در حالت خالی"
+
+#: inc/widgets-manager/widgets/cart/cart.php:204
+msgid "This will hide the items count until the cart is empty"
+msgstr "تا زمانی که سبد خرید خالی است، تعداد آیتم‌ها پنهان می‌شود"
+
+#: inc/widgets-manager/widgets/cart/cart.php:292
+#: inc/widgets-manager/widgets/infocard/infocard.php:383
+#: inc/widgets-manager/widgets/infocard/infocard.php:686
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1497
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1620
+#: inc/widgets-manager/widgets/retina/retina.php:359
+#: inc/widgets-manager/widgets/search-button/search-button.php:381
+#: inc/widgets-manager/widgets/search-button/search-button.php:612
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:423
+msgid "Border Width"
+msgstr "عرض کادر"
+
+#: inc/widgets-manager/widgets/cart/cart.php:356
+#: inc/widgets-manager/widgets/cart/cart.php:412
+#: inc/widgets-manager/widgets/cart/cart.php:554
+#: inc/widgets-manager/widgets/cart/cart.php:591
+#: inc/widgets-manager/widgets/copyright/copyright.php:169
+#: inc/widgets-manager/widgets/infocard/infocard.php:614
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:964
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1003
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1071
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1168
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1211
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1254
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1734
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1801
+#: inc/widgets-manager/widgets/post-info/post-info.php:756
+#: inc/widgets-manager/widgets/retina/retina.php:540
+#: inc/widgets-manager/widgets/search-button/search-button.php:278
+#: inc/widgets-manager/widgets/search-button/search-button.php:441
+#: inc/widgets-manager/widgets/search-button/search-button.php:525
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:605
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:601
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:668
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:798
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:856
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:933
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:971
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: inc/widgets-manager/widgets/cart/cart.php:367
+#: inc/widgets-manager/widgets/cart/cart.php:423
+#: inc/widgets-manager/widgets/infocard/infocard.php:306
+#: inc/widgets-manager/widgets/page-title/page-title.php:377
+#: inc/widgets-manager/widgets/search-button/search-button.php:681
+#: inc/widgets-manager/widgets/search-button/search-button.php:721
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:234
+#: inc/widgets-manager/widgets/site-title/site-title.php:368
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: inc/widgets-manager/widgets/cart/cart.php:462
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1601
+#: inc/widgets-manager/widgets/search-button/search-button.php:764
+#: inc/widgets-manager/widgets/search-button/search-button.php:871
+msgid "Icon Size"
+msgstr "اندازه آیکون"
+
+#: inc/widgets-manager/widgets/cart/cart.php:484
+#: inc/widgets-manager/widgets/page-title/page-title.php:169
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:159
+#: inc/widgets-manager/widgets/site-title/site-title.php:162
+msgid "Icon Spacing"
+msgstr "فاصله آیکون"
+
+#: inc/widgets-manager/widgets/cart/cart.php:521
+msgid "Distance"
+msgstr "فاصله"
+
+#: inc/widgets-manager/widgets/copyright/copyright.php:122
+msgid "Copyright Text"
+msgstr "متن کپی‌رایت"
+
+#: inc/widgets-manager/widgets/copyright/copyright.php:127
+msgid ""
+"Copyright © [hfe_current_year] [hfe_site_title] | Powered by [hfe_site_title]"
+msgstr ""
+"کپی‌رایت © [hfe_current_year] [hfe_site_title] | قدرت گرفته از "
+"[hfe_site_title]"
+
+#: inc/widgets-manager/widgets/copyright/copyright.php:134
+#: inc/widgets-manager/widgets/infocard/infocard.php:553
+#: inc/widgets-manager/widgets/page-title/page-title.php:188
+#: inc/widgets-manager/widgets/page-title/page-title.php:202
+#: inc/widgets-manager/widgets/post-info/post-info.php:374
+#: inc/widgets-manager/widgets/retina/retina.php:221
+#: inc/widgets-manager/widgets/retina/retina.php:234
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:247
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:262
+#: inc/widgets-manager/widgets/site-title/site-title.php:181
+#: inc/widgets-manager/widgets/site-title/site-title.php:194
+msgid "Link"
+msgstr "لینک"
+
+#: inc/widgets-manager/widgets/copyright/copyright.php:136
+#: inc/widgets-manager/widgets/page-title/page-title.php:204
+#: inc/widgets-manager/widgets/retina/retina.php:239
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:267
+#: inc/widgets-manager/widgets/site-title/site-title.php:196
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: inc/widgets-manager/widgets/copyright/copyright.php:207
+#: inc/widgets-manager/widgets/page-title/page-title.php:423
+#: inc/widgets-manager/widgets/retina/retina.php:661
+#: inc/widgets-manager/widgets/search-button/search-button.php:994
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:696
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:280
+#: inc/widgets-manager/widgets/site-title/site-title.php:413
+msgid "Go Pro for More Features"
+msgstr "برای امکانات بیشتر نسخه حرفه‌ای را تهیه کنید"
+
+#: inc/widgets-manager/widgets/copyright/copyright.php:217
+#: inc/widgets-manager/widgets/page-title/page-title.php:433
+#: inc/widgets-manager/widgets/retina/retina.php:671
+#: inc/widgets-manager/widgets/search-button/search-button.php:1004
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:706
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:290
+#: inc/widgets-manager/widgets/site-title/site-title.php:423
+msgid ""
+"<b>Build smarter and faster</b> with premium widgets, 200+ section blocks, "
+"and advanced customisation controls — all available in the <a href=\"https:"
+"//ultimateelementor.com/pricing/?utm_source=uae-"
+"dashboard&utm_medium=editor&utm_campaign=uae-pro-promotion\" "
+"target=\"_blank\">UAE Pro</a>."
+msgstr ""
+"<b>هوشمندتر و سریع‌تر بسازید</b> با ویجت‌های پریمیوم، 200+ بلوک بخش، و "
+"کنترل‌های پیشرفته سفارشی‌سازی — همه در دسترس در <a href=\"https:"
+"//ultimateelementor.com/pricing/?utm_source=uae-"
+"dashboard&utm_medium=editor&utm_campaign=uae-pro-promotion\" "
+"target=\"_blank\">UAE Pro</a>."
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:92
+msgid "Upgrade your Info Card widget"
+msgstr "ویجت کارت اطلاعات خود را ارتقا دهید"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:93
+msgid ""
+"Get the Info Box widget in UAE Pro and unlock advanced layouts, icons, and "
+"styling for better content display."
+msgstr ""
+"با نسخه حرفه‌ای UAE به ویجت باکس اطلاعات دسترسی پیدا کنید و چیدمان‌ها، "
+"آیکون‌ها و استایل‌های پیشرفته را فعال کنید."
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:156
+#: inc/widgets-manager/widgets/infocard/infocard.php:889
+msgid "Description"
+msgstr "توضیحات"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:162
+msgid ""
+"Enter description text here.Lorem ipsum dolor sit amet, consectetur "
+"adipiscing. Quo incidunt ullamco."
+msgstr ""
+"متن توضیحات را اینجا وارد کنید. لورم ایپسوم متن ساختگی با تولید سادگی "
+"نامفهوم."
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:169
+#| msgid "Alignment"
+msgid "Overall Alignment"
+msgstr "تراز کلی"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:213
+#: inc/widgets-manager/widgets/page-title/page-title.php:160
+msgid "Select Icon"
+msgstr "انتخاب آیکون"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:261
+#| msgid "Background"
+msgid "Background Size"
+msgstr "اندازه پس‌زمینه"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:343
+#: inc/widgets-manager/widgets/infocard/infocard.php:648
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1459
+#: inc/widgets-manager/widgets/retina/retina.php:340
+#: inc/widgets-manager/widgets/search-button/search-button.php:339
+#: inc/widgets-manager/widgets/search-button/search-button.php:573
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:404
+msgid "Border Style"
+msgstr "استایل کادر"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:349
+#: inc/widgets-manager/widgets/infocard/infocard.php:655
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1465
+#: inc/widgets-manager/widgets/post-info/post-info.php:542
+#: inc/widgets-manager/widgets/retina/retina.php:346
+#: inc/widgets-manager/widgets/search-button/search-button.php:345
+#: inc/widgets-manager/widgets/search-button/search-button.php:579
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:410
+msgid "Solid"
+msgstr "یکدست"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:350
+#: inc/widgets-manager/widgets/infocard/infocard.php:656
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1466
+#: inc/widgets-manager/widgets/post-info/post-info.php:543
+#: inc/widgets-manager/widgets/retina/retina.php:347
+#: inc/widgets-manager/widgets/search-button/search-button.php:346
+#: inc/widgets-manager/widgets/search-button/search-button.php:580
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:411
+msgid "Double"
+msgstr "دوبل"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:351
+#: inc/widgets-manager/widgets/infocard/infocard.php:657
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1467
+#: inc/widgets-manager/widgets/post-info/post-info.php:544
+#: inc/widgets-manager/widgets/retina/retina.php:348
+#: inc/widgets-manager/widgets/search-button/search-button.php:347
+#: inc/widgets-manager/widgets/search-button/search-button.php:581
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:412
+msgid "Dotted"
+msgstr "نقطه‌چین"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:352
+#: inc/widgets-manager/widgets/infocard/infocard.php:658
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1468
+#: inc/widgets-manager/widgets/post-info/post-info.php:545
+#: inc/widgets-manager/widgets/retina/retina.php:349
+#: inc/widgets-manager/widgets/search-button/search-button.php:348
+#: inc/widgets-manager/widgets/search-button/search-button.php:582
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:413
+msgid "Dashed"
+msgstr "خط‌چین"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:406
+#: inc/widgets-manager/widgets/infocard/infocard.php:709
+msgid "Rounded Corners"
+msgstr "گوشه‌های گرد"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:440
+#: inc/widgets-manager/widgets/page-title/page-title.php:395
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:252
+#: inc/widgets-manager/widgets/site-title/site-title.php:386
+msgid "Icon Hover Color"
+msgstr "رنگ آیکون در حالت هاور"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:456
+#: inc/widgets-manager/widgets/infocard/infocard.php:771
+#| msgid "Background Color"
+msgid "Background Hover Color"
+msgstr "رنگ پس‌زمینه در حالت هاور"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:471
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1829
+msgid "Border Hover Color"
+msgstr "رنگ کادر در حالت هاور"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:501
+msgid "Call To Action"
+msgstr "دعوت به اقدام"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:515
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:245
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1690
+#: inc/widgets-manager/widgets/search-button/search-button.php:661
+msgid "Button"
+msgstr "دکمه"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:525
+#| msgid "Learn More."
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:540
+msgid "Click Here"
+msgstr "اینجا کلیک کنید"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:576
+#| msgid "Small"
+msgid "Extra Small"
+msgstr "بسیار کوچک"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:577
+#: inc/widgets-manager/widgets/page-title/page-title.php:242
+#: inc/widgets-manager/widgets/site-title/site-title.php:217
+msgid "Small"
+msgstr "کوچک"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:578
+#: inc/widgets-manager/widgets/page-title/page-title.php:243
+#: inc/widgets-manager/widgets/site-title/site-title.php:218
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1031
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:579
+#: inc/widgets-manager/widgets/page-title/page-title.php:244
+#: inc/widgets-manager/widgets/site-title/site-title.php:219
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1032
+msgid "Large"
+msgstr "بزرگ"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:580
+#| msgid "Large"
+msgid "Extra Large"
+msgstr "بسیار بزرگ"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:591
+#| msgid "Color"
+msgid "Colors"
+msgstr "رنگ‌ها"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:757
+#| msgid "Text Color"
+msgid "Text Hover Color"
+msgstr "رنگ متن در حالت هاور"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:837
+#| msgid "Title"
+msgid "Title Tag"
+msgstr "تگ عنوان"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:840
+#: inc/widgets-manager/widgets/page-title/page-title.php:223
+#: inc/widgets-manager/widgets/site-title/site-title.php:232
+msgid "H1"
+msgstr "H1"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:841
+#: inc/widgets-manager/widgets/page-title/page-title.php:224
+#: inc/widgets-manager/widgets/site-title/site-title.php:233
+msgid "H2"
+msgstr "H2"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:842
+#: inc/widgets-manager/widgets/page-title/page-title.php:225
+#: inc/widgets-manager/widgets/site-title/site-title.php:234
+msgid "H3"
+msgstr "H3"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:843
+#: inc/widgets-manager/widgets/page-title/page-title.php:226
+#: inc/widgets-manager/widgets/site-title/site-title.php:235
+msgid "H4"
+msgstr "H4"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:844
+#: inc/widgets-manager/widgets/page-title/page-title.php:227
+#: inc/widgets-manager/widgets/site-title/site-title.php:236
+msgid "H5"
+msgstr "H5"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:845
+#: inc/widgets-manager/widgets/page-title/page-title.php:228
+#: inc/widgets-manager/widgets/site-title/site-title.php:237
+msgid "H6"
+msgstr "H6"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:846
+msgid "div"
+msgstr "div"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:847
+msgid "p"
+msgstr "p"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:913
+#| msgid "Icon Color"
+msgid "Description Color"
+msgstr "رنگ توضیحات"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:931
+msgid "CTA Link Text"
+msgstr "متن لینک CTA"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:943
+msgid "CTA Button Text"
+msgstr "متن دکمه CTA"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:968
+#| msgid "Icon Color"
+msgid "Link Color"
+msgstr "رنگ لینک"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:985
+#| msgid "Link Hover Effect Color"
+msgid "Link Hover Color"
+msgstr "رنگ لینک در حالت هاور"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:1012
+msgid "Margins"
+msgstr "مارجین‌ها"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:1020
+#| msgid "Icon Spacing"
+msgid "Icon Margin"
+msgstr "مارجین آیکون"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:1043
+msgid "Title Margin"
+msgstr "مارجین عنوان"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:1066
+msgid "Description Margins"
+msgstr "مارجین توضیحات"
+
+#: inc/widgets-manager/widgets/infocard/infocard.php:1089
+msgid "CTA Margin"
+msgstr "مارجین CTA"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:83
+msgid "Upgrade your Navigation widget"
+msgstr "ویجت منوی ناوبری خود را ارتقا دهید"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:84
+msgid ""
+"Get the Advanced Navigation Menu widget in UAE Pro and unlock advanced "
+"layouts, styling, and flexible menu options."
+msgstr ""
+"با نسخه حرفه‌ای UAE به ویجت منوی ناوبری پیشرفته دسترسی پیدا کنید و "
+"چیدمان‌ها، استایل‌ها و گزینه‌های منوی منعطف را فعال کنید."
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:207
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:217
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:2047
+msgid "Menu"
+msgstr "منو"
+
+#. translators: %s Nav menu URL
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:223
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+"برای مدیریت منوهای خود به <a href=\"%s\" target=\"_blank\">صفحه منوها</a> "
+"بروید."
+
+#. translators: %s Nav menu URL
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:232
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+"<strong>هیچ منویی در سایت شما وجود ندارد.</strong><br>برای ایجاد منو به <a "
+"href=\"%s\" target=\"_blank\">صفحه فهرست‌ها</a> بروید."
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:241
+msgid "Last Menu Item"
+msgstr "آخرین آیتم منو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:257
+msgid "Enable Schema Support"
+msgstr "فعال‌سازی پشتیبانی از Schema"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:274
+msgid "Hide + & - Sign"
+msgstr "مخفی کردن علامت + و -"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:301
+msgid "Horizontal"
+msgstr "افقی"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:302
+msgid "Vertical"
+msgstr "عمودی"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:303
+msgid "Expanded"
+msgstr "گسترش‌یافته"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:304
+msgid "Flyout"
+msgstr "شناور"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:328
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:430
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:194
+#: inc/widgets-manager/widgets/site-title/site-title.php:262
+msgid "Justify"
+msgstr "تراز مساوی"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:343
+msgid "Flyout Orientation"
+msgstr "جهت بازشونده (Flyout)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:359
+msgid "Appear Effect"
+msgstr "افکت نمایش"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:364
+msgid "Slide"
+msgstr "اسلاید"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:365
+msgid "Push"
+msgstr "هل دادن (Push)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:377
+msgid "Hamburger Align"
+msgstr "تراز آیکون منو (همبرگری)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:414
+msgid "Menu Items Align"
+msgstr "تراز آیتم‌های منو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:451
+msgid "Submenu Icon"
+msgstr "آیکون زیرمنو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:455
+msgid "Arrows"
+msgstr "فلش‌ها"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:456
+msgid "Plus Sign"
+msgstr "علامت بعلاوه"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:457
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:466
+msgid "Submenu Animation"
+msgstr "انیمیشن زیرمنو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:471
+msgid "Slide Up"
+msgstr "اسلاید به بالا"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:483
+msgid "Action On Menu Click"
+msgstr "عمل هنگام کلیک روی منو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:486
+msgid "For Horizontal layout, this will affect on the selected breakpoint"
+msgstr "برای چیدمان افقی، این گزینه بر نقطه شکست انتخاب‌شده تأثیر می‌گذارد"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:488
+msgid "Open Submenu"
+msgstr "باز کردن زیرمنو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:489
+msgid "Redirect To Self Link"
+msgstr "انتقال به لینک خودش"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:499
+msgid "Responsive"
+msgstr "واکنش‌گرا"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:510
+msgid "Breakpoint"
+msgstr "نقطه شکست (Breakpoint)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:514
+msgid "Mobile (768px >)"
+msgstr "موبایل (768 پیکسل >)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:515
+msgid "Tablet (1025px >)"
+msgstr "تبلت (1025 پیکسل >)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:546
+msgid "This is the alignement of menu icon on selected responsive breakpoints."
+msgstr "این گزینه نحوه تراز آیکون منو در نقاط شکست واکنش‌گرا را مشخص می‌کند."
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:565
+msgid "Full Width"
+msgstr "تمام‌عرض"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:566
+msgid "Enable this option to stretch the Sub Menu to Full Width."
+msgstr "با فعال‌سازی این گزینه، زیرمنو به‌صورت تمام‌عرض نمایش داده می‌شود."
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:584
+msgid "Menu Icon"
+msgstr "آیکون منو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:615
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:631
+#: inc/widgets-manager/widgets/search-button/search-button.php:896
+msgid "Close Icon"
+msgstr "آیکون بستن"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:657
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:668
+msgid "Flyout Box Width"
+msgstr "عرض باکس بازشونده (Flyout)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:696
+msgid "Flyout Box Padding"
+msgstr "پدینگ باکس بازشونده (Flyout)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:720
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1379
+msgid "Horizontal Padding"
+msgstr "پدینگ افقی"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:746
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1402
+msgid "Vertical Padding"
+msgstr "پدینگ عمودی"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:768
+#: inc/widgets-manager/widgets/post-info/post-info.php:480
+msgid "Space Between"
+msgstr "فاصله بین آیتم‌ها"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:795
+msgid "Row Spacing"
+msgstr "فاصله ردیف‌ها"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:816
+msgid "Menu Item Top Spacing"
+msgstr "فاصله بالای آیتم منو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:852
+msgid "Link Hover Effect"
+msgstr "افکت هاور لینک"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:857
+msgid "Underline"
+msgstr "زیرخط"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:858
+msgid "Overline"
+msgstr "بالاخط"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:859
+msgid "Double Line"
+msgstr "خط دوتایی"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:860
+msgid "Framed"
+msgstr "قاب‌دار"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:872
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:914
+msgid "Animation"
+msgstr "انیمیشن"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:893
+msgid "Frame Animation"
+msgstr "انیمیشن قاب"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1039
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1100
+msgid "Link Hover Effect Color"
+msgstr "رنگ افکت هاور لینک"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1136
+msgid "Dropdown"
+msgstr "کشویی (Dropdown)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1144
+msgid ""
+"<b>Note:</b> On desktop, below style options will apply to the submenu. On "
+"mobile, this will apply to the entire menu."
+msgstr ""
+"<b>توجه:</b> در دسک‌تاپ، گزینه‌های استایل زیر در زیر منو اعمال می‌شود. در "
+"تلفن همراه، این برای کل منو اعمال می شود."
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1354
+msgid "Dropdown Width (px)"
+msgstr "عرض منوی کشویی (پیکسل)"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1428
+msgid "Top Distance"
+msgstr "فاصله از بالا"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1450
+msgid "Divider"
+msgstr "جداکننده"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1524
+msgid "Menu Trigger & Close Icon"
+msgstr "آیکون باز و بسته شدن منو"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1650
+msgid "Close Icon Color"
+msgstr "رنگ آیکون بستن"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1668
+msgid "Close Icon Size"
+msgstr "اندازه آیکون بستن"
+
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:1969
+#: inc/widgets-manager/widgets/navigation-menu/navigation-menu.php:2046
+#| msgid "Menu Icon"
+msgid "Menu Toggle"
+msgstr "دکمه باز/بسته کردن منو"
+
+#. translators: %1$s doc link
+#: inc/widgets-manager/widgets/page-title/page-title.php:130
+msgid "<b>Note:</b> Archive page title will be visible on frontend."
+msgstr "<b>توجه:</b> عنوان صفحه بایگانی در سمت کاربر نمایش داده خواهد شد."
+
+#: inc/widgets-manager/widgets/page-title/page-title.php:138
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:126
+#: inc/widgets-manager/widgets/site-title/site-title.php:131
+msgid "Before Title Text"
+msgstr "متن قبل از عنوان"
+
+#: inc/widgets-manager/widgets/page-title/page-title.php:149
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:138
+#: inc/widgets-manager/widgets/site-title/site-title.php:142
+msgid "After Title Text"
+msgstr "متن بعد از عنوان"
+
+#: inc/widgets-manager/widgets/page-title/page-title.php:191
+#: inc/widgets-manager/widgets/post-info/post-info.php:386
+#: inc/widgets-manager/widgets/retina/retina.php:226
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:254
+#: inc/widgets-manager/widgets/site-title/site-title.php:184
+msgid "Custom URL"
+msgstr "آدرس سفارشی (URL)"
+
+#: inc/widgets-manager/widgets/page-title/page-title.php:220
+#: inc/widgets-manager/widgets/site-title/site-title.php:229
+msgid "HTML Tag"
+msgstr "تگ HTML"
+
+#: inc/widgets-manager/widgets/page-title/page-title.php:245
+#: inc/widgets-manager/widgets/site-title/site-title.php:220
+msgid "XL"
+msgstr "XL"
+
+#: inc/widgets-manager/widgets/page-title/page-title.php:246
+#: inc/widgets-manager/widgets/site-title/site-title.php:221
+msgid "XXL"
+msgstr "XXL"
+
+#: inc/widgets-manager/widgets/page-title/page-title.php:270
+msgid "Justified"
+msgstr "تراز مساوی (Justified)"
+
+#: inc/widgets-manager/widgets/page-title/page-title.php:338
+#: inc/widgets-manager/widgets/site-title/site-title.php:330
+msgid "Blend Mode"
+msgstr "حالت ترکیب (Blend Mode)"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:101
+msgid "Upgrade your Post Info widget"
+msgstr "ویجت اطلاعات نوشته خود را ارتقا دهید"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:146
+#| msgid "Underline"
+msgid "Inline"
+msgstr "درون‌خطی (Inline)"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:168
+#| msgid "Author Archive"
+msgid "Author"
+msgstr "نویسنده"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:169
+msgid "Time"
+msgstr "زمان"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:171
+msgid "Terms"
+msgstr "اصطلاحات (Terms)"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:172
+#: inc/widgets-manager/widgets/post-info/post-info.php:345
+msgid "Comments"
+msgstr "دیدگاه‌ها"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:181
+msgid "Date Format"
+msgstr "فرمت تاریخ"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:186
+msgctxt "Date Format"
+msgid "June 1, 2024 (F j, Y)"
+msgstr "۱ ژوئن ۲۰۲۴ (F j, Y)"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:202
+#| msgid "Custom Caption"
+msgid "Custom Date Format"
+msgstr "فرمت تاریخ سفارشی"
+
+#. translators: %s: Allowed data letters (see: http://php.net/manual/en/function.date.php).
+#. translators: %s: Allowed time letters (see: http://php.net/manual/en/function.time.php).
+#: inc/widgets-manager/widgets/post-info/post-info.php:211
+#: inc/widgets-manager/widgets/post-info/post-info.php:248
+msgid "Use the letters: %s"
+msgstr "از حروف زیر استفاده کنید: %s"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:220
+msgid "Time Format"
+msgstr "فرمت زمان"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:238
+#| msgid "Custom Image"
+msgid "Custom Time Format"
+msgstr "فرمت زمان سفارشی"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:257
+msgid "Taxonomy"
+msgstr "رده‌بندی (Taxonomy)"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:271
+#| msgid "Before Footer"
+msgid "Before"
+msgstr "قبل از"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:282
+msgid "Avatar"
+msgstr "آواتار"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:307
+#| msgid "Custom Image"
+msgid "Custom Format"
+msgstr "فرمت سفارشی"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:332
+#: inc/widgets-manager/widgets/post-info/post-info.php:334
+#: inc/widgets-manager/widgets/post-info/post-info.php:939
+msgid "One Comment"
+msgstr "یک دیدگاه"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:417
+#| msgid "Close Icon"
+msgid "Choose Icon"
+msgstr "انتخاب آیکون"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:473
+#| msgid "Last Menu Item"
+msgid "List Items"
+msgstr "آیتم‌های فهرست"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:504
+msgid "Start"
+msgstr "شروع"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:512
+msgid "End"
+msgstr "پایان"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:539
+#: inc/widgets-manager/widgets/site-tagline/site-tagline.php:119
+msgid "Style"
+msgstr "سبک"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:561
+#| msgid "Right"
+msgid "Weight"
+msgstr "وزن"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:735
+msgid "Spacing between Icon & Text"
+msgstr "فاصله بین آیکون و متن"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:793
+msgid "Choose"
+msgstr "انتخاب"
+
+#: inc/widgets-manager/widgets/post-info/post-info.php:960
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s دیدگاه"
+
+#: inc/widgets-manager/widgets/retina/retina.php:130
+msgid "Choose Default Image"
+msgstr "انتخاب تصویر پیش‌فرض"
+
+#: inc/widgets-manager/widgets/retina/retina.php:143
+msgid "Choose Retina Image"
+msgstr "انتخاب تصویر رتینا"
+
+#: inc/widgets-manager/widgets/retina/retina.php:191
+#: inc/widgets-manager/widgets/retina/retina.php:529
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:217
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:594
+msgid "Caption"
+msgstr "کپشن"
+
+#: inc/widgets-manager/widgets/retina/retina.php:195
+#: inc/widgets-manager/widgets/retina/retina.php:204
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:230
+msgid "Custom Caption"
+msgstr "کپشن سفارشی"
+
+#: inc/widgets-manager/widgets/retina/retina.php:207
+msgid "Enter your image caption"
+msgstr "کپشن تصویر خود را وارد کنید"
+
+#: inc/widgets-manager/widgets/retina/retina.php:303
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:357
+msgid "Max Width"
+msgstr "حداکثر عرض"
+
+#: inc/widgets-manager/widgets/retina/retina.php:492
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:572
+msgid "Hover Animation"
+msgstr "انیمیشن هاور"
+
+#: inc/widgets-manager/widgets/retina/retina.php:499
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:547
+msgid "Transition Duration"
+msgstr "مدت زمان انتقال"
+
+#: inc/widgets-manager/widgets/retina/retina.php:597
+msgid "Caption Top Spacing"
+msgstr "فاصله بالای کپشن"
+
+#: inc/widgets-manager/widgets/retina/retina.php:632
+msgid "Helpful Information"
+msgstr "اطلاعات مفید"
+
+#. translators: %1$s doc link
+#: inc/widgets-manager/widgets/retina/retina.php:641
+msgid "%1$s Getting started article » %2$s"
+msgstr "مقاله شروع به کار %1$s » %2$s"
+
+#: inc/widgets-manager/widgets/search-button/search-button.php:154
+msgid "Search Box"
+msgstr "جعبه جستجو"
+
+#: inc/widgets-manager/widgets/search-button/search-button.php:165
+msgid "Input Box"
+msgstr "جعبه ورودی"
+
+#: inc/widgets-manager/widgets/search-button/search-button.php:167
+msgid "Input Box With Button"
+msgstr "جعبه ورودی با دکمه"
+
+#: inc/widgets-manager/widgets/search-button/search-button.php:177
+msgid "Placeholder"
+msgstr "متن راهنما (Placeholder)"
+
+#: inc/widgets-manager/widgets/search-button/search-button.php:179
+msgid "Type & Hit Enter"
+msgstr "تایپ کرده و Enter را بزنید"
+
+#: inc/widgets-manager/widgets/search-button/search-button.php:223
+msgid "Input"
+msgstr "ورودی"
+
+#: inc/widgets-manager/widgets/search-button/search-button.php:295
+#: inc/widgets-manager/widgets/search-button/search-button.php:456
+msgid "Placeholder Color"
+msgstr "رنگ متن راهنما"
+
+#: inc/widgets-manager/widgets/search-button/search-button.php:431
+msgid "Focus"
+msgstr "تمرکز"
+
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:153
+msgid "Custom Image"
+msgstr "تصویر سفارشی"
+
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:165
+msgid "Add Image"
+msgstr "افزودن تصویر"
+
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:233
+msgid "Enter caption"
+msgstr "وارد کردن کپشن"
+
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:253
+msgid "Media File"
+msgstr "فایل رسانه"
+
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:278
+msgid "Lightbox"
+msgstr "لایت‌باکس"
+
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:295
+msgid "View"
+msgstr "مشاهده"
+
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:313
+msgid "Site logo"
+msgstr "لوگوی سایت"
+
+#: inc/widgets-manager/widgets/site-logo/site-logo.php:662
+msgid "Spacing"
+msgstr "فاصله"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:143
+msgid "Upgrade your Woo Products widget"
+msgstr "ویجت محصولات ووکامرس خود را ارتقا دهید"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:144
+msgid ""
+"Get the advanced Woo Products widget and unlock powerful layouts, filters, "
+"and customization options with UAE Pro."
+msgstr ""
+"ویجت پیشرفته محصولات ووکامرس را دریافت کرده و با UAE Pro، چیدمان‌ها، فیلترها "
+"و گزینه‌های سفارشی‌سازی قدرتمند را فعال کنید."
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:180
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce Required"
+msgstr "نیازمند ووکامرس"
+
+#. translators: %1$s: opening link tag, %2$s: closing link tag
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:190
+msgid ""
+"This widget requires WooCommerce to be installed and activated. %1$sInstall "
+"WooCommerce%2$s"
+msgstr "این ویجت نیازمند نصب و فعال‌سازی ووکامرس است. %1$sنصب ووکامرس%2$s"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:241
+msgid "Products Per Page"
+msgstr "تعداد محصولات در هر صفحه"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:263
+msgid "Content"
+msgstr "محتوا"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:270
+#| msgid "Custom Image"
+msgid "Show Image"
+msgstr "نمایش تصویر"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:282
+msgid "Show Category"
+msgstr "نمایش دسته‌بندی"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:306
+msgid "Show Rating"
+msgstr "نمایش امتیاز"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:318
+#| msgid "Show Total Price"
+msgid "Show Price"
+msgstr "نمایش قیمت"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:330
+msgid "Show Short Description"
+msgstr "نمایش توضیح کوتاه"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:342
+msgid "Show Add to Cart"
+msgstr "نمایش دکمه افزودن به سبد خرید"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:377
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:780
+msgid "Price"
+msgstr "قیمت"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:378
+msgid "Popularity"
+msgstr "محبوبیت"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:379
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:730
+msgid "Rating"
+msgstr "امتیاز"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:392
+msgid "Descending"
+msgstr "نزولی"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:393
+msgid "Ascending"
+msgstr "صعودی"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:565
+#| msgid "Horizontal Padding"
+msgid "Content Padding"
+msgstr "پدینگ محتوا"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:590
+msgid "Category"
+msgstr "دسته‌بندی"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:838
+msgid "Short Description"
+msgstr "توضیح کوتاه"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:896
+msgid "Add to Cart"
+msgstr "افزودن به سبد خرید"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1030
+msgid "Thumbnail"
+msgstr "تصویر کوچک (Thumbnail)"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1033
+#| msgid "Full Width"
+msgid "Full Size"
+msgstr "تمام اندازه (Full Size)"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1034
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce Thumbnail"
+msgstr "تصویر کوچک ووکامرس"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1035
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce Single"
+msgstr "تک محصول ووکامرس"
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1157
+msgid ""
+"WooCommerce is not installed or activated. Please install and activate "
+"WooCommerce to use this widget."
+msgstr ""
+"ووکامرس نصب یا فعال نشده است. لطفاً برای استفاده از این ویجت، ووکامرس را نصب "
+"و فعال کنید."
+
+#: inc/widgets-manager/widgets/woo-product-grid/woo-product-grid.php:1171
+#| msgid "No results found"
+msgid "No products found."
+msgstr "هیچ محصولی یافت نشد."
+
+#: build/main.js:2 build/main.js:26472
+msgid "What's New?"
+msgstr "چه چیزهای جدیدی؟"
+
+#: build/main.js:2 build/main.js:26577
+msgid "Free vs Pro"
+msgstr "رایگان در مقابل نسخه پرو"
+
+#: build/main.js:2 build/main.js:26604 build/main.js:27504 build/main.js:29343
+msgid "Get Full Control"
+msgstr "کنترل کامل را به دست آورید"
+
+#: build/main.js:2 build/main.js:172 build/main.js:26613 build/main.js:26636
+#: build/main.js:31476 build/main.js:33695 build/main.js:33757
+msgid "Free"
+msgstr "رایگان"
+
+#: build/main.js:2 build/main.js:26627
+msgid "Version"
+msgstr "نسخه"
+
+#: build/main.js:2 build/main.js:26661
+msgid "Useful Resources"
+msgstr "منابع مفید"
+
+#: build/main.js:2 build/main.js:26678
+msgid "Getting Started"
+msgstr "شروع به کار"
+
+#: build/main.js:2 build/main.js:26691
+msgid "How to use widgets"
+msgstr "نحوه استفاده از ویجت‌ها"
+
+#: build/main.js:2 build/main.js:26704
+msgid "How to use features"
+msgstr "نحوه استفاده از ویژگی‌ها"
+
+#: build/main.js:2 build/main.js:26717
+msgid "How to use templates"
+msgstr "نحوه استفاده از قالب‌ها"
+
+#: build/main.js:2 build/main.js:26730
+msgid "Contact us"
+msgstr "تماس با ما"
+
+#: build/main.js:2 build/main.js:27480 build/main.js:28105
+msgid "PRO"
+msgstr "PRO"
+
+#: build/main.js:2 build/main.js:27628
+#| msgid "View Template"
+msgid "View Demo"
+msgstr "مشاهده دمو"
+
+#: build/main.js:2 build/main.js:27781 build/main.js:29651
+msgid "Widgets / Features"
+msgstr "ویجت‌ها / ویژگی‌ها"
+
+#: build/main.js:2 build/main.js:27802
+msgid "Unlock All Features"
+msgstr "باز کردن همه ویژگی‌ها"
+
+#: build/main.js:2 build/main.js:27866
+msgid "View More Widgets"
+msgstr "مشاهده ویجت‌های بیشتر"
+
+#: build/main.js:2 build/main.js:28069
+msgid "Quick Access"
+msgstr "دسترسی سریع"
+
+#: build/main.js:2 build/main.js:28102
+msgid "VIP Priority Support"
+msgstr "پشتیبانی اولویت VIP"
+
+#: build/main.js:2 build/main.js:28131
+msgid "Knowledge Base"
+msgstr "پایگاه دانش"
+
+#: build/main.js:2 build/main.js:28147
+msgid "Help Centre"
+msgstr "مرکز کمک"
+
+#: build/main.js:2 build/main.js:28163
+msgid "Request a Feature"
+msgstr "درخواست ویژگی"
+
+#: build/main.js:2 build/main.js:28179
+msgid "Rate Us"
+msgstr "امتیاز دادن به ما"
+
+#: build/main.js:2 build/main.js:28222
+#| msgid "Elementor Header & Footer Builder"
+msgid "Formerly Elementor Header & Footer Builder"
+msgstr "قبلاً سازنده سربرگ و پاورقی المنتور"
+
+#: build/main.js:2 build/main.js:28253
+#| msgid "Ultimate Addons for Elementor"
+msgid "Welcome to Ultimate Addons for Elementor!"
+msgstr "به آلتیمت ادانز برای المنتور خوش آمدید!"
+
+#: build/main.js:2 build/main.js:28257
+msgid ""
+"Effortlessly design modern websites with UAE using our powerful range of "
+"widgets & features. Get started by selecting an option based on your needs."
+msgstr ""
+"به‌راحتی وب‌سایت‌های مدرن را با UAE طراحی کنید با استفاده از مجموعه قدرتمند "
+"ویجت‌ها و ویژگی‌های ما. برای شروع گزینه‌ای متناسب با نیاز خود انتخاب کنید."
+
+#: build/main.js:2 build/main.js:28289
+#| msgid "Create Impressive Header and Footer Designs"
+msgid "Create Header/Footer"
+msgstr "ایجاد سربرگ / پاورقی"
+
+#: build/main.js:2 build/main.js:172 build/main.js:28317 build/main.js:32163
+msgid "Create New Page"
+msgstr "ایجاد صفحه جدید"
+
+#: build/main.js:2 build/main.js:28432 build/main.js:29827
+msgid "Column Showcase"
+msgstr "نمایش ستون‌ها"
+
+#: build/main.js:2 build/main.js:28448 build/main.js:29845
+msgid "Unlock Pro Widgets"
+msgstr "فعال‌سازی ویجت‌های پرو"
+
+#: build/main.js:2 build/main.js:28461
+msgid "Design Smarter with Ultimate Addons!"
+msgstr "با آلتیمت ادانز هوشمندانه طراحی کنید!"
+
+#: build/main.js:2 build/main.js:28470
+msgid ""
+"Craft stunning websites faster with powerful widgets, advanced features, and "
+"total flexibility."
+msgstr ""
+"وب‌سایت‌های خیره‌کننده را سریع‌تر بسازید با ویجت‌های قدرتمند، ویژگی‌های "
+"پیشرفته و انعطاف کامل."
+
+#: build/main.js:2 build/main.js:28482 build/main.js:29879
+msgid "50+ Widgets"
+msgstr "بیش از 50 ویجت"
+
+#: build/main.js:2 build/main.js:28486 build/main.js:29883
+msgid "Conversion Extensions"
+msgstr "افزونه‌های تبدیل"
+
+#: build/main.js:2 build/main.js:28494 build/main.js:29891
+msgid "White Label"
+msgstr "برند سفید"
+
+#: build/main.js:2 build/main.js:28498 build/main.js:29914
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce Builder"
+msgstr "سازنده ووکامرس"
+
+#: build/main.js:2 build/main.js:28505 build/main.js:29902
+msgid "200+ Section Blocks"
+msgstr "بیش از 200 بلوک بخش"
+
+#: build/main.js:2 build/main.js:28509 build/main.js:29906
+msgid "Form & Pop-up Builder"
+msgstr "سازنده فرم و پاپ‌آپ"
+
+#: build/main.js:2 build/main.js:28513 build/main.js:29910
+#| msgid "Animation"
+msgid "Animation Effects"
+msgstr "افکت‌های انیمیشن"
+
+#: build/main.js:2 build/main.js:28517 build/main.js:29895
+msgid "Bloggers Toolkit"
+msgstr "جعبه ابزار وبلاگ نویسان"
+
+#: build/main.js:2 build/main.js:28521 build/main.js:29918
+msgid "Social Media Bundle"
+msgstr "بسته شبکه‌های اجتماعی"
+
+#: build/main.js:2 build/main.js:28554
+#| msgid "View Template"
+msgid "View Plans"
+msgstr "مشاهده پلن‌ها"
+
+#: build/main.js:2 build/main.js:172 build/main.js:28987 build/main.js:32508
+#| msgid "Activate"
+msgid "Activating.."
+msgstr "در حال فعال‌سازی.."
+
+#: build/main.js:2 build/main.js:172 build/main.js:29075 build/main.js:32658
+#| msgid "Activate Elementor"
+msgid "Activate Theme"
+msgstr "فعال‌سازی قالب"
+
+#: build/main.js:2 build/main.js:172 build/main.js:29082 build/main.js:32662
+msgid "Are you sure you want to switch your current theme to Astra?"
+msgstr "آیا مطمئن هستید که می‌خواهید قالب فعلی خود را به Astra تغییر دهید؟"
+
+#: build/main.js:2 build/main.js:172 build/main.js:29098 build/main.js:32670
+#| msgid "Close Icon"
+msgid "Close"
+msgstr "بستن"
+
+#: build/main.js:2 build/main.js:28914 build/main.js:32458
+#| msgid "Install"
+msgid "Installing.."
+msgstr "در حال نصب.."
+
+#: build/main.js:2 build/main.js:28925 build/main.js:32466
+#| msgid "Install"
+msgid "Installed"
+msgstr "نصب شده"
+
+#: build/main.js:2 build/main.js:28950 build/main.js:32479
+msgid "Theme Installation failed, Please try again later."
+msgstr "نصب قالب ناموفق بود، لطفاً بعداً دوباره تلاش کنید."
+
+#: build/main.js:2 build/main.js:28954 build/main.js:32480
+msgid "Plugin Installation failed, Please try again later."
+msgstr "نصب افزونه ناموفق بود، لطفاً بعداً دوباره تلاش کنید."
+
+#: build/main.js:2 build/main.js:29138
+#| msgid "Visit Website"
+msgid "Visit Site"
+msgstr "بازدید سایت"
+
+#: build/main.js:2 build/main.js:29141
+#| msgid "Activate"
+msgid "Install & Activate"
+msgstr "نصب و فعال‌سازی"
+
+#: build/main.js:2 build/main.js:29210
+msgid "Super Charge Your Workflow"
+msgstr "افزایش سرعت جریان کاری شما"
+
+#: build/main.js:2 build/main.js:29329
+msgid "Close Upgrade Notice"
+msgstr "بستن اعلان ارتقا"
+
+#: build/main.js:2 build/main.js:29334
+msgid ""
+"Design Without Limits: Access the features that top WordPress sites run on."
+msgstr ""
+"طراحی بدون محدودیت: به ویژگی‌هایی دسترسی پیدا کنید که سایت‌های برتر وردپرس "
+"از آن استفاده می‌کنند."
+
+#: build/main.js:2 build/main.js:29663
+#| msgid "Search"
+msgid "Search..."
+msgstr "جستجو..."
+
+#: build/main.js:2 build/main.js:29697
+#| msgid "Activate"
+msgid "Activate All"
+msgstr "فعال‌سازی همه"
+
+#: build/main.js:2 build/main.js:29713
+#| msgid "Deactivate"
+msgid "Deactivate Unused"
+msgstr "غیرفعال‌سازی موارد استفاده‌نشده"
+
+#: build/main.js:2 build/main.js:29721
+#| msgid "Deactivate"
+msgid "Deactivating..."
+msgstr "در حال غیرفعال‌سازی..."
+
+#: build/main.js:2 build/main.js:29721
+#| msgid "Deactivate"
+msgid "Deactivate All "
+msgstr "غیرفعال‌سازی همه "
+
+#: build/main.js:2 build/main.js:29858
+msgid "Bring Your Vision to Life with UAE Pro"
+msgstr "دیدگاه خود را با UAE Pro به واقعیت تبدیل کنید"
+
+#: build/main.js:2 build/main.js:29867
+msgid ""
+"Streamline your workflow, skip the repetitive tasks, and build modern, high-"
+"performance websites."
+msgstr ""
+"جریان کاری خود را بهینه کنید، از کارهای تکراری صرف‌نظر کنید و وب‌سایت‌های "
+"مدرن و با عملکرد بالا بسازید."
+
+#: build/main.js:2 build/main.js:29951
+msgid "Start Building Smarter"
+msgstr "شروع به ساخت هوشمندانه"
+
+#: build/main.js:2 build/main.js:30055
+msgid "250+ templates for every niche"
+msgstr "بیش از 250 قالب برای هر زمینه"
+
+#: build/main.js:2 build/main.js:30060
+msgid "Modern, timeless designs"
+msgstr "طراحی مدرن و بی‌زمان"
+
+#: build/main.js:2 build/main.js:30065
+msgid "Full design flexibility for easy customization"
+msgstr "انعطاف کامل طراحی برای سفارشی‌سازی آسان"
+
+#: build/main.js:2 build/main.js:30070
+msgid "100% responsive across all devices"
+msgstr "100٪ واکنش‌گرا در تمام دستگاه‌ها"
+
+#: build/main.js:2 build/main.js:30103 build/main.js:30131
+#| msgid "Starter Templates"
+msgid "Install Starter Templates"
+msgstr "نصب قالب‌های آماده"
+
+#: build/main.js:2 build/main.js:30103 build/main.js:30183
+#| msgid "Starter Templates"
+msgid "Activate Starter Templates"
+msgstr "فعال‌سازی قالب‌های آماده"
+
+#: build/main.js:2 build/main.js:30137 build/main.js:30172
+#| msgid "Starter Templates"
+msgid "Activating Starter Templates..."
+msgstr "در حال فعال‌سازی قالب‌های آماده..."
+
+#: build/main.js:2 build/main.js:30174
+#| msgid "Starter Templates"
+msgid "Activated Starter Templates"
+msgstr "قالب‌های آماده فعال شدند"
+
+#: build/main.js:2 build/main.js:30207
+msgid "Design Your Website in Minutes"
+msgstr "وب‌سایت خود را در چند دقیقه طراحی کنید"
+
+#: build/main.js:2 build/main.js:30216
+msgid "Build your website faster using our prebuilt templates"
+msgstr "با استفاده از قالب‌های آماده ما وب‌سایت خود را سریع‌تر بسازید"
+
+#: build/main.js:2 build/main.js:30221
+msgid ""
+"Stop building your site from scratch. Use our professional templates for "
+"your stunning website.It is easy to customize and completely responsive. "
+"Explore hundreds of designs and bring your vision to life in no time."
+msgstr ""
+"ساخت سایت خود را از صفر متوقف کنید. از قالب‌های حرفه‌ای ما برای وب‌سایت "
+"خیره‌کننده خود استفاده کنید. این قالب‌ها به آسانی قابل سفارشی‌سازی و کاملاً "
+"واکنش‌گرا هستند. صدها طرح را بررسی کنید و در کمترین زمان دیدگاه خود را به "
+"واقعیت تبدیل کنید."
+
+#: build/main.js:2 build/main.js:30119
+#| msgid "Starter Templates"
+msgid "Installing Starter Templates..."
+msgstr "در حال نصب قالب‌های آماده..."
+
+#: build/main.js:2 build/main.js:30128
+#| msgid "Starter Templates"
+msgid "Installed Starter Templates"
+msgstr "قالب‌های آماده نصب شده"
+
+#: build/main.js:2 build/main.js:30254
+#| msgid "All Templates"
+msgid "Explore Templates"
+msgstr "کاوش قالب‌ها"
+
+#: build/main.js:172 build/main.js:30572
+#| msgid " Method 1 (Recommended)"
+msgid "Option 1 (Recommended)"
+msgstr "گزینه 1 (پیشنهادی)"
+
+#: build/main.js:172 build/main.js:30573 build/main.js:30579
+msgid ""
+"This option will automatically replace your theme's header and footer files "
+"with custom templates from the plugin. It works with most themes and is "
+"selected by default."
+msgstr ""
+"این گزینه به‌طور خودکار فایل‌های سربرگ و پاورقی قالب شما را با قالب‌های "
+"سفارشی افزونه جایگزین می‌کند. با بیشتر قالب‌ها سازگار است و به‌طور پیش‌فرض "
+"انتخاب شده است."
+
+#: build/main.js:172 build/main.js:30578
+#| msgid "Caption"
+msgid "Option 2"
+msgstr "گزینه 2"
+
+#: build/main.js:172 build/main.js:30628 build/main.js:30631
+#: build/main.js:30920 build/main.js:30923 build/main.js:31940
+#: build/main.js:31945 build/main.js:33061 build/main.js:33064
+msgid "Failed to save settings!"
+msgstr "ذخیره تنظیمات ناموفق بود!"
+
+#: build/main.js:172 build/main.js:30658
+#| msgid "Add Theme Support"
+msgid "Select Option to Add Theme Support"
+msgstr "انتخاب گزینه برای افزودن پشتیبانی قالب"
+
+#: build/main.js:172 build/main.js:30660
+msgid ""
+"To ensure compatibility between the header/footer and your theme, please "
+"choose one of the following options to enable theme support:"
+msgstr ""
+"برای اطمینان از سازگاری بین سربرگ/پاورقی و قالب خود، لطفاً یکی از گزینه‌های "
+"زیر را برای فعال‌سازی پشتیبانی قالب انتخاب کنید:"
+
+#: build/main.js:172 build/main.js:30703
+msgid "Note:"
+msgstr "توجه:"
+
+#: build/main.js:172 build/main.js:30703
+msgid ""
+"If neither option works, please contact your theme author to add support for "
+"this plugin."
+msgstr ""
+"اگر هیچ یک از گزینه‌ها کار نکرد، لطفاً با نویسنده قالب خود تماس بگیرید تا "
+"پشتیبانی از این افزونه اضافه شود."
+
+#: build/main.js:172 build/main.js:30784 build/main.js:31143
+msgid "Version Control"
+msgstr "کنترل نسخه"
+
+#: build/main.js:172 build/main.js:30805
+msgid ""
+"Experiencing an issue with current version? Roll back to a previous version "
+"to help troubleshoot the issue."
+msgstr "با نسخه فعلی مشکلی دارید؟ برای کمک به رفع مشکل، به نسخه قبلی بازگردید."
+
+#: build/main.js:172 build/main.js:30851 build/main.js:30868
+msgid "Rollback"
+msgstr "بازگردانی"
+
+#: build/main.js:172 build/main.js:30871
+msgid "Cancel"
+msgstr "لغو"
+
+#: build/main.js:172 build/main.js:30954
+msgid ""
+"Collect non-sensitive information from your website, such as the PHP version "
+"and features used, to help us fix bugs faster, make smarter decisions, and "
+"build features that actually matter to you. "
+msgstr ""
+"جمع‌آوری اطلاعات غیرحساس از وب‌سایت شما، مانند نسخه PHP و ویژگی‌های استفاده "
+"شده، برای کمک به رفع سریع‌تر باگ‌ها، تصمیم‌گیری هوشمندانه‌تر و ساخت "
+"ویژگی‌های کاربردی برای شما. "
+
+#: build/main.js:172 build/main.js:31019 build/main.js:31103
+msgid "My Account"
+msgstr "حساب من"
+
+#: build/main.js:172 build/main.js:31041
+msgid "License Key"
+msgstr "کلید لایسنس"
+
+#: build/main.js:172 build/main.js:31042
+msgid ""
+"You are using the free version of Ultimate Addons for Elementor, no license "
+"key is needed. "
+msgstr ""
+"شما از نسخه رایگان آلتیمت ادانز برای المنتور استفاده می‌کنید، نیازی به کلید "
+"لایسنس نیست. "
+
+#: build/main.js:172 build/main.js:31046
+msgid "Build Better Websites With Ultimate Addons Pro"
+msgstr "ساخت وب‌سایت بهتر با آلتیمت ادانز پرو"
+
+#: build/main.js:172 build/main.js:31047
+msgid ""
+"Unlock advanced addons to power up Elementor - smarter widgets, smoother "
+"workflows, and more creative freedom with UAE Pro."
+msgstr ""
+"ویجت‌های پیشرفته را برای المنتور باز کنید - ویجت‌های هوشمندتر، جریان کاری "
+"روان‌تر و آزادی خلاقانه بیشتر با UAE Pro."
+
+#: build/main.js:172 build/main.js:31092 build/main.js:31099
+#: build/main.js:31111 build/main.js:31118 build/main.js:31131
+#: build/main.js:31138
+#| msgid "Custom"
+msgid "Custom SVG"
+msgstr "SVG سفارشی"
+
+#: build/main.js:172 build/main.js:31122
+msgid "Editor"
+msgstr "ویرایشگر"
+
+#: build/main.js:172 build/main.js:31142
+msgid "Utilities"
+msgstr "ابزارها"
+
+#: build/main.js:172 build/main.js:31265
+msgid "Essentials"
+msgstr "ضروریات"
+
+#: build/main.js:172 build/main.js:31267
+msgid "White Label Option"
+msgstr "گزینه برند سفید"
+
+#: build/main.js:172 build/main.js:31268
+#| msgid "Theme Support"
+msgid "24/7 Premium Support"
+msgstr "پشتیبانی ممتاز 24/7"
+
+#: build/main.js:172 build/main.js:31269
+msgid "Cross-Domain Copy-Paste"
+msgstr "کپی-پیست بین دامنه‌ها"
+
+#: build/main.js:172 build/main.js:31273
+#| msgid "Elementor Header & Footer Builder"
+msgid "Dynamic Header & Footer Widgets"
+msgstr "ویجت‌های سربرگ و پاورقی پویا"
+
+#: build/main.js:172 build/main.js:31289
+msgid "Creative & Advanced Design Widgets"
+msgstr "ویجت‌های خلاقانه و طراحی پیشرفته"
+
+#: build/main.js:172 build/main.js:31294
+#| msgid "Button"
+msgid "Multi-Button"
+msgstr "چند دکمه‌ای"
+
+#: build/main.js:172 build/main.js:31295
+msgid "Image Hotspots"
+msgstr "نقاط حساس تصویر"
+
+#: build/main.js:172 build/main.js:31299
+msgid "Content & Media Widgets"
+msgstr "ویجت‌های محتوا و رسانه"
+
+#: build/main.js:172 build/main.js:31301
+msgid "Content Toggle Button"
+msgstr "دکمه تغییر محتوا"
+
+#: build/main.js:172 build/main.js:31307
+msgid "Before & After Slider"
+msgstr "اسلایدر قبل و بعد"
+
+#: build/main.js:172 build/main.js:31310
+msgid "Conditional Display"
+msgstr "نمایش مشروط"
+
+#: build/main.js:172 build/main.js:31317
+msgid "Marketing & Engagement Widgets"
+msgstr "ویجت‌های بازاریابی و تعامل"
+
+#: build/main.js:172 build/main.js:31320
+msgid "Pricing Table"
+msgstr "جدول قیمت"
+
+#: build/main.js:172 build/main.js:31328
+msgid "E-Commerce Integration"
+msgstr "ادغام تجارت الکترونیک"
+
+#: build/main.js:172 build/main.js:31330
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce: Add to Cart"
+msgstr "ووکامرس: افزودن به سبد خرید"
+
+#: build/main.js:172 build/main.js:31331
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce: Product Category"
+msgstr "ووکامرس: دسته‌بندی محصول"
+
+#: build/main.js:172 build/main.js:31332
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce: Mini Cart"
+msgstr "ووکامرس: مینی سبد"
+
+#: build/main.js:172 build/main.js:31333
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce: Product"
+msgstr "ووکامرس: محصول"
+
+#: build/main.js:172 build/main.js:31334
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce: Checkout"
+msgstr "ووکامرس: تسویه‌حساب"
+
+#: build/main.js:172 build/main.js:31338
+#| msgid "Frame Animation"
+msgid "Forms Integration"
+msgstr "ادغام فرم‌ها"
+
+#: build/main.js:172 build/main.js:31340
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: build/main.js:172 build/main.js:31341
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: build/main.js:172 build/main.js:31342
+msgid "WPForms"
+msgstr "WPForms"
+
+#: build/main.js:172 build/main.js:31343
+msgid "Fluent Forms"
+msgstr "Fluent Forms"
+
+#: build/main.js:172 build/main.js:31347
+msgid "SEO Widgets"
+msgstr "ویجت‌های سئو"
+
+#: build/main.js:172 build/main.js:31349
+msgid "FAQ with Schema"
+msgstr "سؤالات متداول با اسکما"
+
+#: build/main.js:172 build/main.js:31350
+msgid "How-To"
+msgstr "چگونه"
+
+#: build/main.js:172 build/main.js:31356
+msgid "Creative Features"
+msgstr "ویژگی‌های خلاقانه"
+
+#: build/main.js:172 build/main.js:31360
+msgid "Particles"
+msgstr "ذرات"
+
+#: build/main.js:172 build/main.js:31366
+msgid "Social Media Integration"
+msgstr "ادغام شبکه‌های اجتماعی"
+
+#: build/main.js:172 build/main.js:31374
+#| msgid "Advanced"
+msgid "Advanced Features"
+msgstr "ویژگی‌های پیشرفته"
+
+#: build/main.js:172 build/main.js:31378
+#| msgid "Layout"
+msgid "Post Layout"
+msgstr "طرح‌بندی پست"
+
+#: build/main.js:172 build/main.js:31379
+msgid "Off Canvas"
+msgstr "خارج از کادر"
+
+#: build/main.js:172 build/main.js:31426
+msgid "Free Vs Pro"
+msgstr "رایگان در مقابل پرو"
+
+#: build/main.js:172 build/main.js:31429
+#| msgid "Ultimate Addons for Elementor"
+msgid "Ultimate Addons for Elementor Pro offers 50+ widgets and features!"
+msgstr "آلتیمت ادانز برای المنتور پرو بیش از 50 ویجت و ویژگی ارائه می‌دهد!"
+
+#: build/main.js:172 build/main.js:31432
+msgid ""
+"Compare the popular features/widgets to find the best option for your "
+"website."
+msgstr ""
+"ویژگی‌ها/ویجت‌های محبوب را مقایسه کنید تا بهترین گزینه برای وب‌سایت خود را "
+"پیدا کنید."
+
+#: build/main.js:172 build/main.js:31456
+msgid "Get Full Toolkit"
+msgstr "دریافت مجموعه کامل ابزار"
+
+#: build/main.js:172 build/main.js:31482 build/main.js:33810
+#: build/main.js:33863 build/main.js:33915
+msgid "Pro"
+msgstr "Pro"
+
+#: build/main.js:172 build/main.js:31499
+msgid "See all UAE Pro Features"
+msgstr "مشاهده همه ویژگی‌های UAE Pro"
+
+#: build/main.js:172 build/main.js:32845
+msgid "Welcome to UAE"
+msgstr "به UAE خوش آمدید"
+
+#: build/main.js:172 build/main.js:32852
+msgid "Your Ultimate Elementor Addons to build modern Elementor Websites."
+msgstr "افزونه‌های نهایی المنتور شما برای ساخت وب‌سایت‌های مدرن المنتور."
+
+#: build/main.js:172 build/main.js:32888
+msgid "No bloat — disable unused widgets with one click"
+msgstr "بدون شلوغی — ویجت‌های استفاده‌نشده را با یک کلیک غیرفعال کنید"
+
+#: build/main.js:172 build/main.js:32904
+msgid "Design headers & footers exactly where you want them"
+msgstr "سربرگ‌ها و پاورقی‌ها را دقیقاً در جایی که می‌خواهید طراحی کنید"
+
+#: build/main.js:172 build/main.js:32920
+msgid "Reliable support from experts when you need it"
+msgstr "پشتیبانی قابل اعتماد از کارشناسان زمانی که نیاز دارید"
+
+#: build/main.js:172 build/main.js:32950
+msgid "Let's Get Started"
+msgstr "بیایید شروع کنیم"
+
+#: build/main.js:172 build/main.js:33307
+msgid "Recommended Essentials"
+msgstr "ضروریات پیشنهادی"
+
+#: build/main.js:172 build/main.js:33318
+msgid ""
+"These free plugins add essential features to your website and help speed up "
+"your workflow. Select the plugins you want to install."
+msgstr ""
+"این افزونه‌های رایگان ویژگی‌های اساسی را به وب‌سایت شما اضافه می‌کنند و به "
+"سرعت بخشیدن به جریان کاری شما کمک می‌کنند. افزونه‌هایی را که می‌خواهید نصب "
+"کنید، انتخاب کنید."
+
+#: build/main.js:172 build/main.js:33391
+msgid "Get Important Notifications and Updates"
+msgstr "دریافت اطلاعیه‌ها و به‌روزرسانی‌های مهم"
+
+#: build/main.js:172 build/main.js:32227 build/main.js:33399
+#| msgid "Your First Name"
+msgid "First Name"
+msgstr "نام"
+
+#: build/main.js:172 build/main.js:32267 build/main.js:33424
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: build/main.js:172 build/main.js:33450
+#| msgid "Email address is required"
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: build/main.js:172 build/main.js:33484
+msgid ""
+"Notify me about critical updates and new features — and help us improve by "
+"sharing how you use the plugin. "
+msgstr ""
+"در مورد به‌روزرسانی‌های حیاتی و ویژگی‌های جدید به من اطلاع دهید — و با به "
+"اشتراک گذاشتن نحوه استفاده از افزونه، به بهبود ما کمک کنید. "
+
+#: build/main.js:172 build/main.js:33493
+msgid " Privacy Policy"
+msgstr " سیاست حفظ حریم خصوصی"
+
+#: build/main.js:172 inc/lib/nps-survey/dist/main.js:1 build/main.js:33509
+#: build/main.js:33953
+msgid "Back"
+msgstr "بازگشت"
+
+#: build/main.js:172 build/main.js:33211
+msgid "Please enter a valid email address"
+msgstr "لطفاً یک آدرس ایمیل معتبر وارد کنید"
+
+#: build/main.js:172 build/main.js:31883 build/main.js:33209
+#: build/main.js:33215
+#| msgid "Field is required"
+msgid "This field is required"
+msgstr "این فیلد الزامی است"
+
+#: build/main.js:172 build/main.js:33531 build/main.js:33990
+msgid "Next"
+msgstr "بعدی"
+
+#: build/main.js:172 build/main.js:33664
+msgid "Select Your Features"
+msgstr "ویژگی‌های خود را انتخاب کنید"
+
+#: build/main.js:172 build/main.js:33673
+msgid ""
+"Unlock more design control, faster setup, and powerful customization—so you "
+"can build a better website, effortlessly."
+msgstr ""
+"کنترل طراحی بیشتر، راه‌اندازی سریع‌تر و سفارشی‌سازی قدرتمند را باز کنید — تا "
+"بتوانید بدون زحمت وب‌سایتی بهتر بسازید."
+
+#: build/main.js:172 build/main.js:33689
+#| msgid "Elementor Header & Footer Builder"
+msgid "Header & Footer Builder"
+msgstr "سازنده سربرگ و پاورقی"
+
+#: build/main.js:172 build/main.js:33709
+msgid ""
+"Assign headers and footers to specific pages or post types. Gives users "
+"complete layout control—something typically locked behind Pro plugins."
+msgstr ""
+"سربرگ‌ها و پاورقی‌ها را به صفحات یا نوع‌های نوشته خاص اختصاص دهید. کنترل "
+"کامل طرح‌بندی را به کاربران می‌دهد — چیزی که معمولاً پشت افزونه‌های Pro قفل "
+"است."
+
+#: build/main.js:172 build/main.js:33751
+msgid "Mega Menu & Navigation Widget"
+msgstr "مگا منو و ویجت ناوبری"
+
+#: build/main.js:172 build/main.js:33768
+msgid ""
+"Save hours by copying Elementor sections, widgets, or pages from one website "
+"to another—no need to rebuild layouts from scratch."
+msgstr ""
+"با کپی کردن بخش‌ها، ویجت‌ها یا صفحات المنتور از یک وب‌سایت به وب‌سایت دیگر، "
+"ساعت‌ها صرفه‌جویی کنید — نیازی به بازسازی طرح‌ها از ابتدا نیست."
+
+#: build/main.js:172 build/main.js:33821 build/main.js:33873
+#: build/main.js:33925
+msgid ""
+"Design eye-catching popups directly in Elementor—collect leads, display "
+"promotions, or show messages without needing a separate popup plugin."
+msgstr ""
+"پاپ‌آپ‌های چشمگیر را مستقیماً در المنتور طراحی کنید — جذب لیدها، نمایش "
+"تبلیغات یا نمایش پیام‌ها بدون نیاز به افزونه پاپ‌آپ جداگانه."
+
+#: build/main.js:172 build/main.js:33860
+#| msgid "WooCommerce Shop Page"
+msgid "WooCommerce Widgets"
+msgstr "ویجت‌های ووکامرس"
+
+#: build/main.js:172 build/main.js:33909
+msgid "50+ Premium Widgets & 200+ Templates"
+msgstr "50+ ویجت ممتاز و 200+ قالب"
+
+#: build/main.js:172 build/main.js:34005
+msgid "You've picked Pro features — upgrade to start using them."
+msgstr ""
+"شما ویژگی‌های Pro را انتخاب کرده‌اید — برای شروع استفاده از آنها ارتقا دهید."
+
+#: build/main.js:172 build/main.js:32005
+msgid "You’re All Set to Start Creating! 🚀"
+msgstr "شما آماده شروع ساخت هستید! 🚀"
+
+#: build/main.js:172 build/main.js:32014
+msgid ""
+"Ultimate Addons is ready to supercharge your Elementor workflow! Build "
+"faster, cleaner, and more creatively — with complete control over your site."
+msgstr ""
+"آلتیمت ادانز آماده است تا جریان کاری المنتور شما را تقویت کند! سریع‌تر، "
+"تمیزتر و خلاقانه‌تر بسازید — با کنترل کامل بر سایت خود."
+
+#: build/main.js:172 build/main.js:32020
+msgid "What You Can Do Next:"
+msgstr "کارهایی که می‌توانید بعد انجام دهید:"
+
+#: build/main.js:172 build/main.js:32042
+msgid "Build a custom header"
+msgstr "ساخت سربرگ سفارشی"
+
+#: build/main.js:172 build/main.js:32058
+msgid "Design your site footer"
+msgstr "طراحی پاورقی سایت خود"
+
+#: build/main.js:172 build/main.js:32074
+msgid "Create a new page"
+msgstr "ایجاد صفحه جدید"
+
+#: build/main.js:172 build/main.js:32117
+msgid "Create New Header"
+msgstr "ایجاد سربرگ جدید"
+
+#: build/main.js:172 build/main.js:32138
+#| msgid "Before Footer"
+msgid "Create New Footer"
+msgstr "ایجاد پاورقی جدید"
+
+#: build/main.js:172 build/main.js:32185
+msgid "We have a special Reward just for you! 🎁"
+msgstr "ما یک جایزه ویژه فقط برای شما داریم! 🎁"
+
+#: build/main.js:172 build/main.js:32211
+msgid ""
+"Enter your details to get special offer that we have for you and stay "
+"updated on UAE’s latest news and updates."
+msgstr ""
+"جزئیات خود را وارد کنید تا پیشنهاد ویژه‌ای که برای شما داریم دریافت کنید و "
+"از آخرین اخبار و به‌روزرسانی‌های UAE مطلع شوید."
+
+#: build/main.js:172 build/main.js:32296
+#| msgid "Your Work Email"
+msgid "Your Email Address"
+msgstr "آدرس ایمیل شما"
+
+#: build/main.js:172 build/main.js:31892
+#| msgid "Email address is required"
+msgid "Entered email address is invalid!"
+msgstr "آدرس ایمیل وارد شده نامعتبر است!"
+
+#: build/main.js:172 build/main.js:32800
+msgid "Exit Guided Setup"
+msgstr "خروج از راه‌اندازی راهنما"
+
+#: inc/lib/nps-survey/dist/main.js:1
+msgid "Very unlikely"
+msgstr "خیلی غیرمحتمل"
+
+#: inc/lib/nps-survey/dist/main.js:1
+msgid "Very likely"
+msgstr "خیلی محتمل"
+
+#: inc/lib/nps-survey/dist/main.js:1
+msgid "I already did!"
+msgstr "من قبلاً انجام دادم!"
+
+#: inc/lib/nps-survey/dist/main.js:1
+msgid "Rate the Plugin"
+msgstr "امتیازدهی به افزونه"

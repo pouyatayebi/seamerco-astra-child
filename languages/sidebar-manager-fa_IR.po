@@ -1,0 +1,345 @@
+# Copyright (C) 2020 Brainstorm Force
+# This file is distributed under the same license as the Sidebar Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sidebar Manager 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sidebar-"
+"manager\n"
+"POT-Creation-Date: 2021-01-19 19:44+0330\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-01-19 19:52+0330\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;"
+"_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;"
+"esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.1\n"
+"Last-Translator: Masoud Salehi\n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+#, php-format
+msgid ""
+"Want to help make <strong>%1s</strong> even more awesome? Allow us to "
+"collect non-sensitive diagnostic data and usage information. "
+msgstr ""
+"آیا می‌خواهید به <strong>%1s</strong> کمک کنید که جذاب‌تر شود؟ لطفاً به ما "
+"اجازه دهید که داده‌های تشخیصی غیرحساس را جمع‌آوری کنیم. "
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "این گزینه برای همۀ سایت‌های شبکه قابل اجرا خواهد بود."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr " بیشتر بدانید."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "البته! اجازه می‌دهم"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "نه ممنونم"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "ردیابی استفاده"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+#, php-format
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr ""
+"به محصولات %s اجازه دهید که برای بهبود آپدیت‌های آینده داده‌های غیرحساس را "
+"ردیابی کند."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr " این گزینه برای همۀ سایت‌های شبکه قابل اجرا خواهد بود."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "بیشتر بدانید."
+
+#: classes/class-bsf-sb-metabox.php:57
+msgid "Enter sidebar title here"
+msgstr "عنوان نوار کناری را در اینجا وارد کنید"
+
+#: classes/class-bsf-sb-metabox.php:73
+msgid "Sidebar Settings"
+msgstr "تنظیمات نوار کناری"
+
+#: classes/class-bsf-sb-metabox.php:149
+msgid "Sidebar To Replace"
+msgstr "نوار کناری برای جایگزینی"
+
+#: classes/class-bsf-sb-metabox.php:150
+msgid ""
+"Choose which sidebar you want to replace. Select None to disable this "
+"sidebar."
+msgstr ""
+"انتخاب کنید که کدام نوار کناری را می‌خواهید جایگزین کنید. برای غیرفعال کردن "
+"این نوار کناری هیچ‌کدام را انتخاب کنید."
+
+#: classes/class-bsf-sb-metabox.php:156
+msgid "None"
+msgstr "هیچ‌کدام"
+
+#: classes/class-bsf-sb-metabox.php:166
+msgid "Sidebars are not available."
+msgstr "نوارهای کناری در دسترس نیستند."
+
+#: classes/class-bsf-sb-metabox.php:174
+msgid "Description"
+msgstr "توضیحات"
+
+#: classes/class-bsf-sb-metabox.php:175
+msgid "Add an optional description fot the Widgets screen."
+msgstr "برای صفحه ابزارک‌ها یک توضیح اختیاری اضافه کنید."
+
+#: classes/class-bsf-sb-metabox.php:184
+msgid "Display On"
+msgstr "نمایش در"
+
+#: classes/class-bsf-sb-metabox.php:185
+msgid "Add locations for where this sidebar should appear."
+msgstr "مکان‌هایی را که این نوار کناری باید ظاهر شود را اضافه کنید."
+
+#: classes/class-bsf-sb-metabox.php:193 classes/class-bsf-sb-post-type.php:69
+msgid "Display Rules"
+msgstr "نمایش قوانین"
+
+#: classes/class-bsf-sb-metabox.php:197
+msgid "Add Display Rule"
+msgstr "افزودن قانون نمایش"
+
+#: classes/class-bsf-sb-metabox.php:207
+msgid "Do Not Display On"
+msgstr "عدم نمایش در"
+
+#: classes/class-bsf-sb-metabox.php:208
+msgid "This Sidebar will not appear at these locations."
+msgstr "این نوار کناری در این مکان‌ها ظاهر نخواهید شد."
+
+#: classes/class-bsf-sb-metabox.php:215
+msgid "Exclude On"
+msgstr "استثنا برای"
+
+#: classes/class-bsf-sb-metabox.php:218
+msgid "Add Excludion Rule"
+msgstr "افزودن قانون محرومیت"
+
+#: classes/class-bsf-sb-metabox.php:229
+msgid "User Roles"
+msgstr "نقش‌های کاربری"
+
+#: classes/class-bsf-sb-metabox.php:230
+msgid "Target header based on user role."
+msgstr "سربرگ را بر اساس نقش کاربری هدف‌گذاری کنید."
+
+#: classes/class-bsf-sb-metabox.php:237
+msgid "Users"
+msgstr "کاربران"
+
+#: classes/class-bsf-sb-metabox.php:240
+msgid "Add User Rule"
+msgstr "افزودن نقش کاربری"
+
+#: classes/class-bsf-sb-post-type.php:70
+msgid "Date"
+msgstr "تاریخ"
+
+#: classes/class-bsf-sb-post-type.php:178
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: classes/class-bsf-sb-post-type.php:179
+#: classes/class-bsf-sb-post-type.php:234
+msgid "Sidebars"
+msgstr "نوارهای کناری"
+
+#: classes/class-bsf-sb-post-type.php:186
+msgctxt "post type general name"
+msgid "Sidebars"
+msgstr "نوارهای کناری"
+
+#: classes/class-bsf-sb-post-type.php:187
+msgctxt "post type singular name"
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: classes/class-bsf-sb-post-type.php:188
+msgctxt "admin menu"
+msgid "Sidebars"
+msgstr "نوارهای کناری"
+
+#: classes/class-bsf-sb-post-type.php:189
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: classes/class-bsf-sb-post-type.php:191
+#, php-format
+msgid "Add New %s"
+msgstr "افزودن %s جدید"
+
+#: classes/class-bsf-sb-post-type.php:193
+#, php-format
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+#: classes/class-bsf-sb-post-type.php:195
+#, php-format
+msgid "New %s"
+msgstr "%s جدید"
+
+#: classes/class-bsf-sb-post-type.php:198
+#, php-format
+msgid "View %s"
+msgstr "مشاهدۀ %s"
+
+#: classes/class-bsf-sb-post-type.php:200
+#, php-format
+msgid "Search %s"
+msgstr "جستجوی %s"
+
+#: classes/class-bsf-sb-post-type.php:202
+#, php-format
+msgid "No %s Found"
+msgstr "هیچ %s یافت نشد"
+
+#: classes/class-bsf-sb-post-type.php:204
+#, php-format
+msgid "No %s Found In Trash"
+msgstr "هیچ %s در زباله‌دان یافت نشد"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:143
+msgid "404 Page"
+msgstr "صفحه 404"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:144
+msgid "Search Page"
+msgstr "صفحۀ جستجو"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:145
+msgid "Blog / Posts Page"
+msgstr "صفحۀ نوشته‌ها / بلاگ"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:146
+msgid "Front Page"
+msgstr "صفحه اول"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:147
+msgid "Date Archive"
+msgstr "بایگانی تاریخ"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:148
+msgid "Author Archive"
+msgstr "بایگانی نویسنده"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:152
+msgid "WooCommerce Shop Page"
+msgstr "صفحۀ فروشگاه ووکامرس"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:157
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:234
+msgid "Basic"
+msgstr "پایه"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:159
+msgid "Entire Website"
+msgstr "سرتاسر وبسایت"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:160
+msgid "All Singulars"
+msgstr "همۀ تکی‌ها"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:161
+msgid "All Archives"
+msgstr "همۀ بایگانی‌ها"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:166
+msgid "Special Pages"
+msgstr "صفحات ویژه"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:217
+msgid "Specific Target"
+msgstr "هدف خاص"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:219
+msgid "Specific Pages / Posts / Taxanomies, etc."
+msgstr "صفحات خاص / نوشته‌های خاص / طبقه‌بندی‌های خاص و..."
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:236
+msgid "All"
+msgstr "همه"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:237
+msgid "Logged In"
+msgstr "وارد شده"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:238
+msgid "Logged Out"
+msgstr "خارج شده"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:243
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:522
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:931
+msgid "Add Rule"
+msgstr "افزودن قانون"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:539
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:646
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:948
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:980
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:1457
+msgid "Select"
+msgstr "انتخاب"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:591
+#, php-format
+msgid "All %s"
+msgstr "همۀ %s"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:596
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:604
+#, php-format
+msgid "All %s Archive"
+msgstr "همۀ بایگانی‌های %s"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:706
+msgid "Add Exclusion Rule"
+msgstr "افزودن قانون محرومیت"
+
+#: classes/modules/target-rule/class-bsf-sb-target-rules-fields.php:1397
+#, php-format
+msgid "The same display setting is already exist in %s post/s."
+msgstr "تنظیمات نمایش مشابهی در نوشته(های) %s از قبل وجود دارد."
+
+#: includes/white-label.php:18
+msgid "Sidebar Manager"
+msgstr "مدیریت نوار کناری"
+
+#: includes/white-label.php:22
+msgid "Astra SideBar Branding"
+msgstr "نام تجاری نوار کناری آسترا"
+
+#: includes/white-label.php:27
+msgid "Plugin Name:"
+msgstr "نام افزونه:"
+
+#: includes/white-label.php:32
+msgid "Plugin Description:"
+msgstr "توضیحات افزونه:"
+
+#: lib/notices/class-astra-notices.php:125
+msgid "WordPress Nonce not validated."
+msgstr "کلید سری وردپرس معتبر نیست."

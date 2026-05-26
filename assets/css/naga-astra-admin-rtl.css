@@ -1,0 +1,466 @@
+/**
+ *
+ *	Name:			IRAN Sans-Serif Font
+ *	Version:		5.0
+ *	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+ *	Created on:		Dec 25, 2012
+ *	Updated on:		Sep 01, 2017
+ *	Website:		             http://fontiran.com
+ *	Copyright:		Commercial/Proprietary Software
+ --------------------------------------------------------------------------------------
+  فونت های ایران سن سریف یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+ --------------------------------------------------------------------------------------
+ IRAN Sans-serif fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+ --------------------------------------------------------------------------------------
+ This set of fonts are used in this project under the license: (BYY5Q) Is dedicated to http://NagaTheme.com
+ --------------------------------------------------------------------------------------
+ *
+**/
+
+/* Adds IRANSans Fonts to Admin Dashboard */
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../naga-fonts/IRANSansWeb_Medium.eot");
+  src: url("../../naga-fonts/IRANSansWeb_Medium.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-8 */ url("../../naga-fonts/IRANSansWeb_Medium.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+      url("../../naga-fonts/IRANSansWeb_Medium.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("../../naga-fonts/IRANSansWeb_Medium.ttf") format("truetype");
+}
+
+/* Admin Dashboard CSS Styles Added By NagaTheme.com */
+/* Admin Dashboard > All Letter Spasings */
+* {
+  letter-spacing: 0 !important;
+}
+
+/* Admin Dashboard > All Fonts */
+/* Admin Dashboard > WordPress Admin Bar > All Fonts */
+.rtl #wpadminbar #wp-admin-bar-my-sites a.ab-item,
+#wpadminbar #wp-admin-bar-site-name a.ab-item {
+  font-family: IRANSans;
+}
+
+.rtl #wpadminbar * {
+  font-family: IRANSans;
+}
+
+body.rtl,
+body.rtl .press-this a.wp-switch-editor {
+  font-family: IRANSans;
+}
+
+.rtl .quicktags-toolbar input,
+.rtl .wp-switch-editor {
+  font-family: IRANSans;
+}
+
+.rtl h1,
+.rtl h2,
+.rtl h3,
+.rtl h4,
+.rtl h5,
+.rtl h6 {
+  font-family: IRANSans;
+  font-weight: 600;
+}
+
+.rtl .editor-post-title__block .editor-post-title__input {
+  font-family: IRANSans;
+}
+
+.rtl .components-base-control {
+  font-family: IRANSans;
+}
+
+.rtl .components-modal__content .input-control,
+.components-modal__content input[type="checkbox"],
+.components-modal__content input[type="color"],
+.components-modal__content input[type="date"],
+.components-modal__content input[type="datetime-local"],
+.components-modal__content input[type="datetime"],
+.components-modal__content input[type="email"],
+.components-modal__content input[type="month"],
+.components-modal__content input[type="number"],
+.components-modal__content input[type="password"],
+.components-modal__content input[type="radio"],
+.components-modal__content input[type="search"],
+.components-modal__content input[type="tel"],
+.components-modal__content input[type="text"],
+.components-modal__content input[type="time"],
+.components-modal__content input[type="url"],
+.components-modal__content input[type="week"],
+.components-modal__content select,
+.components-modal__content textarea,
+.components-popover .input-control,
+.components-popover input[type="checkbox"],
+.components-popover input[type="color"],
+.components-popover input[type="date"],
+.components-popover input[type="datetime-local"],
+.components-popover input[type="datetime"],
+.components-popover input[type="email"],
+.components-popover input[type="month"],
+.components-popover input[type="number"],
+.components-popover input[type="password"],
+.components-popover input[type="radio"],
+.components-popover input[type="search"],
+.components-popover input[type="tel"],
+.components-popover input[type="text"],
+.components-popover input[type="time"],
+.components-popover input[type="url"],
+.components-popover input[type="week"],
+.components-popover select,
+.components-popover textarea,
+.edit-post-sidebar .input-control,
+.edit-post-sidebar input[type="checkbox"],
+.edit-post-sidebar input[type="color"],
+.edit-post-sidebar input[type="date"],
+.edit-post-sidebar input[type="datetime-local"],
+.edit-post-sidebar input[type="datetime"],
+.edit-post-sidebar input[type="email"],
+.edit-post-sidebar input[type="month"],
+.edit-post-sidebar input[type="number"],
+.edit-post-sidebar input[type="password"],
+.edit-post-sidebar input[type="radio"],
+.edit-post-sidebar input[type="search"],
+.edit-post-sidebar input[type="tel"],
+.edit-post-sidebar input[type="text"],
+.edit-post-sidebar input[type="time"],
+.edit-post-sidebar input[type="url"],
+.edit-post-sidebar input[type="week"],
+.edit-post-sidebar select,
+.edit-post-sidebar textarea,
+.editor-block-list__block.input-control,
+.editor-block-list__block input[type="checkbox"],
+.editor-block-list__block input[type="color"],
+.editor-block-list__block input[type="date"],
+.editor-block-list__block input[type="datetime-local"],
+.editor-block-list__block input[type="datetime"],
+.editor-block-list__block input[type="email"],
+.editor-block-list__block input[type="month"],
+.editor-block-list__block input[type="number"],
+.editor-block-list__block input[type="password"],
+.editor-block-list__block input[type="radio"],
+.editor-block-list__block input[type="search"],
+.editor-block-list__block input[type="tel"],
+.editor-block-list__block input[type="text"],
+.editor-block-list__block input[type="time"],
+.editor-block-list__block input[type="url"],
+.editor-block-list__block input[type="week"],
+.editor-block-list__block select,
+.editor-block-list__block textarea,
+.editor-post-permalink .input-control,
+.editor-post-permalink input[type="checkbox"],
+.editor-post-permalink input[type="color"],
+.editor-post-permalink input[type="date"],
+.editor-post-permalink input[type="datetime-local"],
+.editor-post-permalink input[type="datetime"],
+.editor-post-permalink input[type="email"],
+.editor-post-permalink input[type="month"],
+.editor-post-permalink input[type="number"],
+.editor-post-permalink input[type="password"],
+.editor-post-permalink input[type="radio"],
+.editor-post-permalink input[type="search"],
+.editor-post-permalink input[type="tel"],
+.editor-post-permalink input[type="text"],
+.editor-post-permalink input[type="time"],
+.editor-post-permalink input[type="url"],
+.editor-post-permalink input[type="week"],
+.editor-post-permalink select,
+.editor-post-permalink textarea,
+.editor-post-publish-panel .input-control,
+.editor-post-publish-panel input[type="checkbox"],
+.editor-post-publish-panel input[type="color"],
+.editor-post-publish-panel input[type="date"],
+.editor-post-publish-panel input[type="datetime-local"],
+.editor-post-publish-panel input[type="datetime"],
+.editor-post-publish-panel input[type="email"],
+.editor-post-publish-panel input[type="month"],
+.editor-post-publish-panel input[type="number"],
+.editor-post-publish-panel input[type="password"],
+.editor-post-publish-panel input[type="radio"],
+.editor-post-publish-panel input[type="search"],
+.editor-post-publish-panel input[type="tel"],
+.editor-post-publish-panel input[type="text"],
+.editor-post-publish-panel input[type="time"],
+.editor-post-publish-panel input[type="url"],
+.editor-post-publish-panel input[type="week"],
+.editor-post-publish-panel select,
+.editor-post-publish-panel textarea {
+  font-family: IRANSans;
+}
+
+.rtl .edit-post-visual-editor .editor-block-list__block {
+  font-family: IRANSans;
+}
+
+.rtl .media-frame,
+.rtl .media-frame .search,
+.rtl .media-frame input[type="email"],
+.rtl .media-frame input[type="number"],
+.rtl .media-frame input[type="password"],
+.rtl .media-frame input[type="search"],
+.rtl .media-frame input[type="tel"],
+.rtl .media-frame input[type="text"],
+.rtl .media-frame input[type="url"],
+.rtl .media-frame select,
+.rtl .media-frame textarea,
+.rtl .media-modal {
+  font-family: IRANSans;
+}
+
+.rtl .edit-widgets-block-editor .components-button {
+  font-family: IRANSans;
+}
+.components-placeholder__error,
+.components-placeholder__fieldset,
+.components-placeholder__instructions,
+.components-placeholder__label {
+  font-family: IRANSans;
+}
+
+.rtl input,
+.rtl select,
+.rtl textarea {
+  font-family: IRANSans;
+}
+
+.rtl .components-notice {
+  font-family: IRANSans;
+}
+
+.rtl .components-dropdown-menu__menu {
+  font-family: IRANSans;
+}
+
+.rtl .editor-post-permalink {
+  font-family: IRANSans;
+}
+
+.rtl .edit-post-visual-editor .components-button {
+  font-family: IRANSans;
+}
+
+/* Dashboard > Astra > Dashboard */
+.ast-menu-page-wrapper,
+.ast-kb-section {
+  font-family: IRANSans !important;
+}
+
+.ast-menu-page-wrapper, .ast-menu-page-wrapper p, .ast-kb-section {
+  font-family: IRANSans !important;
+}
+
+body :is(#astra-dashboard-app, body [data-floating-ui-portal], body .ast-site-builder-table-view) :is(.\[\&\>label\]\:\!left-1 > label) {
+  left: 0.25rem !important;
+  right: unset !important;
+}
+
+/* Dashboard > Astra > Custom Layouts */
+.ast-custom-layout-switch.ast-active span {
+  transform: translate3d(-20px, 1px, 0) !important;
+}
+
+/* Dashboard > Appearance > Astra Sub Menus */
+#menu-appearance a[href^="edit.php?post_type=astra-"]::before,
+#menu-appearance a[href^="themes.php?page=astra-"]::before,
+#menu-appearance a[href^="edit.php?post_type=astra_"]::before,
+#menu-appearance a[href^="edit-tags.php?taxonomy=bsf_custom_fonts"]::before,
+#menu-appearance a[href^="themes.php?page=custom-typekit-fonts"]::before,
+#menu-appearance a[href^="edit.php?post_type=bsf-sidebar"]::before {
+  content: "\21B5" !important;
+  margin-left: 0.5em !important;
+  margin-right: unset !important;
+  opacity: 0.75 !important;
+}
+
+/* Woocommerce > Wizard > Header */
+.woocommerce-profile-wizard__body
+  .woocommerce-layout
+  .woocommerce-layout__main {
+  padding: 0;
+}
+/* Woocommerce > Wizard > Shop Details > Input 3 */
+.woocommerce-select-control.is-searchable .components-base-control__label {
+  right: 70px !important;
+}
+.woocommerce-profile-wizard__body
+  .woocommerce-profile-wizard__container
+  .components-base-control.has-error
+  .components-base-control__help {
+  right: 8px !important;
+  left: auto !important;
+}
+.woocommerce-select-control .woocommerce-select-control__autofill-input {
+  position: static !important;
+  padding: 0 30px;
+}
+
+/* Woocommerce > Wizard > Indusry */
+.woocommerce-profile-wizard__body .woocommerce-profile-wizard__container {
+  text-align: right !important;
+}
+
+/* Woocommerce > Wizard Instaling > Indusry > Button*/
+.woocommerce-profile-wizard__body
+  .woocommerce-profile-wizard__product-types
+  .woocommerce-profile-wizard__product-types-pricing-toggle.woocommerce-profile-wizard__checkbox
+  .components-form-toggle {
+  margin-right: 16px;
+  margin-left: auto;
+}
+
+/* Dashboard Area */
+.astra-notice .notice-container {
+  justify-content: right;
+}
+
+/* White Lable Settings */
+.ast-branding-list li:nth-child(2n + 1) {
+  padding-right: 0;
+  padding-left: 0.7em;
+}
+.ast-white-label-notice .dashicons {
+  margin: 0 0 0 5px;
+}
+
+/* Dashboard > Site Builder */
+#ast-tb-app-root .lucide.lucide-chevron-right {
+  transform: rotateY(180deg) !important;
+}
+#ast-tb-app-root .gap-\[20px\] {
+  gap: 60px 20px !important;
+}
+
+/* Customizer Settings */
+/* Customizer Color Palet */
+.components-color-picker__alpha-pointer,
+.components-color-picker__hue-pointer {
+  transform: translate(-7px, -1px);
+}
+/* Customizer > Header Footer Builder > Gutenberg Settings */
+.customize-control-sidebar_block_editor
+  .block-editor-block-list__block-popover {
+  right: 0 !important;
+  left: auto !important;
+}
+
+.components-popover__content {
+  margin: 0 !important;
+}
+.components-button.has-icon.has-text {
+  justify-content: right;
+}
+.components-popover[data-x-axis="center"] .components-popover__content {
+  right: 50% !important;
+  left: auto !important;
+  transform: translateX(-10px) !important;
+}
+
+/* Custom Layouts */
+.ast-custom-layout-switch.ast-active span {
+  transform: translate3d(-20px, 0, 0);
+}
+/* Custom Layout Settings > Vertical culomn line */
+.ast-advanced-hook-row-heading {
+  border-left: 1px solid #e1e1e1;
+  border-right: unset !important;
+}
+/* Custom Layout Settings > Question Mark */
+.ast-advanced-hook-heading-help {
+  float: left !important;
+}
+/* Custom Layout Settings > Button Margin */
+.target_rule-add-exclusion-rule {
+  margin-right: 10px;
+  margin-left: auto !important;
+}
+
+/* Advanced Headers */
+/* Page Header Tab > Color Palet */
+.ast-advanced-headers-row
+.ast-advanced-headers-row-content
+.wp-picker-container
+.wp-color-result
+.color-alpha {
+  right: 0px !important;
+  left: auto !important;
+  border-radius: 0 2px 2px 0 !important;
+}
+/* Role Display > Role Condition Box */
+.astra-target-rule-condition,
+.astra-user-role-condition {
+  padding: 0 0 0 30px;
+}
+/* Role Display > Role Condition Box > Delete Icon */
+.target_rule-condition-delete,
+.user_role-condition-delete {
+  left: 0px;
+  right: auto !important;
+}
+
+/* Astra Notices */
+.astra-notice-container {
+  justify-content: right !important;
+}
+
+/* Advanced Hook */
+.ast-admin-top-bar-root {
+  font-family: inherit !important;
+}
+@media (min-width: 640px) {
+  .sm\:ml-2 {
+    margin-right: 0.5rem !important;
+    margin-left: 0px !important;
+  }
+}
+.customize-control-ast-selector .ast-alignment-inner-wrap,
+.customize-control-ast-selector .ast-selector-responsive-wrap {
+  flex-direction: row-reverse;
+}
+
+.customize-control-ast-selector
+.ast-alignment-inner-wrap:last-child
+.components-button {
+  border-radius: 0px 3px 3px 0px !important;
+}
+.customize-control-ast-selector
+  .ast-alignment-inner-wrap:first-child
+  .components-button {
+  border-radius: 3px 0px 0px 3px !important;
+}
+.ast-tb-sidebar-item-svg {
+  right: 30px !important;
+  left: auto !important;
+}
+.post-type-astra_adv_header #wpcontent,
+.post-type-astra-advanced-hook #wpcontent {
+  padding-right: 0 !important;
+}
+.post-type-astra-advanced-hook #wpbody-content,
+.post-type-astra_adv_header #wpbody-content {
+  padding: 0 20px 65px 0px !important;
+}
+
+.astra-dashboard-app button.bg-astra[aria-checked="true"] .toggle-bubble {
+  transform: translateX(18px) !important;
+}
+
+/* Custom Fonts */
+.left-0 {
+  left: 0px !important;
+  right: auto !important;
+}
+
+
+/* UAE Settings */
+@media (min-width: 769px) {
+  .uae-settings-page::before {
+    right: 0 !important;
+    left: unset !important;
+  }
+}

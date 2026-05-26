@@ -1,0 +1,459 @@
+# Copyright (C) 2023 Brainstorm Force
+# This file is distributed under the same license as the Custom Fonts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Fonts 2.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-fonts\n"
+"POT-Creation-Date: 2023-07-11 06:59:59+00:00\n"
+"PO-Revision-Date: 2025-03-10 12:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr " بیشتر بدانید."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr " این گزینه برای همۀ سایت‌های شبکه قابل اجرا خواهد بود."
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:40
+msgid "100 Thin"
+msgstr "100 نازک"
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:41
+msgid "200 Extra Light"
+msgstr "200 خیلی نازک"
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:42
+msgid "300 Light"
+msgstr "300 سبک"
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:43
+msgid "400 Regular"
+msgstr "400 معمولی"
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:44
+msgid "500 Medium"
+msgstr "500 متوسط"
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:45
+msgid "600 Semi-Bold"
+msgstr "600 نیمه ضخیم"
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:46
+msgid "700 Bold"
+msgstr "700 ضخیم"
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:47
+msgid "800 Extra-Bold"
+msgstr "800 خیلی ضخیم"
+
+#: admin/dashboard/includes/class-bcf-custom-font-families.php:48
+msgid "900 Ultra-Bold"
+msgstr "900 فوق ضخیم"
+
+#: includes/class-bsf-custom-fonts-admin.php:132
+#: includes/class-bsf-custom-fonts-admin.php:217
+msgid "Add Font Variation"
+msgstr "افزودن متغیر فونت"
+
+#: includes/class-bsf-custom-fonts-posttype.php:89
+#: includes/class-bsf-custom-fonts-posttype.php:91
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:92
+msgid "Add New Font"
+msgstr "افزودن فونت جدید"
+
+#: includes/class-bsf-custom-fonts-admin.php:144
+#: includes/class-bsf-custom-fonts-admin.php:234
+msgid ""
+"Add the font's fallback names with comma(,) separator.  eg. Arial, Serif"
+msgstr ""
+"نام‌های جایگزین فونت را با جداکننده کاما انگلیسی (,) اضافه کنید. به عنوان "
+"مثال: Arial, Serif"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:85
+msgctxt "Admin menu name"
+msgid "Custom Fonts"
+msgstr "فونت‌های سفارشی"
+
+#: includes/class-bsf-custom-fonts-posttype.php:86
+#: includes/class-bsf-custom-fonts-taxonomy.php:87
+msgid "All Fonts"
+msgstr "همه فونت‌ها"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr ""
+"به محصولات %s اجازه دهید که برای بهبود آپدیت‌های آینده داده‌های غیرحساس را "
+"ردیابی کند."
+
+#: includes/class-bsf-custom-fonts-admin.php:177
+#: includes/class-bsf-custom-fonts-admin.php:278
+msgid "Bold 700"
+msgstr "ضخیم ۷۰۰"
+
+#. Author of the plugin/theme
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#: classes/class-bsf-custom-fonts-render.php:176
+msgid "Custom"
+msgstr "سفارشی"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Fonts"
+msgstr "فونت‌های سفارشی"
+
+#: includes/white-label.php:18 includes/white-label.php:23
+msgid "Custom Fonts Branding"
+msgstr "نام تجاری فونت های سفارشی"
+
+#. translators: 1: Astra theme from wordpress.org
+#: classes/class-bsf-custom-fonts-render.php:444
+msgid "Custom Fonts Plugin requires minimum 1.0.16 version of the Astra Theme."
+msgstr "افزونه فونت های سفارشی به حداقل نسخه 1.0.16 قالب آسترا نیاز دارد."
+
+#: includes/class-bsf-custom-fonts-posttype.php:87
+#: includes/class-bsf-custom-fonts-taxonomy.php:90
+msgid "Edit Font"
+msgstr "ویرایش فونت"
+
+#. translators: 1: Custom Fonts, 2: Plugin rating link
+#: admin/dashboard/includes/class-bsf-custom-fonts-menu.php:579
+msgid ""
+"Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your "
+"support!"
+msgstr ""
+"از %1$s لذت می برید؟ لطفاً یک امتیاز %2$s برای ما بگذارید. ما جدا از "
+"پشتیبانی شما قدردانی می کنیم!"
+
+#: includes/class-bsf-custom-fonts-admin.php:178
+#: includes/class-bsf-custom-fonts-admin.php:279
+msgid "Extra-Bold 800"
+msgstr "خیلی ضخیم ۸۰۰"
+
+#: includes/class-bsf-custom-fonts-admin.php:172
+#: includes/class-bsf-custom-fonts-admin.php:273
+msgid "Extra-Light 200"
+msgstr "خیلی سبک ۲۰۰"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:84
+msgid "Font"
+msgstr "فونت"
+
+#: includes/class-bsf-custom-fonts-admin.php:185
+#: includes/class-bsf-custom-fonts-admin.php:293
+msgid "Font .eot"
+msgstr "فونت .eot"
+
+#: includes/class-bsf-custom-fonts-admin.php:187
+#: includes/class-bsf-custom-fonts-admin.php:297
+msgid "Font .otf"
+msgstr "فونت .otf"
+
+#: includes/class-bsf-custom-fonts-admin.php:186
+#: includes/class-bsf-custom-fonts-admin.php:295
+msgid "Font .svg"
+msgstr "فونت .svg"
+
+#: includes/class-bsf-custom-fonts-admin.php:184
+#: includes/class-bsf-custom-fonts-admin.php:291
+msgid "Font .ttf"
+msgstr "فونت .ttf"
+
+#: includes/class-bsf-custom-fonts-admin.php:183
+#: includes/class-bsf-custom-fonts-admin.php:289
+msgid "Font .woff"
+msgstr "فونت .woff"
+
+#: includes/class-bsf-custom-fonts-admin.php:182
+#: includes/class-bsf-custom-fonts-admin.php:287
+msgid "Font .woff2"
+msgstr "فونت .woff2"
+
+#: includes/class-bsf-custom-fonts-admin.php:148
+#: includes/class-bsf-custom-fonts-admin.php:238
+msgid "Font Display"
+msgstr "نمایش فونت"
+
+#: includes/class-bsf-custom-fonts-admin.php:144
+#: includes/class-bsf-custom-fonts-admin.php:234
+msgid "Font Fallback"
+msgstr "فونت بازگشتی"
+
+#: includes/class-bsf-custom-fonts-posttype.php:83
+msgctxt "font general name"
+msgid "Custom Fonts"
+msgstr "فونت‌های سفارشی"
+
+#: includes/class-bsf-custom-fonts-posttype.php:84
+msgctxt "font singular name"
+msgid "Font"
+msgstr "فونت"
+
+#: includes/class-bsf-custom-fonts-admin.php:168
+#: includes/class-bsf-custom-fonts-admin.php:269
+msgid "Font weight"
+msgstr "وزن فونت"
+
+#. Author URI of the plugin/theme
+msgid "http://www.brainstormforce.com"
+msgstr "http://www.brainstormforce.com"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wpastra.com/"
+msgstr "http://www.wpastra.com/"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "بیشتر بدانید."
+
+#: includes/class-bsf-custom-fonts-admin.php:173
+#: includes/class-bsf-custom-fonts-admin.php:274
+msgid "Light 300"
+msgstr "سبک ۳۰۰"
+
+#: includes/class-bsf-custom-fonts-admin.php:175
+#: includes/class-bsf-custom-fonts-admin.php:276
+msgid "Medium 500"
+msgstr "متوسط ۵۰۰"
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-menu.php:88
+#: includes/class-bsf-custom-fonts-taxonomy.php:83
+msgctxt "Menu title"
+msgid "Custom Fonts"
+msgstr "فونت‌های سفارشی"
+
+#: includes/class-bsf-custom-fonts-posttype.php:92
+#: includes/class-bsf-custom-fonts-taxonomy.php:93
+msgid "New Font Name"
+msgstr "نام فونت جدید"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:94
+msgid "No fonts found"
+msgstr "هیچ فونتی پیدا نشد"
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:60
+msgid "No post data found!"
+msgstr "هیچ دادهٔ ارسالی یافت نشد!"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "نه ممنونم"
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:58
+msgid "Nonce validation failed"
+msgstr "تأییدیه Nonce ناموفق بود"
+
+#: includes/class-bsf-custom-fonts-admin.php:174
+#: includes/class-bsf-custom-fonts-admin.php:275
+msgid "Normal 400"
+msgstr "عادی ۴۰۰"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:88
+msgid "Parent Font"
+msgstr "فونت والد"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:89
+msgid "Parent Font:"
+msgstr "فونت والد:"
+
+#: includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr "توضیحات افزونه:"
+
+#: includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr "نام افزونه:"
+
+#: includes/class-bsf-custom-fonts-admin.php:124
+#: includes/class-bsf-custom-fonts-admin.php:305
+msgid "Remove"
+msgstr "حذف کردن"
+
+#: includes/class-bsf-custom-fonts-posttype.php:85
+msgid "Search Font"
+msgstr "جستجو فونت"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:86
+msgid "Search Fonts"
+msgstr "جستجوی فونت‌ها"
+
+#: includes/class-bsf-custom-fonts-admin.php:149
+#: includes/class-bsf-custom-fonts-admin.php:239
+msgid "Select font-display property for this font"
+msgstr "ویژگی font-display را برای این فونت انتخاب کنید"
+
+#: includes/class-bsf-custom-fonts-admin.php:169
+#: includes/class-bsf-custom-fonts-admin.php:270
+msgid "Select font-weight property for this font"
+msgstr "ویژگی font-weight را برای این فونت انتخاب کنید"
+
+#: includes/class-bsf-custom-fonts-admin.php:176
+#: includes/class-bsf-custom-fonts-admin.php:277
+msgid "Semi-Bold 600"
+msgstr "600 نیمه ضخیم"
+
+#: classes/class-bsf-custom-fonts-white-label.php:78
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:59
+msgid "Sorry, something went wrong."
+msgstr "متأسفانه، خطایی رخ داده است."
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:57
+msgid "Sorry, you are not allowed to do this operation."
+msgstr "متأسفانه، شما مجاز به انجام این عملیات نیستید."
+
+#: includes/class-custom-fonts-api-init.php:176
+msgid "Sorry, you cannot list resources."
+msgstr "متأسفانه، شما نمی‌توانید منابع را لیست کنید."
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:147
+msgid "Successfully created the Font!"
+msgstr "فونت با موفقیت ایجاد شد!"
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:210
+msgid "Successfully created the Font! "
+msgstr "فونت با موفقیت ایجاد شد! "
+
+#: includes/class-bcf-google-fonts-compatibility.php:711
+msgid "Successfully deleted font."
+msgstr "فونت با موفقیت حذف شد."
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:306
+msgid "Successfully deleted the Font!"
+msgstr "فونت با موفقیت حذف شد!"
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:261
+msgid "Successfully updated the Font!"
+msgstr "فونت با موفقیت به‌روزرسانی شد!"
+
+#: admin/dashboard/includes/class-bsf-custom-fonts-admin-ajax.php:335
+msgid "Switched preloading fonts!"
+msgstr "فونت‌های پیش‌بارگیری تغییر کردند!"
+
+#: includes/class-bcf-google-fonts-compatibility.php:686
+msgid "There was some error in deleting the font."
+msgstr "در حذف فونت خطایی وجود داشت."
+
+#: includes/class-bsf-custom-fonts-admin.php:171
+#: includes/class-bsf-custom-fonts-admin.php:272
+msgid "Thin 100"
+msgstr "نازک ۱۰۰"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "این گزینه برای همۀ سایت‌های شبکه قابل اجرا خواهد بود."
+
+#: includes/class-bsf-custom-fonts-admin.php:179
+#: includes/class-bsf-custom-fonts-admin.php:280
+msgid "Ultra-Bold 900"
+msgstr "فوق ضخیم ۹۰۰"
+
+#: includes/class-bsf-custom-fonts-posttype.php:90
+#: includes/class-bsf-custom-fonts-taxonomy.php:91
+msgid "Update Font"
+msgstr "به‌روزرسانی فونت"
+
+#: includes/class-bsf-custom-fonts-admin.php:351
+#: includes/class-bsf-custom-fonts-admin.php:511
+msgid "Upload"
+msgstr "آپلود"
+
+#: includes/class-bsf-custom-fonts-admin.php:185
+#: includes/class-bsf-custom-fonts-admin.php:293
+msgid "Upload the font's eot file or enter the URL."
+msgstr "فایل فونت eot را بارگذاری کنید یا آدرس آن را وارد کنید."
+
+#: includes/class-bsf-custom-fonts-admin.php:187
+#: includes/class-bsf-custom-fonts-admin.php:297
+msgid "Upload the font's otf file or enter the URL."
+msgstr "فایل فونت otf را بارگذاری کنید یا آدرس آن را وارد کنید."
+
+#: includes/class-bsf-custom-fonts-admin.php:186
+#: includes/class-bsf-custom-fonts-admin.php:295
+msgid "Upload the font's svg file or enter the URL."
+msgstr "فایل فونت svg را بارگذاری کنید یا آدرس آن را وارد کنید."
+
+#: includes/class-bsf-custom-fonts-admin.php:184
+#: includes/class-bsf-custom-fonts-admin.php:291
+msgid "Upload the font's ttf file or enter the URL."
+msgstr "فایل فونت ttf را بارگذاری کنید یا آدرس آن را وارد کنید."
+
+#: includes/class-bsf-custom-fonts-admin.php:183
+#: includes/class-bsf-custom-fonts-admin.php:289
+msgid "Upload the font's woff file or enter the URL."
+msgstr "فایل فونت woff را بارگذاری کنید یا آدرس آن را وارد کنید."
+
+#: includes/class-bsf-custom-fonts-admin.php:182
+#: includes/class-bsf-custom-fonts-admin.php:287
+msgid "Upload the font's woff2 file or enter the URL."
+msgstr "فایل فونت woff2 را بارگذاری کنید یا آدرس آن را وارد کنید."
+
+#. Description of the plugin/theme
+msgid ""
+"Upload your own custom font or choose from a vast collection of Google fonts,"
+" all hosted directly on your server. Enjoy improved performance, enhanced "
+"privacy, and full site editing theme support. Take control of your website's "
+"typography without compromising performance, privacy or compliance!"
+msgstr ""
+"فونت سفارشی خود را بارگذاری کنید یا از مجموعه‌ای گسترده از فونت‌های گوگل "
+"استفاده کنید که همه مستقیماً در سرور شما میزبانی می‌شوند. از بهبود عملکرد، "
+"حفظ حریم خصوصی و پشتیبانی از قالب ویرایش کامل سایت لذت ببرید. کنترل کاملی بر "
+"تایپوگرافی وب‌سایت خود را بدون تخریب عملکرد، حفظ حریم خصوصی یا رعایت مقررات "
+"داشته باشید!"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "ردیابی استفاده"
+
+#: includes/class-bsf-custom-fonts-posttype.php:88
+msgid "View Font"
+msgstr "مشاهده فونت"
+
+#: classes/class-bsf-custom-fonts-white-label.php:78
+msgid "visit the plugin settings page"
+msgstr "به صفحه تنظیمات افزونه مراجعه کنید"
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid ""
+"Want to help make <strong>%1s</strong> even more awesome? Allow us to "
+"collect non-sensitive diagnostic data and usage information. "
+msgstr ""
+"می‌خواهید به بهبود <strong>%1s</strong> کمک کنید؟ به ما اجازه دهید اطلاعات "
+"تشخیصی غیرحساس و اطلاعات استفاده را جمع آوری کنیم. "
+
+#: lib/notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "وردپرس Nonce تایید نشده است."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "البته! اجازه می‌دهم"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:95
+msgid "← Go to Fonts"
+msgstr "← به فونت‌ها بروید"
