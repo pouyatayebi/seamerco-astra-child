@@ -1,0 +1,305 @@
+/* =========================
+   SEAMERCO HEADER
+========================= */
+
+.seamerco-main-menu button,
+.seamerco-main-menu .wp-block-navigation__submenu-icon {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+.seamerco-main-menu .wp-block-navigation__container {
+  display: flex !important;
+  align-items: center !important;
+  gap: 2rem;
+}
+
+.seamerco-main-menu .wp-block-navigation-item__content {
+  color: var(--ast-global-color-5) !important;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: color 0.25s ease;
+}
+
+.seamerco-main-menu .wp-block-navigation-item__content:hover,
+.seamerco-main-menu .current-menu-item > .wp-block-navigation-item__content,
+.seamerco-main-menu .current-menu-ancestor > .wp-block-navigation-item__content,
+.seamerco-main-menu .current-menu-parent > .wp-block-navigation-item__content {
+  color: var(--ast-global-color-0) !important;
+}
+
+.seamerco-main-menu .wp-block-navigation__submenu-icon {
+  margin-right: 0.35rem;
+  color: var(--ast-global-color-0);
+}
+
+.seamerco-main-menu .wp-block-navigation__submenu-icon svg {
+  width: 12px;
+  height: 12px;
+}
+
+.seamerco-main-menu .wp-block-navigation__submenu-icon svg path {
+  stroke: var(--ast-global-color-0) !important;
+}
+
+.seamerco-main-menu .wp-block-navigation__submenu-container {
+  background: var(--ast-global-color-5) !important;
+  border: 1px solid color-mix(in srgb, var(--ast-global-color-8) 10%, transparent);
+  box-shadow: 0 20px 40px color-mix(in srgb, var(--ast-global-color-8) 15%, transparent);
+  min-width: 260px;
+  padding: 0.5rem 0;
+}
+
+.seamerco-main-menu .wp-block-navigation__submenu-container .wp-block-navigation-item__content {
+  color: var(--ast-global-color-2) !important;
+  font-size: 0.92rem;
+  padding: 0.8rem 1rem !important;
+  white-space: nowrap;
+}
+
+.seamerco-main-menu .wp-block-navigation__submenu-container .wp-block-navigation-item__content:hover {
+  background: var(--ast-global-color-0) !important;
+  color: var(--ast-global-color-5) !important;
+}
+
+/* =========================
+   TABLET + MOBILE
+========================= */
+
+@media (max-width: 921px) {
+  body:has(.seamerco-main-menu .wp-block-navigation__responsive-container.is-menu-open) {
+    overflow: hidden !important;
+  }
+
+  .seamerco-header-container {
+    padding: 0.75rem 1rem;
+  }
+
+  .seamerco-header-container > .uagb-container-inner-blocks-wrap {
+    justify-content: space-between !important;
+    flex-direction: row !important;
+    direction: ltr !important;
+    min-height: 64px;
+  }
+
+  .seamerco-header-logo {
+    order: 2;
+    margin: 0 !important;
+  }
+
+  .seamerco-header-logo img {
+    width: 118px;
+  }
+
+  .seamerco-header-nav {
+    order: 1;
+    margin: 0 !important;
+    flex: 0 0 auto;
+  }
+
+  .seamerco-header-actions {
+    display: none !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__container {
+    display: none !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-open {
+    position: relative;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 42px !important;
+    height: 42px !important;
+    color: var(--ast-global-color-0) !important;
+    background: transparent !important;
+    border: 0 !important;
+    padding: 0 !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-open svg {
+    display: none !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-open::before {
+    content: "";
+    width: 28px;
+    height: 2px;
+    background: var(--ast-global-color-0);
+    border-radius: 999px;
+    box-shadow:
+      0 -8px 0 var(--ast-global-color-0),
+      0 8px 0 var(--ast-global-color-0);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container {
+    display: none !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container.is-menu-open {
+    display: block !important;
+    position: fixed !important;
+    inset: 0 !important;
+    z-index: 999999 !important;
+    width: 100vw !important;
+    height: 100dvh !important;
+    max-height: 100dvh !important;
+    overflow-y: auto !important;
+    background: var(--ast-global-color-2) !important;
+    padding: 5rem 1.25rem 2rem !important;
+    margin: 0 !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-close,
+  .seamerco-main-menu .wp-block-navigation__responsive-dialog,
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content {
+    width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-close {
+    position: fixed !important;
+    top: 1.25rem !important;
+    left: 1.25rem !important;
+    right: auto !important;
+    z-index: 1000000 !important;
+    width: 42px !important;
+    height: 42px !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: var(--ast-global-color-0) !important;
+    background: transparent !important;
+    border-radius: 0;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-close svg {
+    display: none !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-close::before,
+  .seamerco-main-menu .wp-block-navigation__responsive-container-close::after {
+    content: "";
+    position: absolute;
+    width: 28px;
+    height: 2px;
+    background: var(--ast-global-color-0);
+    border-radius: 999px;
+    transition: transform 0.25s ease;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-close::before {
+    transform: rotate(45deg);
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-close::after {
+    transform: rotate(-45deg);
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content,
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content .wp-block-navigation__container {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 0.45rem !important;
+    width: 100%;
+    direction: rtl !important;
+    text-align: right !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content .wp-block-navigation-item {
+    position: relative;
+    width: 100%;
+    border-bottom: 0 !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content > ul > li > .wp-block-navigation-item__content {
+    color: var(--ast-global-color-5) !important;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.6;
+    padding: 0.95rem 1rem 0.95rem 3rem !important;
+    border-radius: 0.85rem;
+    background: color-mix(in srgb, var(--ast-global-color-5) 5%, transparent);
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content > ul > li.seamerco-mobile-open > .wp-block-navigation-item__content,
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content > ul > li.current-menu-item > .wp-block-navigation-item__content,
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content > ul > li.current-menu-ancestor > .wp-block-navigation-item__content {
+    color: var(--ast-global-color-0) !important;
+    background: color-mix(in srgb, var(--ast-global-color-5) 9%, transparent);
+  }
+
+  .seamerco-main-menu .wp-block-navigation__responsive-container-content .wp-block-navigation__submenu-icon {
+    display: none !important;
+  }
+
+  .seamerco-mobile-toggle {
+    position: absolute;
+    left: 0.75rem;
+    top: 0.78rem;
+    width: 2.15rem;
+    height: 2.15rem;
+    border: 0;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--ast-global-color-5) 8%, transparent) !important;
+    color: var(--ast-global-color-0);
+    cursor: pointer;
+    z-index: 5;
+  }
+
+  .seamerco-mobile-toggle::before {
+    content: "";
+    width: 0.48rem;
+    height: 0.48rem;
+    display: block;
+    margin: auto;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(45deg) translate(-0.05rem, -0.05rem);
+    transition: transform 0.25s ease;
+  }
+
+  .seamerco-mobile-open > .seamerco-mobile-toggle::before {
+    transform: rotate(225deg) translate(-0.05rem, -0.05rem);
+  }
+
+  .seamerco-main-menu .wp-block-navigation__submenu-container {
+    display: none !important;
+    position: static !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    background: color-mix(in srgb, var(--ast-global-color-8) 12%, transparent) !important;
+    border: 1px solid color-mix(in srgb, var(--ast-global-color-5) 8%, transparent) !important;
+    box-shadow: none !important;
+    border-radius: 0.85rem;
+    padding: 0.45rem 0 !important;
+    margin: 0.45rem 0 0.25rem !important;
+  }
+
+  .seamerco-main-menu .seamerco-mobile-open > .wp-block-navigation__submenu-container {
+    display: block !important;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__submenu-container .wp-block-navigation-item__content {
+    color: color-mix(in srgb, var(--ast-global-color-5) 82%, transparent) !important;
+    font-size: 0.92rem;
+    font-weight: 500;
+    line-height: 1.7;
+    padding: 0.55rem 1rem 0.55rem 2.5rem !important;
+    border-radius: 0.6rem;
+  }
+
+  .seamerco-main-menu .wp-block-navigation__submenu-container .wp-block-navigation-item__content:hover {
+    color: var(--ast-global-color-5) !important;
+    background: color-mix(in srgb, var(--ast-global-color-5) 6%, transparent);
+  }
+}

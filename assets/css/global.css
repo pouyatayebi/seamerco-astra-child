@@ -151,3 +151,32 @@ button {
   line-height: 1.8;
   color: #475467;
 }
+
+/* Smooth transitions - global */
+a,
+button,
+.wp-block-navigation-item__content,
+.wp-block-navigation__submenu-icon svg path {
+  transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease, transform 0.25s ease;
+}
+
+input,
+textarea,
+select {
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+video,
+iframe,
+canvas {
+  transition: none !important;
+}
+
+:root {
+  /* =========================
+     BREAKPOINTS
+  ========================= */
+
+  --sm-breakpoint-mobile: 544px;
+  --sm-breakpoint-tablet: 921px;
+}
