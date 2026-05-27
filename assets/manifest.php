@@ -14,3 +14,5 @@ return [
 		'seamerco-process-section' => 'js/seamerco-process-section.js',
 	],
 ];
+// =========================manifest.php=========================
+/// Git deploy test - 2026-05-27
